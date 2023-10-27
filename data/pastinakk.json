@@ -1,0 +1,3615 @@
+{
+    "data": [
+        [
+            {
+                "id": 587,
+                "name": "Maispuffer Gulrot&Pastinakk \u00d8kol 20g Ellas",
+                "brand": "Ellas",
+                "vendor": "Jensen & co as",
+                "ean": "5060503500013",
+                "url": "https://meny.no/Varer/barneprodukter/barnekjeks/maispuffer-5060503500013",
+                "image": "https://bilder.ngdata.no/5060503500013/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 16,
+                        "depth": -1,
+                        "name": "Barneprodukter"
+                    },
+                    {
+                        "id": 239,
+                        "depth": 0,
+                        "name": "Barnekjeks"
+                    }
+                ],
+                "description": "Smakfulle \u00f8kologiske maispuffer med smak av gulrot + pastinakk. Fingermat som smelter i munnen og passer fint for de minste fra 6 mnd. Posen har en \u00e5pne/lukke funksjon som gir lite s\u00f8l i stelleveksen n\u00e5r du er p\u00e5 farten!",
+                "ingredients": "72% maismel*, 15% solsikkeolje*, 8% t\u00f8rkede gulr\u00f8tter*, 4% t\u00f8rkede pastinakker*,<1% hvetekli*, <1% t\u00f8rket l\u00f8k*, <1% tiamin (vitamin b1). *= \u00f8kologisk",
+                "current_price": 31,
+                "current_unit_price": 1550,
+                "weight": 20,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 31,
+                        "date": "2023-10-27T07:05:55.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-27T07:03:43.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-27T07:01:42.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-26T07:05:46.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-26T07:03:42.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-26T07:01:47.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-25T07:05:39.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-25T07:03:34.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-25T07:01:39.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-24T07:06:16.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-24T07:04:07.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-24T07:01:48.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-23T07:06:05.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-23T07:03:58.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-23T07:01:42.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-22T07:06:22.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-22T07:03:59.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-22T07:01:51.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-21T07:05:50.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-21T07:03:48.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-21T07:01:25.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-20T07:06:43.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-20T07:04:17.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-20T07:01:50.000000Z"
+                    },
+                    {
+                        "price": 31,
+                        "date": "2023-10-19T07:06:01.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "gluten",
+                        "display_name": "Gluten",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "melk",
+                        "display_name": "Melk",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 420,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 1765,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 15.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 59.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 1.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 6.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 4.5,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-09T19:29:01.000000Z",
+                "updated_at": "2023-10-27T07:05:55.000000Z"
+            },
+            {
+                "id": 2697,
+                "name": "Ellas Kitchen Gulrot/Eple/Pastinakk 4md 120g",
+                "brand": "ELLAS",
+                "vendor": "JENSEN & CO AS",
+                "ean": "5060107330214",
+                "url": "https://matlevering.coop.no/baby-og-barn/barnemat/matglass/ellas-k.-gulroteplepastin.4m",
+                "image": "https://cdcimg.coop.no/rte/RTE2/5060107330214.png",
+                "category": null,
+                "description": null,
+                "ingredients": "49% \u00f8kologisk most eple, 31% \u00f8kologisk most gulrot, 20% \u00f8kologisk most pastinakk, \u00f8kologisk kosentrert sitronsaft.",
+                "current_price": 29.5,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Coop",
+                    "code": "COOP_NO",
+                    "url": "https://matlevering.coop.no",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Coop.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 29.5,
+                        "date": "2023-01-30T09:30:58.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2023-01-15T10:57:58.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2023-01-12T14:07:58.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2023-01-10T11:48:34.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2023-01-08T18:40:14.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2023-01-05T14:27:56.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2023-01-03T07:50:03.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2023-01-02T07:04:00.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-12-29T19:19:26.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-12-28T15:34:09.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-12-27T14:01:31.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-12-21T22:28:53.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-12-19T15:12:00.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-12-14T06:58:45.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-12-11T21:12:33.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-12-09T16:29:24.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-12-04T15:14:38.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-11-24T14:31:11.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-11-21T06:25:49.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-11-18T23:42:51.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-11-14T10:59:07.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-11-10T08:58:44.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-11-07T19:11:54.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-11-04T18:42:54.000000Z"
+                    },
+                    {
+                        "price": 29.5,
+                        "date": "2022-10-31T22:19:11.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 48,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 201,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 10.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 1.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.04,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 9.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "debio",
+                        "display_name": "Debio",
+                        "description": "Debio-merket er det offisielle norske \u00f8kologimerket og gir en garanti for at en vare er \u00f8kologisk dyrket.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Debio-merket er det offisielle norske merket for \u00f8kologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med \u00f8kologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio \u00f8kologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som f\u00f8lges for \u00e5 oppn\u00e5 Debio-sertifisering.<br><br></div><div>For \u00e5 bli merket som \u00f8kologisk av Debio, m\u00e5 produkter gjennomg\u00e5 inspeksjoner og oppfylle strenge krav hvert \u00e5r. Debio samarbeider tett med Mattilsynet for \u00e5 sikre at \u00f8kologisk produksjon og merking f\u00f8lger forskriftene om \u00f8kologisk produksjon og merking av \u00f8kologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole p\u00e5 at Debio-merket indikerer ekte \u00f8kologiske produkter.<br><br></div><div>Debio-merket er et p\u00e5litelig symbol for forbrukere som \u00f8nsker \u00e5 velge \u00f8kologiske alternativer og st\u00f8tte en b\u00e6rekraftig matproduksjon i Norge. Ved \u00e5 se etter Debio-merket, kan forbrukere enkelt identifisere og kj\u00f8pe produkter som er i tr\u00e5d med deres \u00f8nske om \u00e5 spise \u00f8kologisk.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Debio.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Debio.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    },
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-09T19:29:37.000000Z",
+                "updated_at": "2023-07-16T23:33:25.000000Z"
+            },
+            {
+                "id": 10258,
+                "name": "Pastinakk Kg",
+                "brand": null,
+                "vendor": "Bama dagligvare  as",
+                "ean": "2000436300000",
+                "url": "https://spar.no/nettbutikk/varer/frukt-og-gront/gronnsaker/rotgronnsaker/pastinakk/pastinakk-2000436300000",
+                "image": "https://bilder.ngdata.no/4363/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 1,
+                        "depth": -2,
+                        "name": "Frukt & gr\u00f8nt"
+                    },
+                    {
+                        "id": 11,
+                        "depth": -1,
+                        "name": "Gr\u00f8nnsaker"
+                    },
+                    {
+                        "id": 21,
+                        "depth": 0,
+                        "name": "Rotgr\u00f8nnsaker"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 25.17,
+                "current_unit_price": 89.89,
+                "weight": 280,
+                "weight_unit": "g",
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-27T07:07:03.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-27T07:04:55.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-27T07:02:50.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-26T07:04:22.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-26T07:02:33.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-25T07:04:41.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-25T07:02:45.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-24T07:07:21.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-24T07:05:17.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-24T07:03:21.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-23T07:07:27.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-23T07:05:55.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-23T07:03:31.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-22T07:05:33.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-22T07:03:44.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-21T07:05:17.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-21T07:03:35.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-20T07:04:50.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-20T07:03:06.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-19T07:05:07.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-19T07:03:16.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-18T07:05:19.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-18T07:03:33.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-17T07:05:20.000000Z"
+                    },
+                    {
+                        "price": 25.17,
+                        "date": "2023-10-17T07:03:24.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "UNKNOWN"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 65,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 272,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 11.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 3.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 5.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:48:11.000000Z",
+                "updated_at": "2023-10-27T07:07:03.000000Z"
+            },
+            {
+                "id": 17742,
+                "name": "Pastinakk Kg",
+                "brand": null,
+                "vendor": "Bama dagligvare  as",
+                "ean": "2000436300000",
+                "url": "https://meny.no/Varer/frukt-gront/gronnsaker/rotgronnsaker/pastinakk/pastinakk-2000436300000",
+                "image": "https://bilder.ngdata.no/4363/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 1,
+                        "depth": -2,
+                        "name": "Frukt & gr\u00f8nt"
+                    },
+                    {
+                        "id": 11,
+                        "depth": -1,
+                        "name": "Gr\u00f8nnsaker"
+                    },
+                    {
+                        "id": 21,
+                        "depth": 0,
+                        "name": "Rotgr\u00f8nnsaker"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 27.72,
+                "current_unit_price": 99,
+                "weight": 280,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-27T07:02:17.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-26T07:06:17.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-26T07:04:33.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-26T07:00:45.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-25T07:06:23.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-25T07:04:28.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-25T07:02:02.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-24T07:06:24.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-24T07:04:27.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-24T07:00:48.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-23T07:06:11.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-23T07:04:24.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-23T07:00:45.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-22T07:06:19.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-22T07:04:27.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-22T07:00:48.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-21T07:00:40.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-20T07:06:07.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-20T07:04:24.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-20T07:00:46.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-19T07:00:38.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-18T07:05:55.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-18T07:04:13.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-18T07:00:42.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-17T07:06:05.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "UNKNOWN"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 65,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 272,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 11.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 3.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 5.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:55:28.000000Z",
+                "updated_at": "2023-10-27T07:02:17.000000Z"
+            },
+            {
+                "id": 27041,
+                "name": "Eple, Gulrot + Pastinakk Fra 4 mnd, \u00d8kologisk, 120 g",
+                "brand": "Ella's Kitchen",
+                "vendor": "Jensen & Co AS",
+                "ean": "5060107330214",
+                "url": "https://oda.com/no/products/26589-ellas-kitchen-eple-gulrot-pastinakk-fra-4-mnd-okol/",
+                "image": "https://bilder.kolonial.no/local_products/f50954b0-48da-4b6c-86aa-e1fdb0c14010.jpg?auto=format&fit=max&w=371&s=c4322f197c448fbeb47443125cccd7b6",
+                "category": [
+                    {
+                        "id": 26,
+                        "depth": -1,
+                        "name": "Drikke"
+                    },
+                    {
+                        "id": 27,
+                        "depth": 0,
+                        "name": "Smoothie"
+                    }
+                ],
+                "description": "",
+                "ingredients": "49% \u00f8kologisk most eple, 31% \u00f8kologisk most gulrot, 20% \u00f8kologisk most pastinakk, \u00f8kologisk kosentrert sitronsaft.",
+                "current_price": 44.2,
+                "current_unit_price": 44.2,
+                "weight": 1,
+                "weight_unit": "piece",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 44.2,
+                        "date": "2023-10-12T07:13:26.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-10-11T07:13:49.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-10-10T07:12:58.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-10-09T07:15:16.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-10-08T07:14:13.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-10-07T07:12:14.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-10-06T07:14:29.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-10-05T07:14:07.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-10-04T07:13:47.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-10-03T07:14:20.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-10-02T07:14:46.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-10-01T07:13:30.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-09-30T07:13:22.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-09-29T07:15:31.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-09-28T07:13:07.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-09-27T07:11:46.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-09-26T07:13:15.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-09-25T07:14:06.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-09-24T07:14:20.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-09-23T07:12:42.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-09-22T07:14:08.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-09-21T07:12:26.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-09-20T07:15:05.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-09-19T07:12:43.000000Z"
+                    },
+                    {
+                        "price": 44.2,
+                        "date": "2023-09-18T07:12:29.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 48,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 201,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 10.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 1.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.04,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 9.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "debio",
+                        "display_name": "Debio",
+                        "description": "Debio-merket er det offisielle norske \u00f8kologimerket og gir en garanti for at en vare er \u00f8kologisk dyrket.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Debio-merket er det offisielle norske merket for \u00f8kologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med \u00f8kologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio \u00f8kologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som f\u00f8lges for \u00e5 oppn\u00e5 Debio-sertifisering.<br><br></div><div>For \u00e5 bli merket som \u00f8kologisk av Debio, m\u00e5 produkter gjennomg\u00e5 inspeksjoner og oppfylle strenge krav hvert \u00e5r. Debio samarbeider tett med Mattilsynet for \u00e5 sikre at \u00f8kologisk produksjon og merking f\u00f8lger forskriftene om \u00f8kologisk produksjon og merking av \u00f8kologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole p\u00e5 at Debio-merket indikerer ekte \u00f8kologiske produkter.<br><br></div><div>Debio-merket er et p\u00e5litelig symbol for forbrukere som \u00f8nsker \u00e5 velge \u00f8kologiske alternativer og st\u00f8tte en b\u00e6rekraftig matproduksjon i Norge. Ved \u00e5 se etter Debio-merket, kan forbrukere enkelt identifisere og kj\u00f8pe produkter som er i tr\u00e5d med deres \u00f8nske om \u00e5 spise \u00f8kologisk.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Debio.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Debio.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    },
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-09T19:57:23.000000Z",
+                "updated_at": "2023-10-12T07:13:26.000000Z"
+            },
+            {
+                "id": 27695,
+                "name": "Ellas Kitchen Maizepuffs Gulrot/Pastinakk 6md 20g",
+                "brand": "ELLAS",
+                "vendor": "JENSEN & CO AS",
+                "ean": "5060503500013",
+                "url": "https://matlevering.coop.no/baby-og-barn/barnemat/babysnacks/ellas-k.maizepuf.gul.pas.6m-20g",
+                "image": "https://cdcimg.coop.no/rte/RTE2/5060503500013.png",
+                "category": [
+                    {
+                        "id": 16,
+                        "depth": -1,
+                        "name": "Barneprodukter"
+                    },
+                    {
+                        "id": 239,
+                        "depth": 0,
+                        "name": "Barnekjeks"
+                    }
+                ],
+                "description": null,
+                "ingredients": "72% maismel*, 15% solsikkeolje*, 8% t\u00f8rkede gulr\u00f8tter*, 4% t\u00f8rkede pastinakker*,<1% hvetekli*, <1% t\u00f8rket l\u00f8k*, <1% tiamin (vitamin B1). *= \u00d8kologisk",
+                "current_price": 25.5,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Coop",
+                    "code": "COOP_NO",
+                    "url": "https://matlevering.coop.no",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Coop.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 25.5,
+                        "date": "2023-01-30T09:31:55.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2023-01-15T10:59:09.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2023-01-12T14:09:48.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2023-01-10T11:49:21.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2023-01-08T18:41:17.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2023-01-05T14:28:33.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2023-01-03T07:50:55.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2023-01-02T07:05:12.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-12-29T19:20:05.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-12-28T15:34:54.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-12-27T14:02:23.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-12-21T22:29:39.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-12-19T15:13:04.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-12-14T06:59:39.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-12-11T21:13:14.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-12-09T16:30:12.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-12-04T15:17:20.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-11-24T14:32:55.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-11-21T06:27:13.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-11-18T23:43:34.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-11-14T10:59:52.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-11-10T08:59:43.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-11-07T19:12:42.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-11-04T18:43:45.000000Z"
+                    },
+                    {
+                        "price": 25.5,
+                        "date": "2022-10-31T22:20:04.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "gluten",
+                        "display_name": "Gluten",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "melk",
+                        "display_name": "Melk",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 420,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 1765,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 15.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 59.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 1.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 6.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 4.5,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-09T19:57:33.000000Z",
+                "updated_at": "2023-07-16T23:37:35.000000Z"
+            },
+            {
+                "id": 29316,
+                "name": "Maizepuffs med Gulrot + Pastinakk Fra 6 mnd, \u00d8kologisk, 0,02 kg",
+                "brand": "Ella's Kitchen",
+                "vendor": "Jensen & Co AS",
+                "ean": "5060503500013",
+                "url": "https://oda.com/no/products/27758-ellas-kitchen-maizepuffs-med-gulrot-pastinakk-fra/",
+                "image": "https://bilder.kolonial.no/local_products/6fdfd740-a006-483b-94aa-8489205551e5.jpg?auto=format&fit=max&w=545&s=8219bde5ba2b71b4f89ecca92d3bd867",
+                "category": [
+                    {
+                        "id": 16,
+                        "depth": -1,
+                        "name": "Barneprodukter"
+                    },
+                    {
+                        "id": 239,
+                        "depth": 0,
+                        "name": "Barnekjeks"
+                    }
+                ],
+                "description": "",
+                "ingredients": "72% maismel*, 15% solsikkeolje*, 8% t\u00f8rkede gulr\u00f8tter*, 4% t\u00f8rkede pastinakker*,<1% hvetekli*, <1% t\u00f8rket l\u00f8k*, <1% tiamin (vitamin B1). *= \u00d8kologisk",
+                "current_price": 26.7,
+                "current_unit_price": null,
+                "weight": 0,
+                "weight_unit": "kg",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-27T07:12:47.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-26T07:14:22.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-25T07:12:01.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-24T07:12:19.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-23T07:16:46.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-22T07:13:23.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-21T07:13:41.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-20T07:12:32.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-19T07:12:01.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-18T07:12:39.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-17T07:12:44.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-16T07:14:24.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-15T07:12:35.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-14T07:11:59.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-13T07:15:09.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-12T07:13:09.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-11T07:13:40.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-10T07:12:50.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-09T07:15:00.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-08T07:14:09.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-07T07:12:09.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-06T07:14:12.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-05T07:13:45.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-04T07:13:27.000000Z"
+                    },
+                    {
+                        "price": 26.7,
+                        "date": "2023-10-03T07:13:53.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "gluten",
+                        "display_name": "Gluten",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "melk",
+                        "display_name": "Melk",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 420,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 1765,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 15.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 59.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 1.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "natrium",
+                        "display_name": "Natrium",
+                        "amount": 0.01,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 6.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 4.5,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-09T19:57:57.000000Z",
+                "updated_at": "2023-10-27T07:12:47.000000Z"
+            },
+            {
+                "id": 29539,
+                "name": "Rotmiks Beter, Sellerirot & Pastinakk, Nederland, 1 kg",
+                "brand": null,
+                "vendor": "Netfresh",
+                "ean": null,
+                "url": "https://oda.com/no/products/23217-rotmiks-beter-sellerirot-pastinakk-nederland/",
+                "image": "https://bilder.kolonial.no/produkter/75199a94-cc52-4d8b-8659-caad0ae769b3.jpg?auto=format&fit=max&w=1000&s=ee5ebb1322afd9f1607d690b263e4621",
+                "category": null,
+                "description": "Pakken inneholder 500g beter, 250g sellerirot, 250g pastinakk",
+                "ingredients": null,
+                "current_price": 49.9,
+                "current_unit_price": 49.9,
+                "weight": 1,
+                "weight_unit": "kg",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 49.9,
+                        "date": "2023-10-27T07:14:00.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-10-26T07:15:18.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-10-25T07:12:56.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-10-24T07:12:43.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-10-23T07:16:51.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-10-22T07:14:00.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-10-21T07:14:12.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-10-20T07:13:33.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-10-19T07:12:49.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-10-18T07:13:24.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-17T07:13:22.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-16T07:15:04.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-15T07:13:25.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-14T07:12:49.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-13T07:15:35.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-12T07:13:55.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-11T07:14:08.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-10T07:13:15.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-09T07:15:43.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-08T07:14:37.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-07T07:12:40.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-06T07:14:36.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-05T07:14:04.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-04T07:14:10.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-03T07:14:30.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2022-01-09T19:58:02.000000Z",
+                "updated_at": "2023-10-27T07:14:00.000000Z"
+            },
+            {
+                "id": 32830,
+                "name": "\u00c4nglamark Pastinakk 200g",
+                "brand": "\u00c4NGLAMARK",
+                "vendor": null,
+                "ean": "2000607000005",
+                "url": "https://matlevering.coop.no/frukt-og-gront/gronnsaker/pastinakk-anglamark-200g",
+                "image": "https://cdcimg.coop.no/rte/RTE2/2000607000005.png",
+                "category": null,
+                "description": "\u00c4nglamark er Norges st\u00f8rste gr\u00f8nne produktserie med \u00f8kologiske, milj\u00f8- og allergivennlige varer.",
+                "ingredients": null,
+                "current_price": 32.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Coop",
+                    "code": "COOP_NO",
+                    "url": "https://matlevering.coop.no",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Coop.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 32.9,
+                        "date": "2022-10-31T22:20:12.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2022-10-25T19:47:29.000000Z"
+                    },
+                    {
+                        "price": 33.9,
+                        "date": "2022-09-15T14:40:18.000000Z"
+                    },
+                    {
+                        "price": 33.9,
+                        "date": "2022-08-24T18:20:10.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2022-08-06T22:04:40.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2022-08-06T21:53:47.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2022-08-06T21:40:51.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2022-08-05T17:56:53.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2022-08-04T22:45:26.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2022-07-30T19:00:27.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2022-07-17T02:12:16.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2022-07-15T01:15:06.000000Z"
+                    },
+                    {
+                        "price": 21.5,
+                        "date": "2022-01-15T11:04:22.000000Z"
+                    },
+                    {
+                        "price": 21.5,
+                        "date": "2022-01-14T11:03:26.000000Z"
+                    },
+                    {
+                        "price": 21.5,
+                        "date": "2022-01-13T00:01:57.000000Z"
+                    },
+                    {
+                        "price": 21.5,
+                        "date": "2022-01-12T20:35:26.000000Z"
+                    },
+                    {
+                        "price": 21.5,
+                        "date": "2022-01-12T20:29:45.000000Z"
+                    },
+                    {
+                        "price": 21.5,
+                        "date": "2022-01-11T22:13:02.000000Z"
+                    },
+                    {
+                        "price": 21.5,
+                        "date": "2022-01-11T22:03:12.000000Z"
+                    },
+                    {
+                        "price": 21.5,
+                        "date": "2022-01-10T22:02:57.000000Z"
+                    },
+                    {
+                        "price": 21.5,
+                        "date": "2022-01-10T17:31:10.000000Z"
+                    },
+                    {
+                        "price": 21.5,
+                        "date": "2022-01-09T20:03:14.000000Z"
+                    },
+                    {
+                        "price": 21.5,
+                        "date": "2022-01-09T20:03:14.000000Z"
+                    },
+                    {
+                        "price": 21.5,
+                        "date": "2022-01-09T19:59:20.000000Z"
+                    },
+                    {
+                        "price": 21.5,
+                        "date": "2022-01-09T19:59:20.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2022-01-09T19:59:20.000000Z",
+                "updated_at": "2023-07-16T23:38:19.000000Z"
+            },
+            {
+                "id": 33562,
+                "name": "Pastinakk Norge, 200 g",
+                "brand": null,
+                "vendor": "Netfresh",
+                "ean": null,
+                "url": "https://oda.com/no/products/9305-pastinakk-norge/",
+                "image": "https://bilder.kolonial.no/produkter/54fd7c78-37b8-431c-a9e3-22ebb9113727.jpg?auto=format&fit=max&w=1000&s=1c010c14d05d3b58b1eeab9c42d8ce4b",
+                "category": null,
+                "description": "Pastinakk kan brukes b\u00e5de i r\u00e5 og kokt tilstand. Den m\u00e5 skrelles f\u00f8r bruk og eventuelt treaktig vev i midten fjernes. Pastinakk kan rives og brukes i r\u00e5kostsalat, eller enten kuttes i biter eller strimles til wok. Den kan kokes i lettsaltet vann og brukes som tilbeh\u00f8r til middag eller som gr\u00f8nnsak i fersk suppe. Pastinakk kan ogs\u00e5 brukes i stuinger eller gratineres i ovn.",
+                "ingredients": null,
+                "current_price": 17.3,
+                "current_unit_price": 86.5,
+                "weight": 200,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-27T07:11:48.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-26T07:14:21.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-25T07:11:44.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-24T07:16:00.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-23T07:13:14.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-22T07:12:51.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-21T07:11:44.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-20T07:12:57.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-19T07:12:45.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-18T07:14:31.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-17T07:15:13.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-16T07:11:38.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-15T07:12:30.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-14T07:14:14.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-13T07:14:36.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-12T07:14:14.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-11T07:14:13.000000Z"
+                    },
+                    {
+                        "price": 17.3,
+                        "date": "2023-10-10T07:14:29.000000Z"
+                    },
+                    {
+                        "price": 17.4,
+                        "date": "2023-10-09T07:14:55.000000Z"
+                    },
+                    {
+                        "price": 17.4,
+                        "date": "2023-10-08T07:14:05.000000Z"
+                    },
+                    {
+                        "price": 17.4,
+                        "date": "2023-10-07T07:14:03.000000Z"
+                    },
+                    {
+                        "price": 17.4,
+                        "date": "2023-10-06T07:13:49.000000Z"
+                    },
+                    {
+                        "price": 17.4,
+                        "date": "2023-10-05T07:15:28.000000Z"
+                    },
+                    {
+                        "price": 17.4,
+                        "date": "2023-10-04T07:14:19.000000Z"
+                    },
+                    {
+                        "price": 17.4,
+                        "date": "2023-10-03T07:14:16.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2022-01-09T19:59:44.000000Z",
+                "updated_at": "2023-10-27T07:11:48.000000Z"
+            },
+            {
+                "id": 39653,
+                "name": "Pastinakk Kg",
+                "brand": "TL M\u00c5KESTAD",
+                "vendor": null,
+                "ean": null,
+                "url": "https://engrosnett.no/frukt-gront/gronnsaker/pastinakk-kg",
+                "image": "https://engrosnett.no/image/frukt-og-gronnsaker/gronnsaker/5825-5825_1.jpg?lb=true&v=638181107723470000",
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": 68,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Engrosnett",
+                    "code": "ENGROSSNETT_NO",
+                    "url": "https://engrosnett.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Engrosnett.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 68,
+                        "date": "2023-10-27T07:15:39.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-26T07:17:12.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-25T07:12:42.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-24T07:16:48.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-23T07:14:54.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-22T07:11:42.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-21T07:10:41.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-20T07:12:06.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-19T07:15:57.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-18T07:11:20.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-17T07:12:56.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-16T07:14:58.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-15T07:15:52.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-14T07:15:14.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-13T07:16:52.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-12T07:17:22.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-11T07:16:06.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-10T07:14:26.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-09T07:14:55.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-08T07:12:05.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-07T07:12:40.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-06T07:11:50.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-05T07:13:59.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-04T07:11:00.000000Z"
+                    },
+                    {
+                        "price": 68,
+                        "date": "2023-10-03T07:11:57.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 0,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 0,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-13T18:13:26.000000Z",
+                "updated_at": "2023-10-27T07:15:39.000000Z"
+            },
+            {
+                "id": 46051,
+                "name": "Pastinakk Kg",
+                "brand": null,
+                "vendor": "Bama dagligvare  as",
+                "ean": "4363",
+                "url": "https://joker.no/nettbutikk/varer/frukt-gront/gronnsaker/rotgronnsaker/pastinakk/pastinakk-4363",
+                "image": "https://bilder.ngdata.no/4363/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 1,
+                        "depth": -2,
+                        "name": "Frukt & gr\u00f8nt"
+                    },
+                    {
+                        "id": 11,
+                        "depth": -1,
+                        "name": "Gr\u00f8nnsaker"
+                    },
+                    {
+                        "id": 21,
+                        "depth": 0,
+                        "name": "Rotgr\u00f8nnsaker"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 27.72,
+                "current_unit_price": 99,
+                "weight": 280,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Joker",
+                    "code": "JOKER_NO",
+                    "url": "https://joker.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Joker.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-24T07:01:58.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-23T07:02:29.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-22T07:02:42.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-21T07:01:45.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-20T07:02:37.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-19T07:01:54.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-18T07:01:20.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-17T07:02:17.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-16T07:02:50.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-02T07:02:21.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-10-01T07:02:39.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-09-30T07:02:00.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-09-29T07:02:17.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-09-28T07:01:22.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-09-27T07:01:48.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-09-26T07:02:49.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-09-25T07:01:17.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-09-24T07:01:37.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-09-23T07:02:29.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-09-22T07:02:24.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-09-18T07:03:16.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-09-17T07:02:11.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-09-16T07:01:53.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-09-15T07:02:24.000000Z"
+                    },
+                    {
+                        "price": 27.72,
+                        "date": "2023-09-14T07:02:27.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "UNKNOWN"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 65,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 272,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 11.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 3.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 5.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-07-15T01:50:54.000000Z",
+                "updated_at": "2023-10-24T07:01:58.000000Z"
+            },
+            {
+                "id": 50235,
+                "name": "Gr\u00f8t med Havre, Pastinakk, Jordb\u00e6r & Eple Fra 6 mnd, \u00d8kologisk, 100 g",
+                "brand": "Kolonihagen",
+                "vendor": "Rema 1000",
+                "ean": "7032069733455",
+                "url": "https://oda.com/no/products/53301-kolonihagen-grot-med-havre-pastinakk-jordbaer-eple/",
+                "image": "https://bilder.kolonial.no/local_products/d8205a53-c518-478e-a477-13d10fb6ce47.jpeg?auto=format&fit=max&w=187&s=95a29a0304b0b62dc07026556c13a4b6",
+                "category": null,
+                "description": "",
+                "ingredients": "Havregr\u00f8t (vann, havreflak*) (27 %), vann (23 %), pastinakk* (19 %), jordb\u00e6rpur\u00e9* (18 %), eplepur\u00e9* (10 %), rapsolje* (3 %).",
+                "current_price": 23.9,
+                "current_unit_price": 239,
+                "weight": 100,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-27T07:13:34.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-26T07:13:09.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-25T07:13:18.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-24T07:13:47.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-23T07:15:25.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-22T07:12:28.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-21T07:13:09.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-20T07:12:39.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-19T07:13:46.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-18T07:13:12.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-17T07:13:19.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-16T07:13:14.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-15T07:12:39.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-14T07:13:20.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-13T07:13:12.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-12T07:12:40.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-11T07:13:00.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-10T07:15:19.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-09T07:12:49.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-08T07:15:37.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-07T07:12:23.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-06T07:13:16.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-05T07:16:34.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-04T07:12:56.000000Z"
+                    },
+                    {
+                        "price": 23.9,
+                        "date": "2023-10-03T07:16:34.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "gluten",
+                        "display_name": "Gluten",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 74,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 309,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 1.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 3.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 8.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 2.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.02,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2.7,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "debio",
+                        "display_name": "Debio",
+                        "description": "Debio-merket er det offisielle norske \u00f8kologimerket og gir en garanti for at en vare er \u00f8kologisk dyrket.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Debio-merket er det offisielle norske merket for \u00f8kologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med \u00f8kologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio \u00f8kologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som f\u00f8lges for \u00e5 oppn\u00e5 Debio-sertifisering.<br><br></div><div>For \u00e5 bli merket som \u00f8kologisk av Debio, m\u00e5 produkter gjennomg\u00e5 inspeksjoner og oppfylle strenge krav hvert \u00e5r. Debio samarbeider tett med Mattilsynet for \u00e5 sikre at \u00f8kologisk produksjon og merking f\u00f8lger forskriftene om \u00f8kologisk produksjon og merking av \u00f8kologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole p\u00e5 at Debio-merket indikerer ekte \u00f8kologiske produkter.<br><br></div><div>Debio-merket er et p\u00e5litelig symbol for forbrukere som \u00f8nsker \u00e5 velge \u00f8kologiske alternativer og st\u00f8tte en b\u00e6rekraftig matproduksjon i Norge. Ved \u00e5 se etter Debio-merket, kan forbrukere enkelt identifisere og kj\u00f8pe produkter som er i tr\u00e5d med deres \u00f8nske om \u00e5 spise \u00f8kologisk.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Debio.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Debio.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    },
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    },
+                    {
+                        "name": "grontpunkt",
+                        "display_name": "Gr\u00f8nt Punkt",
+                        "description": "Gr\u00f8nt Punkt-symbolet viser at bedriften tar sitt lovp\u00e5lagte produsentansvar for emballasjeinnsamling og gjenvinning.",
+                        "organization": "Gr\u00f8nt Punkt Norge",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 1994,
+                        "about": "<div>Gr\u00f8nt Punkt-symbolet er et symbol knyttet til produsentansvar for emballasje i Norge. Dette symbolet fungerer som et bevis p\u00e5 at en bedrift har oppfylt sitt lovp\u00e5lagte ansvar gjennom medlemskap i Gr\u00f8nt Punkt Norge. Som et anerkjent symbol representerer det bedriftens engasjement for innsamling og gjenvinning av emballasje, noe som ogs\u00e5 har en positiv effekt p\u00e5 bedriftens omd\u00f8mme.<br><br></div><div><br>Gr\u00f8nt Punkt-symbolet er en kvittering som viser at bedriften har tatt sitt milj\u00f8ansvar ved \u00e5 v\u00e6re medlem i et godkjent returselskap for emballasje. Det symboliserer bedriftens betaling for innsamling og gjenvinning av emballasje gjennom Gr\u00f8nt Punkt Norge. Dette er en viktig del av det lovp\u00e5lagte produsentansvaret for emballasje i Norge.<br><br></div><div><br>Ved \u00e5 vise Gr\u00f8nt Punkt-symbolet demonstrerer bedriften at den tar ansvar for emballasjen sin gjennom hele livssyklusen. Dette inkluderer finansiering av innsamling og gjenvinning, og bidrar dermed til \u00e5 redusere milj\u00f8belastningen av emballasje. Som et symbol for milj\u00f8ansvar bidrar Gr\u00f8nt Punkt-symbolet til \u00e5 styrke bedriftens omd\u00f8mme og signaliserer at den tar b\u00e6rekraft p\u00e5 alvor.<br><br></div><div><br>Gr\u00f8nt Punkt Norge forvalter produsentansvarsordningen for returselskapene som tar seg av ulike typer emballasje. Dette symbolet er en anerkjent mark\u00f8r som har v\u00e6rt i bruk siden 1997. Bedrifter som er medlemmer av Gr\u00f8nt Punkt Norge og bruker symbolet, viser at de tar sin del av ansvaret for emballasjen de produserer eller importerer. Dette bidrar til et mer b\u00e6rekraftig og ressurseffektivt samfunn.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Gront Punkt.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Gront Punkt.png"
+                        }
+                    },
+                    {
+                        "name": "Plastemballasje",
+                        "display_name": "Plastemballasje",
+                        "description": null,
+                        "organization": "Gr\u00f8nt Punkt",
+                        "alternative_names": null,
+                        "type": "Emballasjemerking",
+                        "year_established": null,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Plastemballasje.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Plastemballasje.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-10-25T19:40:41.000000Z",
+                "updated_at": "2023-10-27T07:13:34.000000Z"
+            },
+            {
+                "id": 57036,
+                "name": "Pastinakk 200g",
+                "brand": "FG",
+                "vendor": null,
+                "ean": "2000500900006",
+                "url": "https://matlevering.coop.no/frukt-og-gront/gronnsaker/pastinakk-200g",
+                "image": "https://cdcimg.coop.no/rte/RTE2/2000500900006.png",
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": 31.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Coop",
+                    "code": "COOP_NO",
+                    "url": "https://matlevering.coop.no",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Coop.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 31.9,
+                        "date": "2023-01-30T09:31:01.000000Z"
+                    },
+                    {
+                        "price": 16.9,
+                        "date": "2023-01-15T10:58:01.000000Z"
+                    },
+                    {
+                        "price": 16.9,
+                        "date": "2023-01-12T14:08:05.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-01-10T11:48:38.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-01-08T18:40:11.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-01-05T14:28:01.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-01-03T07:50:07.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-01-02T07:04:14.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2022-12-29T19:19:30.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2022-12-28T15:34:12.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2022-12-27T14:01:33.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2022-12-21T22:28:57.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2022-12-19T15:12:09.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2022-12-14T06:58:54.000000Z"
+                    },
+                    {
+                        "price": 16.9,
+                        "date": "2022-12-11T21:12:39.000000Z"
+                    },
+                    {
+                        "price": 16.9,
+                        "date": "2022-12-09T16:29:28.000000Z"
+                    },
+                    {
+                        "price": 16.9,
+                        "date": "2022-12-04T15:14:38.000000Z"
+                    },
+                    {
+                        "price": 16.9,
+                        "date": "2022-11-24T14:31:24.000000Z"
+                    },
+                    {
+                        "price": 16.9,
+                        "date": "2022-11-21T06:25:45.000000Z"
+                    },
+                    {
+                        "price": 16.9,
+                        "date": "2022-11-18T23:42:56.000000Z"
+                    },
+                    {
+                        "price": 17.5,
+                        "date": "2022-11-15T22:30:18.000000Z"
+                    },
+                    {
+                        "price": 17.5,
+                        "date": "2022-11-14T10:59:12.000000Z"
+                    },
+                    {
+                        "price": 17.5,
+                        "date": "2022-11-10T08:58:56.000000Z"
+                    },
+                    {
+                        "price": 17.5,
+                        "date": "2022-11-07T19:11:35.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "UNKNOWN"
+                    }
+                ],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2022-11-07T19:11:35.000000Z",
+                "updated_at": "2023-07-16T23:42:00.000000Z"
+            },
+            {
+                "id": 61848,
+                "name": "Pastinakk stykk",
+                "brand": null,
+                "vendor": "Bama dagligvare  as",
+                "ean": "4363",
+                "url": "https://kiwi.no/aktuelt/dagligvarer/#4363",
+                "image": "https://bilder.ngdata.no/4363/kiwi/large.jpg",
+                "category": [
+                    {
+                        "id": 1,
+                        "depth": -2,
+                        "name": "Frukt & gr\u00f8nt"
+                    },
+                    {
+                        "id": 11,
+                        "depth": -1,
+                        "name": "Gr\u00f8nnsaker"
+                    },
+                    {
+                        "id": 21,
+                        "depth": 0,
+                        "name": "Rotgr\u00f8nnsaker"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 19.75,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "KIWI",
+                    "code": "KIWI",
+                    "url": "https://kiwi.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Kiwi.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 19.75,
+                        "date": "2023-04-13T06:59:44.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-04-13T02:21:04.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-04-12T08:10:58.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-04-11T07:44:42.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-04-09T22:29:22.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-04-08T08:26:20.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-04-05T11:13:14.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-04-04T18:27:47.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-04-03T07:02:18.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-04-02T21:49:55.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-04-01T12:21:24.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-03-30T11:29:15.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-03-28T22:15:41.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-03-28T08:47:15.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-03-27T04:40:47.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-03-25T18:23:58.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-03-24T19:24:53.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-03-23T09:18:21.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-03-22T10:44:47.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-03-20T03:57:28.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-03-18T11:52:41.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-03-17T11:23:55.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-03-15T09:52:05.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-03-13T07:54:31.000000Z"
+                    },
+                    {
+                        "price": 19.75,
+                        "date": "2023-03-09T11:43:27.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "UNKNOWN"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 65,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 272,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 11.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 3.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 5.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-12-11T20:53:23.000000Z",
+                "updated_at": "2023-07-16T23:42:39.000000Z"
+            },
+            {
+                "id": 71096,
+                "name": "\u00d8kologisk Fruktpur\u00e9 - Eple, Gurot og Pastinakk (Kartong 7stk)",
+                "brand": "Ella\u00b4s Kitchen",
+                "vendor": null,
+                "ean": null,
+                "url": "https://shop.havaristen.no/products/okologisk-strawberryyoghurt-kartong-6stk2",
+                "image": "https://havaristen-i01.mycdn.no/mysimgprod/havaristen_mystore_no/images/prrVL_Ella_s_Kitchen__kologisk_Fruktpur__-_Eple__G_1.jpg/w600h600.jpg",
+                "category": null,
+                "description": "En spennende \u00f8kologisk frukt + gr\u00f8ntpur\u00e9 for barn fra 4 m - 4 \u00e5r i 120grams praktisk klemmepose.\u00d8kologisk eple, gulrot og pastinakk som med sin gode smak og det sunne fettet gj\u00f8r dette til et n\u00e6ringsrikt og smakfullt mellomm\u00e5ltid.Perfekt produkt for \u00e5 til",
+                "ingredients": null,
+                "current_price": 59,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Havaristen",
+                    "code": "HAVARISTEN",
+                    "url": "https://havaristen.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Havaristen.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 59,
+                        "date": "2023-10-27T07:11:51.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-26T07:11:15.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-25T07:11:09.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-24T07:11:21.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-23T07:11:18.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-22T07:11:25.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-21T07:11:20.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-20T07:11:24.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-19T07:11:17.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-18T07:11:10.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-17T07:11:13.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-16T07:11:18.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-15T07:11:12.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-14T07:11:22.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-13T07:11:20.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-12T07:11:18.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-11T07:11:11.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-10T07:11:18.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-09T07:11:16.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-07T07:11:13.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-06T07:11:24.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-05T07:11:20.000000Z"
+                    },
+                    {
+                        "price": 59,
+                        "date": "2023-10-04T07:11:10.000000Z"
+                    },
+                    {
+                        "price": 69,
+                        "date": "2023-05-16T07:11:43.000000Z"
+                    },
+                    {
+                        "price": 69,
+                        "date": "2023-05-14T21:25:31.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2023-04-14T09:45:17.000000Z",
+                "updated_at": "2023-10-27T07:11:51.000000Z"
+            },
+            {
+                "id": 101511,
+                "name": "Eple Gulrot + Pastinakk 4m 120g Ellas",
+                "brand": "ELLAS",
+                "vendor": "JENSEN & CO AS",
+                "ean": "5060107330214",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/5060107330214",
+                "category": null,
+                "description": null,
+                "ingredients": "49% \u00f8kologisk most eple, 31% \u00f8kologisk most gulrot, 20% \u00f8kologisk most pastinakk, \u00f8kologisk kosentrert sitronsaft.",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 0.12,
+                "weight_unit": "kg",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 48,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 201,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 10.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 1.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.04,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 9.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "debio",
+                        "display_name": "Debio",
+                        "description": "Debio-merket er det offisielle norske \u00f8kologimerket og gir en garanti for at en vare er \u00f8kologisk dyrket.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Debio-merket er det offisielle norske merket for \u00f8kologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med \u00f8kologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio \u00f8kologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som f\u00f8lges for \u00e5 oppn\u00e5 Debio-sertifisering.<br><br></div><div>For \u00e5 bli merket som \u00f8kologisk av Debio, m\u00e5 produkter gjennomg\u00e5 inspeksjoner og oppfylle strenge krav hvert \u00e5r. Debio samarbeider tett med Mattilsynet for \u00e5 sikre at \u00f8kologisk produksjon og merking f\u00f8lger forskriftene om \u00f8kologisk produksjon og merking av \u00f8kologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole p\u00e5 at Debio-merket indikerer ekte \u00f8kologiske produkter.<br><br></div><div>Debio-merket er et p\u00e5litelig symbol for forbrukere som \u00f8nsker \u00e5 velge \u00f8kologiske alternativer og st\u00f8tte en b\u00e6rekraftig matproduksjon i Norge. Ved \u00e5 se etter Debio-merket, kan forbrukere enkelt identifisere og kj\u00f8pe produkter som er i tr\u00e5d med deres \u00f8nske om \u00e5 spise \u00f8kologisk.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Debio.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Debio.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    },
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T02:59:44.000000Z",
+                "updated_at": "2023-09-06T01:15:20.000000Z"
+            },
+            {
+                "id": 112805,
+                "name": "Maispuffer Gulrot&Pastinakk \u00d8kol 20g Ellas",
+                "brand": "Ellas",
+                "vendor": "Jensen & co as",
+                "ean": "5060503500013",
+                "url": "https://spar.no/nettbutikk/varer/barn/barnekjeks/maispuffer-5060503500013",
+                "image": "https://bilder.ngdata.no/5060503500013/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 16,
+                        "depth": -1,
+                        "name": "Barneprodukter"
+                    },
+                    {
+                        "id": 239,
+                        "depth": 0,
+                        "name": "Barnekjeks"
+                    }
+                ],
+                "description": "Smakfulle \u00f8kologiske maispuffer med smak av gulrot + pastinakk. Fingermat som smelter i munnen og passer fint for de minste fra 6 mnd. Posen har en \u00e5pne/lukke funksjon som gir lite s\u00f8l i stelleveksen n\u00e5r du er p\u00e5 farten!",
+                "ingredients": "72% maismel*, 15% solsikkeolje*, 8% t\u00f8rkede gulr\u00f8tter*, 4% t\u00f8rkede pastinakker*,<1% hvetekli*, <1% t\u00f8rket l\u00f8k*, <1% tiamin (vitamin b1). *= \u00f8kologisk",
+                "current_price": 27.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 27.9,
+                        "date": "2023-08-03T07:01:49.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-08-02T07:01:22.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-08-01T07:01:08.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-31T07:01:18.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-30T07:01:25.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-29T07:01:57.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-28T07:01:40.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-27T07:01:44.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-26T07:01:08.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-25T07:01:20.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-24T07:01:46.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-23T07:01:34.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-22T07:01:54.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-21T07:01:26.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-20T07:01:39.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-19T07:01:48.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-18T07:01:18.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-17T07:01:29.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-16T07:01:50.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-15T07:01:48.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-14T07:01:16.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-13T07:01:38.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-12T07:01:44.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-11T07:01:35.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-10T07:02:12.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "gluten",
+                        "display_name": "Gluten",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "melk",
+                        "display_name": "Melk",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 420,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 1765,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 15.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 59.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 1.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 6.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 4.5,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T14:16:18.000000Z",
+                "updated_at": "2023-08-03T07:01:49.000000Z"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,2980 @@
+{
+    "data": [
+        [
+            {
+                "id": 10270,
+                "name": "Auberginer Bama",
+                "brand": null,
+                "vendor": "Bama dagligvare  as",
+                "ean": "7040518001079",
+                "url": "https://spar.no/nettbutikk/varer/frukt-og-gront/gronnsaker/aubergin/auberginer-7040518001079",
+                "image": "https://bilder.ngdata.no/7040518001932/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 1,
+                        "depth": -2,
+                        "name": "Frukt & gr\u00f8nt"
+                    },
+                    {
+                        "id": 11,
+                        "depth": -1,
+                        "name": "Gr\u00f8nnsaker"
+                    },
+                    {
+                        "id": 1059,
+                        "depth": 0,
+                        "name": "Aubergin"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 29.9,
+                "current_unit_price": 99.67,
+                "weight": 300,
+                "weight_unit": "g",
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-27T07:07:01.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-27T07:04:52.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-27T07:02:47.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-10T07:07:57.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-10T07:07:04.000000Z"
+                    },
+                    {
+                        "price": 32.9,
+                        "date": "2023-10-10T07:04:11.000000Z"
+                    },
+                    {
+                        "price": 36.9,
+                        "date": "2023-10-09T07:06:21.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-10-08T07:04:56.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-10-08T07:03:03.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-10-07T07:04:47.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-10-07T07:02:56.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-10-06T07:05:38.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-10-06T07:03:48.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-10-05T07:05:02.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-10-05T07:03:07.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-10-04T07:05:14.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-10-04T07:03:22.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-10-03T07:05:15.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-10-03T07:03:27.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-10-02T07:04:25.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-10-02T07:02:16.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-09-27T07:05:08.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-09-27T07:03:07.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-09-26T07:06:04.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-09-26T07:04:17.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 20,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 84,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 2.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 2.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 1.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:48:29.000000Z",
+                "updated_at": "2023-10-27T07:07:01.000000Z"
+            },
+            {
+                "id": 23399,
+                "name": "Auberginepur\u00e9 460 g",
+                "brand": "Sevan",
+                "vendor": "Sevan AS",
+                "ean": null,
+                "url": "https://oda.com/no/products/29542-sevan-auberginepure/",
+                "image": "https://bilder.kolonial.no/local_products/78e75162-d2df-4283-9c8c-220690c158df.jpg?auto=format&fit=max&w=324&s=6d7967e9047990630e37fd35e8e54ba9",
+                "category": [
+                    {
+                        "id": 33,
+                        "depth": -1,
+                        "name": "Middag"
+                    },
+                    {
+                        "id": 146,
+                        "depth": 0,
+                        "name": "Middagshermetikk"
+                    }
+                ],
+                "description": "",
+                "ingredients": "Aubergine, salt, surhetsreguleringsmiddel sitronsyre",
+                "current_price": 63.9,
+                "current_unit_price": 138.91,
+                "weight": 460,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-27T07:13:23.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-26T07:15:28.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-25T07:14:41.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-24T07:15:44.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-23T07:15:10.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-22T07:16:08.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-21T07:14:23.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-20T07:15:13.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-19T07:16:17.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-18T07:14:25.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-17T07:14:31.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-16T07:13:50.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-15T07:16:14.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-14T07:12:37.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-13T07:14:16.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-12T07:15:47.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-11T07:15:37.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-10T07:13:06.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-09T07:16:33.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-08T07:13:19.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-07T07:14:43.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-06T07:15:04.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-05T07:13:08.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-04T07:16:06.000000Z"
+                    },
+                    {
+                        "price": 63.9,
+                        "date": "2023-10-03T07:15:52.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 32,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 136,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.95,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:56:32.000000Z",
+                "updated_at": "2023-10-27T07:13:23.000000Z"
+            },
+            {
+                "id": 29167,
+                "name": "Auberginesalat (Baba Ghannoughe), 150 g",
+                "brand": "Sevan",
+                "vendor": "Sevan AS",
+                "ean": null,
+                "url": "https://oda.com/no/products/27836-sevan-auberginesalat-baba-ghannoughe/",
+                "image": "https://bilder.kolonial.no/local_products/ccae1a45-250d-4760-a5a4-cb428a133c59.jpg?auto=format&fit=max&w=752&s=1376dac3a437744a77a331aa6fddaeb6",
+                "category": null,
+                "description": "Kalles ogs\u00e5 Baba Ghannoughe, som er grillet og gir en deilig r\u00f8kt smak. Passer til kalde og varme retter.",
+                "ingredients": "Aubergine 87%, SESAM pasta, fersk hvitl\u00f8k, salt, surhetsreguleringsmiddel sitronsyre, konserveringsmiddel kaliumsorbat",
+                "current_price": 54.1,
+                "current_unit_price": 360.67,
+                "weight": 150,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 54.1,
+                        "date": "2023-10-02T07:16:03.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-10-01T07:14:38.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-30T07:14:42.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-29T07:15:27.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-28T07:18:18.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-27T07:15:53.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-26T07:15:11.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-25T07:14:17.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-24T07:13:24.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-23T07:15:32.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-22T07:13:51.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-21T07:16:31.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-20T07:14:10.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-19T07:15:05.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-18T07:16:50.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-17T07:15:55.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-16T07:13:55.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-15T07:14:14.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-14T07:14:26.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-13T07:11:18.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-12T07:14:53.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-11T07:16:31.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-10T07:14:53.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-09T07:13:06.000000Z"
+                    },
+                    {
+                        "price": 54.1,
+                        "date": "2023-09-08T07:14:23.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 104,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 434,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 6.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 6.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 1.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 1.8,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:57:55.000000Z",
+                "updated_at": "2023-10-02T07:16:03.000000Z"
+            },
+            {
+                "id": 33309,
+                "name": "Aubergine Spania, 1 stk",
+                "brand": null,
+                "vendor": "Netfresh",
+                "ean": "7040518001079",
+                "url": "https://oda.com/no/products/9392-aubergine-spania/",
+                "image": "https://bilder.kolonial.no/produkter/734963ac-8946-4e04-8416-f2d8233294c2.jpg?auto=format&fit=max&w=675&s=c114cc85c2300ab1c97cdb573461115d",
+                "category": [
+                    {
+                        "id": 1,
+                        "depth": -2,
+                        "name": "Frukt & gr\u00f8nt"
+                    },
+                    {
+                        "id": 11,
+                        "depth": -1,
+                        "name": "Gr\u00f8nnsaker"
+                    },
+                    {
+                        "id": 1059,
+                        "depth": 0,
+                        "name": "Aubergin"
+                    }
+                ],
+                "description": "For \u00e5 oppn\u00e5 den beste smaken skj\u00e6res den gjerne opp i tykke skiver og drysses med salt og tilsettes noen dr\u00e5per sitron f\u00f8r bruk. Etter 15 minutter skylles den bitre vesken som har piplet fram, salt og sitron av. Aubergine er uunnv\u00e6rlig  i Moussaka og Ratatouille. Den er mye brukt i kj\u00f8kken i hele verden bl. a til salat etter forvelling, til gryteretter, som p\u00e5legg, i gratenger, i supper  og som egne retter. Den er fin \u00e5 bake hel i ovnen eller p\u00e5 grillen.",
+                "ingredients": null,
+                "current_price": 25.6,
+                "current_unit_price": 85.33,
+                "weight": 300,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 25.6,
+                        "date": "2023-10-27T07:11:44.000000Z"
+                    },
+                    {
+                        "price": 25.6,
+                        "date": "2023-10-26T07:14:18.000000Z"
+                    },
+                    {
+                        "price": 25.6,
+                        "date": "2023-10-25T07:11:43.000000Z"
+                    },
+                    {
+                        "price": 25.6,
+                        "date": "2023-10-24T07:16:08.000000Z"
+                    },
+                    {
+                        "price": 25.6,
+                        "date": "2023-10-23T07:13:06.000000Z"
+                    },
+                    {
+                        "price": 25.6,
+                        "date": "2023-10-22T07:12:53.000000Z"
+                    },
+                    {
+                        "price": 25.6,
+                        "date": "2023-10-21T07:11:48.000000Z"
+                    },
+                    {
+                        "price": 25.6,
+                        "date": "2023-10-20T07:12:51.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-19T07:12:54.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-18T07:14:55.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-17T07:15:30.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-16T07:11:42.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-15T07:15:02.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-14T07:16:01.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-13T07:14:35.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-12T07:14:22.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-11T07:14:11.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-10T07:14:23.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-09T07:14:15.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-08T07:14:19.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-07T07:14:15.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-06T07:13:45.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-05T07:15:04.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-04T07:14:14.000000Z"
+                    },
+                    {
+                        "price": 23.1,
+                        "date": "2023-10-03T07:14:08.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2022-01-09T19:59:35.000000Z",
+                "updated_at": "2023-10-27T07:11:44.000000Z"
+            },
+            {
+                "id": 33378,
+                "name": "Tomatsaus Aubergine, paprika og fennikel, 350 g",
+                "brand": "Superbra",
+                "vendor": "Ivrig Handel AS",
+                "ean": "7090024960780",
+                "url": "https://oda.com/no/products/2140-superbra-tomatsaus-aubergine-paprika-og-fennikel/",
+                "image": "https://bilder.kolonial.no/local_products/e35bc46e-455d-44ac-a1db-af379ab3a394.jpg?auto=format&fit=max&w=442&s=0bca64c8430e06663d19a90f7632433e",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 294,
+                        "depth": 0,
+                        "name": "Pastasaus"
+                    }
+                ],
+                "description": "Til \u00e5 hjelpe oss har vi Maurizio. Han har sin egen syltet\u00f8yfabrikk ved fjellene nord for Torino og kjenner nesten alle som driver med \u00f8kologisk landbruk i Italia. Inn til syltet\u00f8yfabrikken kommer fantastisk frukt, gr\u00f8nnsaker og urter. Ut kommer det du snart holder i h\u00e5nda, den beste tomatsaus vi har klart \u00e5 lage, uten tilsatt tullball.",
+                "ingredients": "Tomat 68,8%, aubergine 6,9%, stangselleri, ekstra virgin olivenolje, gulrot, l\u00f8k, paprika 2,5%, havsalt, fennikelfr\u00f8 0,1% og sort pepper.",
+                "current_price": 59.9,
+                "current_unit_price": 171.14,
+                "weight": 350,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-27T07:14:03.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-26T07:15:46.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-25T07:13:52.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-24T07:17:04.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-23T07:14:09.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-22T07:14:03.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-21T07:13:41.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-20T07:15:12.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-19T07:14:25.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-18T07:15:47.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-17T07:15:45.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-16T07:13:21.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-15T07:14:37.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-14T07:14:56.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-13T07:14:33.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-12T07:13:57.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-11T07:15:50.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-10T07:16:15.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-09T07:14:11.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-08T07:14:52.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-07T07:15:34.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-06T07:15:17.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-05T07:16:36.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-04T07:14:31.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-10-03T07:14:24.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "selleri",
+                        "display_name": "Selleri",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 76,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 316,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 5.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 1.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.4,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "debio",
+                        "display_name": "Debio",
+                        "description": "Debio-merket er det offisielle norske \u00f8kologimerket og gir en garanti for at en vare er \u00f8kologisk dyrket.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Debio-merket er det offisielle norske merket for \u00f8kologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med \u00f8kologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio \u00f8kologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som f\u00f8lges for \u00e5 oppn\u00e5 Debio-sertifisering.<br><br></div><div>For \u00e5 bli merket som \u00f8kologisk av Debio, m\u00e5 produkter gjennomg\u00e5 inspeksjoner og oppfylle strenge krav hvert \u00e5r. Debio samarbeider tett med Mattilsynet for \u00e5 sikre at \u00f8kologisk produksjon og merking f\u00f8lger forskriftene om \u00f8kologisk produksjon og merking av \u00f8kologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole p\u00e5 at Debio-merket indikerer ekte \u00f8kologiske produkter.<br><br></div><div>Debio-merket er et p\u00e5litelig symbol for forbrukere som \u00f8nsker \u00e5 velge \u00f8kologiske alternativer og st\u00f8tte en b\u00e6rekraftig matproduksjon i Norge. Ved \u00e5 se etter Debio-merket, kan forbrukere enkelt identifisere og kj\u00f8pe produkter som er i tr\u00e5d med deres \u00f8nske om \u00e5 spise \u00f8kologisk.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Debio.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Debio.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-09T19:59:38.000000Z",
+                "updated_at": "2023-10-27T07:14:03.000000Z"
+            },
+            {
+                "id": 37185,
+                "name": "Tomatsaus Aubergine 350g Superbra",
+                "brand": "Superbra",
+                "vendor": "Ivrig handel as",
+                "ean": "7090024960780",
+                "url": "https://meny.no/Varer/middagstilbehor/sauser/pastasaus/tomatsaus-7090024960780",
+                "image": "https://bilder.ngdata.no/7090024960780/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 294,
+                        "depth": 0,
+                        "name": "Pastasaus"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Tomat 68,8%, aubergine 6,9%, stangselleri, ekstra virgin olivenolje, gulrot, l\u00f8k, paprika 2,5%, havsalt, fennikelfr\u00f8 0,1% og sort pepper.",
+                "current_price": 54.9,
+                "current_unit_price": 156.86,
+                "weight": 350,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 54.9,
+                        "date": "2023-10-01T07:06:40.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-10-01T07:04:25.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-10-01T07:02:04.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-30T07:06:11.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-30T07:04:17.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-30T07:01:10.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-22T07:06:45.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-22T07:04:31.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-22T07:02:04.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-21T07:05:51.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-21T07:04:00.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-21T07:01:13.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-20T07:06:16.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-20T07:04:03.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-20T07:01:34.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-19T07:07:40.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-19T07:04:36.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-09-19T07:02:40.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-08-14T07:05:49.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-08-14T07:03:51.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-08-14T07:01:48.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-08-13T07:01:00.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-08-12T07:00:42.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-08-11T16:49:33.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-08-11T07:00:44.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "selleri",
+                        "display_name": "Selleri",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 76,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 316,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 5.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 1.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.4,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "debio",
+                        "display_name": "Debio",
+                        "description": "Debio-merket er det offisielle norske \u00f8kologimerket og gir en garanti for at en vare er \u00f8kologisk dyrket.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Debio-merket er det offisielle norske merket for \u00f8kologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med \u00f8kologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio \u00f8kologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som f\u00f8lges for \u00e5 oppn\u00e5 Debio-sertifisering.<br><br></div><div>For \u00e5 bli merket som \u00f8kologisk av Debio, m\u00e5 produkter gjennomg\u00e5 inspeksjoner og oppfylle strenge krav hvert \u00e5r. Debio samarbeider tett med Mattilsynet for \u00e5 sikre at \u00f8kologisk produksjon og merking f\u00f8lger forskriftene om \u00f8kologisk produksjon og merking av \u00f8kologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole p\u00e5 at Debio-merket indikerer ekte \u00f8kologiske produkter.<br><br></div><div>Debio-merket er et p\u00e5litelig symbol for forbrukere som \u00f8nsker \u00e5 velge \u00f8kologiske alternativer og st\u00f8tte en b\u00e6rekraftig matproduksjon i Norge. Ved \u00e5 se etter Debio-merket, kan forbrukere enkelt identifisere og kj\u00f8pe produkter som er i tr\u00e5d med deres \u00f8nske om \u00e5 spise \u00f8kologisk.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Debio.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Debio.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-10T17:29:38.000000Z",
+                "updated_at": "2023-10-01T07:06:40.000000Z"
+            },
+            {
+                "id": 61068,
+                "name": "Auberginer Bama",
+                "brand": null,
+                "vendor": "Bama dagligvare  as",
+                "ean": "7040518001079",
+                "url": "https://kiwi.no/aktuelt/dagligvarer/#7040518001079",
+                "image": "https://bilder.ngdata.no/7040518001932/kiwi/large.jpg",
+                "category": [
+                    {
+                        "id": 1,
+                        "depth": -2,
+                        "name": "Frukt & gr\u00f8nt"
+                    },
+                    {
+                        "id": 11,
+                        "depth": -1,
+                        "name": "Gr\u00f8nnsaker"
+                    },
+                    {
+                        "id": 1059,
+                        "depth": 0,
+                        "name": "Aubergin"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 19.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "KIWI",
+                    "code": "KIWI",
+                    "url": "https://kiwi.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Kiwi.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-13T06:59:54.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-13T02:21:03.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-12T08:11:13.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-11T07:44:52.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-04-09T22:29:30.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-04-08T08:26:25.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-04-05T11:13:13.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-04-04T18:27:44.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-04-03T07:02:26.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-04-02T21:50:13.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-04-01T12:21:18.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-03-30T11:28:40.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-03-24T19:25:24.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-03-23T09:18:21.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-03-22T10:44:51.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-03-20T03:57:58.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-03-18T11:52:40.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-03-17T11:23:54.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-03-15T09:52:16.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-03-13T07:54:27.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-03-09T11:43:16.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-03-07T06:28:42.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-03-06T12:07:51.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-03-06T11:58:42.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-03-04T13:02:10.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 20,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 84,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 2.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-12-11T20:53:19.000000Z",
+                "updated_at": "2023-07-16T23:42:35.000000Z"
+            },
+            {
+                "id": 65534,
+                "name": "Auberginer Bama",
+                "brand": null,
+                "vendor": "Bama dagligvare  as",
+                "ean": "7040518001079",
+                "url": "https://joker.no/nettbutikk/varer/frukt-gront/gronnsaker/aubergin/auberginer-7040518001079",
+                "image": "https://bilder.ngdata.no/7040518001932/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 1,
+                        "depth": -2,
+                        "name": "Frukt & gr\u00f8nt"
+                    },
+                    {
+                        "id": 11,
+                        "depth": -1,
+                        "name": "Gr\u00f8nnsaker"
+                    },
+                    {
+                        "id": 1059,
+                        "depth": 0,
+                        "name": "Aubergin"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 29.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Joker",
+                    "code": "JOKER_NO",
+                    "url": "https://joker.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Joker.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 29.9,
+                        "date": "2023-08-03T07:01:47.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-08-02T07:02:06.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-08-01T07:01:09.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-31T07:01:25.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-30T07:01:50.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-29T07:01:05.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-28T07:03:33.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-27T07:01:05.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-26T07:01:37.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-25T07:01:46.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-24T07:02:03.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-23T07:01:07.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-22T07:01:43.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-21T07:01:28.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-20T07:01:19.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-19T07:01:26.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-18T07:01:41.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-17T07:01:27.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-16T07:01:45.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-15T07:02:08.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-14T07:01:39.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-13T07:01:50.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-12T07:01:53.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-11T07:01:27.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-10T07:02:05.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 20,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 84,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 2.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-02-13T08:42:09.000000Z",
+                "updated_at": "2023-08-03T07:01:47.000000Z"
+            },
+            {
+                "id": 77914,
+                "name": "Hundeleke Aubergine Flerfarget 14cm",
+                "brand": "Dogman",
+                "vendor": "DOGMAN AS",
+                "ean": "7312133340254",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7312133340254",
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 1,
+                "weight_unit": "piece",
+                "store": null,
+                "price_history": [],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2023-06-11T00:08:51.000000Z",
+                "updated_at": "2023-09-06T01:12:05.000000Z"
+            },
+            {
+                "id": 88088,
+                "name": "Ajvar Paprika/auberginepur\u00ea Sterk 700g",
+                "brand": "Sevan/Sl\u00e5tto",
+                "vendor": "SL\u00c5TTO MARKETING AS",
+                "ean": "5319990821027",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/5319990821027",
+                "category": null,
+                "description": null,
+                "ingredients": "Paprika, aubergine, vegetabilsk olje (solsikkeolje), chili, sukker, salt, hvitl\u00f8k, eddik.",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 700,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 121,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 509,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 4.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 16.55,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.53,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1.75,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 6,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T02:43:16.000000Z",
+                "updated_at": "2023-09-06T01:13:29.000000Z"
+            },
+            {
+                "id": 88274,
+                "name": "Grillet Aubergine i Olje 1500g Dispac",
+                "brand": "Dispac",
+                "vendor": "OLIVINO AS",
+                "ean": "8020454001059",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/8020454001059",
+                "category": null,
+                "description": null,
+                "ingredients": "Auberginer 58 %, solsikkeolje, vineddik, salt, aromatiske urter, krydder. Surhetsregulerende middel: sitronsyre. Antioksidant: L-askorbinsyre.",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 1500,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 83,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 344,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 5.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 4.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.6,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T02:43:28.000000Z",
+                "updated_at": "2023-09-06T01:13:30.000000Z"
+            },
+            {
+                "id": 91817,
+                "name": "Aubergine Pate",
+                "brand": "Vitaquell",
+                "vendor": "NATUR-IMPORT AS",
+                "ean": "4003247708018",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/4003247708018",
+                "category": null,
+                "description": null,
+                "ingredients": "Solsikkeolje*, vann, aubergin* (14%), solsikkefr\u00f8*, paprika*, sitronjuice*, tomatpuree*, konsentrert eplejuice*, havsalt, tomater*, t\u00f8rket maissirup*, l\u00f8k*, urter* (oregano*, rosmarin*, basilikum*), hvitl\u00f8k*",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 0.13,
+                "weight_unit": "kg",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 345,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 1421,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 34,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 1.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 3.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 3.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.5,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T02:47:07.000000Z",
+                "updated_at": "2023-09-06T01:13:58.000000Z"
+            },
+            {
+                "id": 92621,
+                "name": "Auberginepur\u00e9 460g Sevan",
+                "brand": "Sevan",
+                "vendor": "SEVAN AS",
+                "ean": "7331217010494",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7331217010494",
+                "category": null,
+                "description": null,
+                "ingredients": "Aubergine, salt,     surhetsreguleringsmiddel sitronsyre",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 460,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "sulfitt",
+                        "display_name": "Sulfitt",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 32,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 136,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.95,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T02:47:57.000000Z",
+                "updated_at": "2023-09-06T01:14:04.000000Z"
+            },
+            {
+                "id": 92633,
+                "name": "Auberginepur\u00e9 4,2kg Sevan",
+                "brand": "Sevan",
+                "vendor": "SL\u00c5TTO MARKETING AS",
+                "ean": "7331217012214",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7331217012214",
+                "category": null,
+                "description": null,
+                "ingredients": "Aubergine, salt, surhetsreguleringsmiddel (sitronsyre).",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 4.2,
+                "weight_unit": "kg",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "sulfitt",
+                        "display_name": "Sulfitt",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 32,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 136,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.95,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T02:47:58.000000Z",
+                "updated_at": "2023-09-06T01:14:04.000000Z"
+            },
+            {
+                "id": 108196,
+                "name": "Aubergine Grillet i Olje 280g Dispac",
+                "brand": "Dispac",
+                "vendor": "Olivino as",
+                "ean": "8020454000670",
+                "url": "https://meny.no/Varer/middagstilbehor/hermetisk-gront/hermetisk-paprika/aubergine-8020454000670",
+                "image": "https://bilder.ngdata.no/8020454000670/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 65,
+                        "depth": -1,
+                        "name": "Hermetisk gr\u00f8nt"
+                    },
+                    {
+                        "id": 991,
+                        "depth": 0,
+                        "name": "Hermetisk paprika"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Auberginer 63 %, solsikkeolje, vineddik, salt, aromatiske urter, krydder. surhetsregulerende middel: sitronsyre. antioksidant: l-askorbinsyre.",
+                "current_price": 84,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 84,
+                        "date": "2023-08-03T07:01:13.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-08-02T07:01:18.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-08-01T07:01:05.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-31T07:00:59.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-30T07:00:50.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-29T07:00:54.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-28T07:01:22.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-27T07:03:15.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-27T07:01:15.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-26T07:02:24.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-25T07:01:08.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-24T07:00:59.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-23T07:00:46.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-22T07:01:33.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-21T07:00:52.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-20T07:00:55.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-19T07:00:48.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-18T07:00:35.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-17T07:01:25.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-16T07:01:59.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-15T07:00:53.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-14T07:01:17.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-13T07:00:54.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-12T07:00:57.000000Z"
+                    },
+                    {
+                        "price": 84,
+                        "date": "2023-07-11T07:02:16.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 83,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 344,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 5.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 4.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.6,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T14:15:41.000000Z",
+                "updated_at": "2023-08-03T07:01:13.000000Z"
+            },
+            {
+                "id": 108486,
+                "name": "Auberginer Bama",
+                "brand": null,
+                "vendor": "Bama dagligvare  as",
+                "ean": "7040518001079",
+                "url": "https://meny.no/Varer/frukt-gront/gronnsaker/aubergin/auberginer-7040518001079",
+                "image": "https://bilder.ngdata.no/7040518001932/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 1,
+                        "depth": -2,
+                        "name": "Frukt & gr\u00f8nt"
+                    },
+                    {
+                        "id": 11,
+                        "depth": -1,
+                        "name": "Gr\u00f8nnsaker"
+                    },
+                    {
+                        "id": 1059,
+                        "depth": 0,
+                        "name": "Aubergin"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 28.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 28.9,
+                        "date": "2023-08-03T07:00:51.000000Z"
+                    },
+                    {
+                        "price": 19.53,
+                        "date": "2023-08-02T07:00:39.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-08-01T07:00:53.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-31T07:00:57.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-30T07:00:45.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-29T07:01:01.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-28T07:00:53.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-27T07:00:36.000000Z"
+                    },
+                    {
+                        "price": 19.53,
+                        "date": "2023-07-26T07:00:41.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-25T07:00:55.000000Z"
+                    },
+                    {
+                        "price": 28.9,
+                        "date": "2023-07-24T07:00:53.000000Z"
+                    },
+                    {
+                        "price": 28.9,
+                        "date": "2023-07-23T07:00:45.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-22T07:00:47.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-21T07:00:38.000000Z"
+                    },
+                    {
+                        "price": 28.9,
+                        "date": "2023-07-20T07:00:46.000000Z"
+                    },
+                    {
+                        "price": 20.23,
+                        "date": "2023-07-19T07:00:44.000000Z"
+                    },
+                    {
+                        "price": 28.9,
+                        "date": "2023-07-18T07:00:38.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-07-17T07:00:44.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-16T07:00:36.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-15T07:00:35.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-14T07:00:51.000000Z"
+                    },
+                    {
+                        "price": 28.9,
+                        "date": "2023-07-13T07:00:37.000000Z"
+                    },
+                    {
+                        "price": 19.53,
+                        "date": "2023-07-12T07:00:45.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-11T07:00:41.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-07-10T07:00:48.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 26,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 108,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 2.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T14:15:44.000000Z",
+                "updated_at": "2023-08-03T07:00:51.000000Z"
+            },
+            {
+                "id": 131340,
+                "name": "Moussaka med Aubergine Pulver Toro",
+                "brand": "Toro",
+                "vendor": "ORKLA FOODS NORGE AS",
+                "ean": "7037619215115",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7037619215115",
+                "category": null,
+                "description": null,
+                "ingredients": "Kj\u00f8ttsaus: Stivelse (potet, mais), aubergine 14 %, tomat, l\u00f8k, sukker, aroma, salt, gj\u00e6rekstrakt, krydder, rapsolje, fargestoff (paprikaekstrakt), hvitl\u00f8k, persille.Ostesaus:  Modifisert potetstivelse, maisstivelse, melk, salt, ost 4 %, aroma, rapsolje, hvitl\u00f8k, sukker, gj\u00e6rekstrakt, l\u00f8k, pepper, fargestoff (betakaroten)",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 2491,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "melk",
+                        "display_name": "Melk",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 119,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 497,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 7.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 4.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 3.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 8.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2.3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T23:40:38.000000Z",
+                "updated_at": "2023-09-06T01:16:46.000000Z"
+            },
+            {
+                "id": 151993,
+                "name": "Middagsserviett, Abena Gastro-line, 40x40cm, Aubergine, Airlaid, 1/4 Fold",
+                "brand": null,
+                "vendor": "ABENA NORGE AS",
+                "ean": "5703538033766",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/5703538033766",
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 50,
+                "weight_unit": "piece",
+                "store": null,
+                "price_history": [],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [
+                    {
+                        "name": "glass_og_gaffel",
+                        "display_name": "Glass og Gaffel",
+                        "description": "Glass- og gaffelsymbolet er en merking som indikerer at materialer og gjenstander er trygge \u00e5 bruke i forbindelse med mat.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Glass- og gaffelsymbolet er en merking som produsenter bruker for \u00e5 indikere at materialer og gjenstander er ment for kontakt med n\u00e6ringsmidler. Det fungerer som en form for kvalitetskontroll og forsikrer forbrukerne om at produktet oppfyller visse standarder for n\u00e6ringsmiddelkontakt. Symbolet best\u00e5r av et glass og en gaffel, som er vanlige symboler for drikkevarer og spisebestikk.<br><br></div><div><br>I tillegg til glass- og gaffelsymbolet kan produsenter ogs\u00e5 bruke alternative merkinger som \"for n\u00e6ringsmidler\" eller spesifikke betegnelser som beskriver bruksomr\u00e5det til produktet, for eksempel \"br\u00f8dpose\". Disse merkene tjener til \u00e5 informere forbrukerne om at produktet er beregnet p\u00e5 bruk i forbindelse med n\u00e6ringsmidler. Kravene til \u00e5 angi at et produkt er beregnet p\u00e5 n\u00e6ringsmidler gjelder ikke hvis det er tydelig angitt p\u00e5 selve produktet at det er ment for n\u00e6ringsmiddelbruk, for eksempel et glass eller en tallerken.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Glass og gaffel.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Glass og gaffel.png"
+                        }
+                    },
+                    {
+                        "name": "grontpunkt",
+                        "display_name": "Gr\u00f8nt Punkt",
+                        "description": "Gr\u00f8nt Punkt-symbolet viser at bedriften tar sitt lovp\u00e5lagte produsentansvar for emballasjeinnsamling og gjenvinning.",
+                        "organization": "Gr\u00f8nt Punkt Norge",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 1994,
+                        "about": "<div>Gr\u00f8nt Punkt-symbolet er et symbol knyttet til produsentansvar for emballasje i Norge. Dette symbolet fungerer som et bevis p\u00e5 at en bedrift har oppfylt sitt lovp\u00e5lagte ansvar gjennom medlemskap i Gr\u00f8nt Punkt Norge. Som et anerkjent symbol representerer det bedriftens engasjement for innsamling og gjenvinning av emballasje, noe som ogs\u00e5 har en positiv effekt p\u00e5 bedriftens omd\u00f8mme.<br><br></div><div><br>Gr\u00f8nt Punkt-symbolet er en kvittering som viser at bedriften har tatt sitt milj\u00f8ansvar ved \u00e5 v\u00e6re medlem i et godkjent returselskap for emballasje. Det symboliserer bedriftens betaling for innsamling og gjenvinning av emballasje gjennom Gr\u00f8nt Punkt Norge. Dette er en viktig del av det lovp\u00e5lagte produsentansvaret for emballasje i Norge.<br><br></div><div><br>Ved \u00e5 vise Gr\u00f8nt Punkt-symbolet demonstrerer bedriften at den tar ansvar for emballasjen sin gjennom hele livssyklusen. Dette inkluderer finansiering av innsamling og gjenvinning, og bidrar dermed til \u00e5 redusere milj\u00f8belastningen av emballasje. Som et symbol for milj\u00f8ansvar bidrar Gr\u00f8nt Punkt-symbolet til \u00e5 styrke bedriftens omd\u00f8mme og signaliserer at den tar b\u00e6rekraft p\u00e5 alvor.<br><br></div><div><br>Gr\u00f8nt Punkt Norge forvalter produsentansvarsordningen for returselskapene som tar seg av ulike typer emballasje. Dette symbolet er en anerkjent mark\u00f8r som har v\u00e6rt i bruk siden 1997. Bedrifter som er medlemmer av Gr\u00f8nt Punkt Norge og bruker symbolet, viser at de tar sin del av ansvaret for emballasjen de produserer eller importerer. Dette bidrar til et mer b\u00e6rekraftig og ressurseffektivt samfunn.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Gront Punkt.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Gront Punkt.png"
+                        }
+                    },
+                    {
+                        "name": "resin5",
+                        "display_name": "Polypropylen (PP)",
+                        "description": "Type plast brukt i produkter som bilreservedeler og matbeholdere",
+                        "organization": "ASTM International",
+                        "alternative_names": null,
+                        "type": "Plastmerke",
+                        "year_established": null,
+                        "about": "PP (polypropylen) brukes til \u00e5 lage bildeler, industrielle fibre, matbeholdere og servise. Denne typen plast kan vanligvis resirkuleres gjennom de fleste kommunale gjenvinningsprogrammer.",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Resin5.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Resin5.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-12T00:19:42.000000Z",
+                "updated_at": "2023-09-06T01:19:38.000000Z"
+            },
+            {
+                "id": 155053,
+                "name": "Grillet Aubergine i Olje 280g Dispac",
+                "brand": "Dispac",
+                "vendor": "OLIVINO AS",
+                "ean": "8020454000670",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/8020454000670",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 65,
+                        "depth": -1,
+                        "name": "Hermetisk gr\u00f8nt"
+                    },
+                    {
+                        "id": 991,
+                        "depth": 0,
+                        "name": "Hermetisk paprika"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Auberginer 63 %, solsikkeolje, vineddik, salt, aromatiske urter, krydder. Surhetsregulerende middel: sitronsyre. Antioksidant: L-askorbinsyre.",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 280,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 83,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 344,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 5.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 4.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.6,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-12T00:25:06.000000Z",
+                "updated_at": "2023-09-06T01:20:04.000000Z"
+            },
+            {
+                "id": 155300,
+                "name": "Pizza Grillet Squash & Aubergine 395g",
+                "brand": "Funkygine Food",
+                "vendor": "SYNN\u00d8VE FINDEN AS",
+                "ean": "7090043241716",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7090043241716",
+                "category": null,
+                "description": null,
+                "ingredients": "Pizzabunn 49,3% (fullkornsmel 68,1% (fullkornsmel av hvete, stabilisert hvetekim) vann, extra virgin olivenolje, hvetegluten, salt, honning, gj\u00e6r) tomatsaus 20,3% (tomat, vann, tomatpur\u00e8, l\u00f8k, maisstivelse, hvitl\u00f8k, salt, basilikum, balsamico \"Aceto Balsamico di Modena\" PGI (vineddik, druejuicekonsentrat), sort pepper, oregano, dill) ost (mozzarella) 11,4%, grillet aubergine 7,6%, grillet squash 7,6%, purrel\u00f8k 3,8%, provence krydder /timian, rosmarin, oregano, sar, basilikum).",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 395,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "gluten",
+                        "display_name": "Gluten",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "sennep",
+                        "display_name": "Sennep",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 175,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 737,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 5.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 22,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 1.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 8.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 1.3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "nokkelhull",
+                        "display_name": "N\u00f8kkelhull",
+                        "description": "N\u00f8kkelhullet er en offentlig merkeordning for matvarer. Merkeordningen skal gj\u00f8re det enkelt \u00e5 velge sunnere matvarer som inneholder mer fiber og fullkorn og mindre fett, sukker og salt. Innenfor hver matvaregruppe er det satt ulike kriterier for innholdet av disse n\u00e6ringsstoffene.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2009,
+                        "about": "<div>N\u00f8kkelhullet er en merkeordning opprettet av myndighetene for \u00e5 hjelpe folk med \u00e5 ta sunnere valg i matvarene de kj\u00f8per. Matvarer merket med N\u00f8kkelhullet inneholder mindre fett, sukker og salt, og mer fiber og fullkorn. Merket gj\u00f8r det enklere \u00e5 identifisere sunnere alternativer. Logoens gr\u00f8nne sirkel med hvitt n\u00f8kkelhull er kjennetegnet p\u00e5 N\u00f8kkelhullet.<br><br></div><div>Ved \u00e5 velge N\u00f8kkelhullet-merkede matvarer kan man enkelt gj\u00f8re sunnere endringer i kostholdet. Produktene inneholder mer fiber og fullkorn, mindre mettet fett, sukker og salt, og noen kan ogs\u00e5 ha mer gr\u00f8nnsaker, frukt og b\u00e6r. Det finnes mange N\u00f8kkelhull-merkede matvarer, og det er ikke n\u00f8dvendig \u00e5 gj\u00f8re store endringer i kostholdet. N\u00f8kkelhullet er en frivillig merkeordning som er regulert av Helsedirektoratet og Mattilsynet.<br><br></div><div>N\u00f8kkelhullet tildeles matvarer basert p\u00e5 kriterier for innholdet av fett, mettet fett, sukker, salt, fiber og fullkorn innenfor ulike matvaregrupper. Merket omfatter blant annet gr\u00f8nnsaker, frukt, b\u00e6r, kornprodukter, meieriprodukter, kj\u00f8tt, fisk og vegetabilske produkter. Godteri, brus, kaker og kjeks er ikke kvalifisert for N\u00f8kkelhullet. Ordningen er felles for Norge, Sverige, Danmark og Island, og Mattilsynet f\u00f8rer tilsyn for \u00e5 sikre at merkets regler overholdes.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Nokkelhull.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Nokkelhull.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-12T00:25:33.000000Z",
+                "updated_at": "2023-09-06T01:20:06.000000Z"
+            },
+            {
+                "id": 169351,
+                "name": "Roasted Aubergine Mezze",
+                "brand": "Belazu",
+                "vendor": "FOODWISE NORWAY LTD",
+                "ean": "5030343834937",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/5030343834937",
+                "category": null,
+                "description": null,
+                "ingredients": "Aubergine (84%), Solsikkeolje, salt, hvitl\u00f8k, paprika, t\u00f8rket persille, sort pepper, syreregulator: sitronsyre",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 165,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 138,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 568,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 13.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 2.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 1.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 1.5,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-12T00:54:13.000000Z",
+                "updated_at": "2023-09-06T01:22:04.000000Z"
+            }
+        ]
+    ]
+}

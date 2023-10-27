@@ -1,0 +1,4797 @@
+{
+    "data": [
+        [
+            {
+                "id": 4526,
+                "name": "Muskatn\u00f8tt Malt 12g Pos Hindu",
+                "brand": "Hindu",
+                "vendor": "Olaf ellingsen",
+                "ean": "7045010001220",
+                "url": "https://joker.no/nettbutikk/varer/middagstilbehor/krydder/muskat/muskatnott-malt-7045010001220",
+                "image": "https://bilder.ngdata.no/7045010001220/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Muscatn\u00f8tt malt",
+                "current_price": 15.9,
+                "current_unit_price": 1325,
+                "weight": 12,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Joker",
+                    "code": "JOKER_NO",
+                    "url": "https://joker.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Joker.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-27T07:00:49.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-26T07:02:29.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-25T07:02:18.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-24T07:02:29.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-23T07:03:03.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-22T07:02:46.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-21T07:03:16.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-20T07:03:06.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-19T07:02:27.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-18T07:02:33.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-17T07:02:51.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-16T07:01:08.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-15T07:02:14.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-14T07:03:02.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-13T07:02:27.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-12T07:01:58.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-11T07:02:07.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-10T07:02:15.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-09T07:01:50.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-08T07:02:06.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-07T07:01:31.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-06T07:00:46.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-05T07:01:59.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-04T07:01:58.000000Z"
+                    },
+                    {
+                        "price": 15.9,
+                        "date": "2023-10-03T07:02:28.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 20.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:30:08.000000Z",
+                "updated_at": "2023-10-27T07:00:49.000000Z"
+            },
+            {
+                "id": 4533,
+                "name": "Muskatn\u00f8tt hel 14g Pos Hindu",
+                "brand": "Hindu",
+                "vendor": "Olaf ellingsen",
+                "ean": "7045010001237",
+                "url": "https://joker.no/nettbutikk/varer/middagstilbehor/krydder/muskat/muskatnott-hel-7045010001237",
+                "image": "https://bilder.ngdata.no/7045010001237/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Muskatn\u00f8tt hel",
+                "current_price": 24.9,
+                "current_unit_price": 1383.33,
+                "weight": 18,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Joker",
+                    "code": "JOKER_NO",
+                    "url": "https://joker.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Joker.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-27T07:01:41.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-26T07:01:02.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-25T07:00:52.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-24T07:01:36.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-23T07:02:04.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-22T07:01:52.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-21T07:02:19.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-20T07:02:13.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-19T07:01:40.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-18T07:02:02.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-17T07:02:13.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-16T07:00:52.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-15T07:01:52.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-14T07:02:30.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-13T07:01:54.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-12T07:01:33.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-11T07:02:07.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-10T07:02:14.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-09T07:01:50.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-08T07:03:24.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-07T07:02:56.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-06T07:01:42.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-05T07:03:26.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-04T07:03:06.000000Z"
+                    },
+                    {
+                        "price": 24.9,
+                        "date": "2023-10-03T07:03:12.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 20.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:30:08.000000Z",
+                "updated_at": "2023-10-27T07:01:41.000000Z"
+            },
+            {
+                "id": 7249,
+                "name": "Muskatn\u00f8tt Malt 12g Pos Hindu",
+                "brand": "Hindu",
+                "vendor": "Olaf ellingsen",
+                "ean": "7045010001220",
+                "url": "https://spar.no/nettbutikk/varer/middagstilbehor/krydder/muskat/muskatnott-malt-7045010001220",
+                "image": "https://bilder.ngdata.no/7045010001220/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Muscatn\u00f8tt malt",
+                "current_price": 12.5,
+                "current_unit_price": 1041.67,
+                "weight": 12,
+                "weight_unit": "g",
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-27T07:05:28.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-27T07:03:18.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-27T07:01:10.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-26T07:05:40.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-26T07:03:40.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-26T07:01:30.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-25T07:07:07.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-25T07:04:59.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-24T07:07:02.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-24T07:04:52.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-24T07:02:48.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-23T07:06:43.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-23T07:04:32.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-23T07:02:27.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-22T07:06:25.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-22T07:04:17.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-22T07:02:08.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-21T07:07:41.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-21T07:04:35.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-21T07:02:33.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-20T07:07:08.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-20T07:04:15.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-20T07:02:07.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-19T07:06:46.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-19T07:04:37.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 20.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:30:56.000000Z",
+                "updated_at": "2023-10-27T07:05:28.000000Z"
+            },
+            {
+                "id": 9908,
+                "name": "Muskatn\u00f8tt hel 14g Pos Hindu",
+                "brand": "Hindu",
+                "vendor": "Olaf ellingsen",
+                "ean": "7045010001237",
+                "url": "https://spar.no/nettbutikk/varer/middagstilbehor/krydder/muskat/muskatnott-hel-7045010001237",
+                "image": "https://bilder.ngdata.no/7045010001237/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Muskatn\u00f8tt hel",
+                "current_price": 24.5,
+                "current_unit_price": 1361.11,
+                "weight": 18,
+                "weight_unit": "g",
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-27T07:05:15.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-27T07:03:05.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-27T07:00:56.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-26T07:05:30.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-26T07:03:28.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-26T07:01:14.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-25T07:07:03.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-25T07:04:53.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-24T07:08:03.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-24T07:06:24.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-24T07:04:20.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-23T07:07:46.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-23T07:05:48.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-23T07:04:01.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-22T07:07:32.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-22T07:05:37.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-22T07:03:48.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-21T07:08:20.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-21T07:05:58.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-20T07:06:57.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-20T07:04:04.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-20T07:01:53.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-19T07:06:34.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-19T07:04:25.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-19T07:02:18.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 20.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:46:34.000000Z",
+                "updated_at": "2023-10-27T07:05:15.000000Z"
+            },
+            {
+                "id": 12584,
+                "name": "Muskatn\u00f8tt Malt 12g Pos Hindu",
+                "brand": "Hindu",
+                "vendor": "Olaf ellingsen",
+                "ean": "7045010001220",
+                "url": "https://meny.no/Varer/middagstilbehor/krydder/muskat/muskatnott-malt-7045010001220",
+                "image": "https://bilder.ngdata.no/7045010001220/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Muscatn\u00f8tt malt",
+                "current_price": 12.5,
+                "current_unit_price": 1041.67,
+                "weight": 12,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-27T07:05:40.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-27T07:03:28.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-27T07:01:25.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-26T07:05:32.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-26T07:03:25.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-26T07:01:24.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-25T07:05:03.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-25T07:02:53.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-25T07:00:38.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-24T07:05:39.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-24T07:03:29.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-24T07:00:54.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-22T07:05:21.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-22T07:03:15.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-22T07:00:56.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-21T07:05:17.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-21T07:03:13.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-21T07:00:48.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-20T07:06:07.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-20T07:03:59.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-20T07:01:25.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-19T07:05:05.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-19T07:02:59.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-19T07:00:34.000000Z"
+                    },
+                    {
+                        "price": 12.5,
+                        "date": "2023-10-13T07:05:52.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 20.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:54:40.000000Z",
+                "updated_at": "2023-10-27T07:05:40.000000Z"
+            },
+            {
+                "id": 14029,
+                "name": "Muskatn\u00f8tt hel 14g Pos Hindu",
+                "brand": "Hindu",
+                "vendor": "Olaf ellingsen",
+                "ean": "7045010001237",
+                "url": "https://meny.no/Varer/middagstilbehor/krydder/muskat/muskatnott-hel-7045010001237",
+                "image": "https://bilder.ngdata.no/7045010001237/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Muskatn\u00f8tt hel",
+                "current_price": 25.9,
+                "current_unit_price": 1438.89,
+                "weight": 18,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-27T07:05:19.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-27T07:03:07.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-27T07:01:02.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-26T07:05:18.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-26T07:03:09.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-26T07:01:01.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-25T07:04:53.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-25T07:02:44.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-25T07:00:33.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-23T07:02:08.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-19T07:02:05.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-18T07:07:29.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-15T07:05:12.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-15T07:03:03.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-15T07:00:52.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-14T07:05:03.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-14T07:02:53.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-14T07:00:42.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-13T07:05:40.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-13T07:03:22.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-13T07:01:13.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-12T07:05:44.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-12T07:03:35.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-12T07:01:26.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-10-11T07:04:52.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 20.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:54:51.000000Z",
+                "updated_at": "2023-10-27T07:05:19.000000Z"
+            },
+            {
+                "id": 14600,
+                "name": "Muskatn\u00f8tt Malt 35g Santa-Maria",
+                "brand": "Santa maria",
+                "vendor": "Santa maria norge as",
+                "ean": "7311311014604",
+                "url": "https://meny.no/Varer/middagstilbehor/krydder/muskat/muskatnott-malt-7311311014604",
+                "image": "https://bilder.ngdata.no/7311311014604/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Muskatn\u00f8d/muskatn\u00f8tt",
+                "current_price": 41.5,
+                "current_unit_price": 1185.71,
+                "weight": 35,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-19T07:02:13.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-18T07:05:39.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-18T07:03:21.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-18T07:01:11.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-17T07:05:40.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-17T07:03:01.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-17T07:01:00.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-16T07:05:29.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-16T07:03:17.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-16T07:01:05.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-12T07:07:32.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-11T07:02:10.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-09T07:01:46.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-07T07:02:23.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-04T07:07:06.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-04T07:01:48.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-10-03T07:06:54.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-09-30T07:01:58.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-09-29T07:01:30.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-09-25T07:02:36.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-09-23T07:01:33.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-09-16T07:07:55.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-09-15T07:07:18.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-09-14T07:07:56.000000Z"
+                    },
+                    {
+                        "price": 41.5,
+                        "date": "2023-09-11T07:07:47.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 20.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.04,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "grontpunkt",
+                        "display_name": "Gr\u00f8nt Punkt",
+                        "description": "Gr\u00f8nt Punkt-symbolet viser at bedriften tar sitt lovp\u00e5lagte produsentansvar for emballasjeinnsamling og gjenvinning.",
+                        "organization": "Gr\u00f8nt Punkt Norge",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 1994,
+                        "about": "<div>Gr\u00f8nt Punkt-symbolet er et symbol knyttet til produsentansvar for emballasje i Norge. Dette symbolet fungerer som et bevis p\u00e5 at en bedrift har oppfylt sitt lovp\u00e5lagte ansvar gjennom medlemskap i Gr\u00f8nt Punkt Norge. Som et anerkjent symbol representerer det bedriftens engasjement for innsamling og gjenvinning av emballasje, noe som ogs\u00e5 har en positiv effekt p\u00e5 bedriftens omd\u00f8mme.<br><br></div><div><br>Gr\u00f8nt Punkt-symbolet er en kvittering som viser at bedriften har tatt sitt milj\u00f8ansvar ved \u00e5 v\u00e6re medlem i et godkjent returselskap for emballasje. Det symboliserer bedriftens betaling for innsamling og gjenvinning av emballasje gjennom Gr\u00f8nt Punkt Norge. Dette er en viktig del av det lovp\u00e5lagte produsentansvaret for emballasje i Norge.<br><br></div><div><br>Ved \u00e5 vise Gr\u00f8nt Punkt-symbolet demonstrerer bedriften at den tar ansvar for emballasjen sin gjennom hele livssyklusen. Dette inkluderer finansiering av innsamling og gjenvinning, og bidrar dermed til \u00e5 redusere milj\u00f8belastningen av emballasje. Som et symbol for milj\u00f8ansvar bidrar Gr\u00f8nt Punkt-symbolet til \u00e5 styrke bedriftens omd\u00f8mme og signaliserer at den tar b\u00e6rekraft p\u00e5 alvor.<br><br></div><div><br>Gr\u00f8nt Punkt Norge forvalter produsentansvarsordningen for returselskapene som tar seg av ulike typer emballasje. Dette symbolet er en anerkjent mark\u00f8r som har v\u00e6rt i bruk siden 1997. Bedrifter som er medlemmer av Gr\u00f8nt Punkt Norge og bruker symbolet, viser at de tar sin del av ansvaret for emballasjen de produserer eller importerer. Dette bidrar til et mer b\u00e6rekraftig og ressurseffektivt samfunn.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Gront Punkt.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Gront Punkt.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-09T19:54:55.000000Z",
+                "updated_at": "2023-10-19T07:02:13.000000Z"
+            },
+            {
+                "id": 31736,
+                "name": "Muskatn\u00f8tt Hel, 12 g",
+                "brand": "Toro",
+                "vendor": "Orkla Foods Norge AS",
+                "ean": null,
+                "url": "https://oda.com/no/products/6121-toro-muskatnott-hel/",
+                "image": "https://bilder.kolonial.no/local_products/4001e298-9578-4ae2-8c41-b30f460e4080.jpg?auto=format&fit=max&w=576&s=cc7c465550108e334773131d826c821a",
+                "category": null,
+                "description": "",
+                "ingredients": "Muskatn\u00f8tt.",
+                "current_price": 20.2,
+                "current_unit_price": 1683.33,
+                "weight": 12,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-27T07:12:49.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-26T07:14:57.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-25T07:12:43.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-24T07:16:37.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-23T07:13:40.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-22T07:13:28.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-21T07:12:33.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-20T07:13:39.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-19T07:13:45.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-18T07:15:22.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-17T07:16:06.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-16T07:12:25.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-15T07:13:46.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-14T07:14:38.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-13T07:13:16.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-12T07:13:01.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-11T07:15:35.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-10T07:15:49.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-09T07:13:27.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-08T07:14:27.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-07T07:15:07.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-06T07:14:50.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-05T07:16:12.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-04T07:13:56.000000Z"
+                    },
+                    {
+                        "price": 20.2,
+                        "date": "2023-10-03T07:13:42.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2022-01-09T19:58:48.000000Z",
+                "updated_at": "2023-10-27T07:12:49.000000Z"
+            },
+            {
+                "id": 33891,
+                "name": "Muskatn\u00f8tt Malt, 10 g",
+                "brand": "Toro",
+                "vendor": "Orkla Foods Norge AS",
+                "ean": null,
+                "url": "https://oda.com/no/products/6049-toro-muskatnott-malt/",
+                "image": "https://bilder.kolonial.no/local_products/f0a8ab1f-9192-4004-bb8b-98b8a31652b8.jpg?auto=format&fit=max&w=557&s=420cc76d689bbf20934fedc2cf0946ae",
+                "category": null,
+                "description": "",
+                "ingredients": "Muskatn\u00f8tt.",
+                "current_price": 10,
+                "current_unit_price": 1000,
+                "weight": 10,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 10,
+                        "date": "2023-10-27T07:12:55.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-26T07:15:18.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-25T07:12:49.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-24T07:16:31.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-23T07:13:40.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-22T07:13:43.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-21T07:12:37.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-20T07:13:40.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-19T07:13:52.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-18T07:15:25.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-17T07:16:10.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-16T07:12:30.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-15T07:13:50.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-14T07:14:23.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-13T07:13:16.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-12T07:13:09.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-11T07:15:46.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-10T07:15:44.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-09T07:13:19.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-08T07:14:35.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-07T07:15:09.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-06T07:14:43.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-05T07:16:15.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-04T07:13:55.000000Z"
+                    },
+                    {
+                        "price": 10,
+                        "date": "2023-10-03T07:14:00.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2022-01-09T20:05:03.000000Z",
+                "updated_at": "2023-10-27T07:12:55.000000Z"
+            },
+            {
+                "id": 38279,
+                "name": "Muskatn\u00f8tt Malt 360g",
+                "brand": "ORKLA",
+                "vendor": null,
+                "ean": "7045516004039",
+                "url": "https://engrosnett.no/krydder/muskatnott-malt-360g",
+                "image": "https://engrosnett.no/image/dressinger-oljer-og-krydder/krydder/592006-592006.jpg?lb=true&v=638181108028430000",
+                "category": null,
+                "description": null,
+                "ingredients": "Muskatn&#248;tt.",
+                "current_price": 193,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Engrosnett",
+                    "code": "ENGROSSNETT_NO",
+                    "url": "https://engrosnett.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Engrosnett.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 193,
+                        "date": "2023-10-27T07:17:15.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-26T07:12:50.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-25T07:10:48.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-24T07:17:02.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-23T07:15:46.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-22T07:17:13.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-21T07:12:22.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-20T07:16:59.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-19T07:15:53.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-18T07:14:33.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-17T07:12:06.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-16T07:15:36.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-15T07:16:03.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-14T07:16:01.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-13T07:15:53.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-12T07:11:28.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-11T07:16:34.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-10T07:10:41.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-09T07:15:47.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-08T07:15:29.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-07T07:16:17.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-06T07:14:48.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-05T07:16:04.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-04T07:15:15.000000Z"
+                    },
+                    {
+                        "price": 193,
+                        "date": "2023-10-03T07:12:32.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 0,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 0,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-13T18:11:20.000000Z",
+                "updated_at": "2023-10-27T07:17:15.000000Z"
+            },
+            {
+                "id": 39243,
+                "name": "Muskatn\u00f8tt Malt 440g",
+                "brand": "SANTA MARIA",
+                "vendor": null,
+                "ean": "17311311011990",
+                "url": "https://engrosnett.no/krydder/muskatnott-malt-440g",
+                "image": "https://engrosnett.no/image/dressinger-oljer-og-krydder/krydder/4815379-4815379.jpg?lb=true&v=638181071704900000",
+                "category": null,
+                "description": "I middelalderen var muskat et tegn p\u00e5 rikdom og luksus. Smaken er fortsatt eksklusiv og setter sitt s\u00e6rpreg p\u00e5 kj\u00f8ttkaker, potetmos, spinat og risretter. Passer ogs\u00e5 fint til marinader og syltelaker. Muskatn\u00f8tt er for \u00f8vrig ingen n\u00f8tt, men kjernen p\u00e5 en f",
+                "ingredients": "Muskatn&#248;d/Muskatn&#248;tt.",
+                "current_price": 229,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Engrosnett",
+                    "code": "ENGROSSNETT_NO",
+                    "url": "https://engrosnett.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Engrosnett.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 229,
+                        "date": "2023-10-27T07:10:49.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-26T07:12:20.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-25T07:10:37.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-24T07:14:09.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-23T07:12:03.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-22T07:17:21.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-21T07:14:58.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-20T07:16:52.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-19T07:16:26.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-18T07:15:24.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-17T07:15:34.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-16T07:12:55.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-15T07:13:27.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-14T07:12:44.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-13T07:10:49.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-12T07:14:38.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-11T07:11:06.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-10T07:13:27.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-09T07:10:52.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-08T07:14:24.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-07T07:12:13.000000Z"
+                    },
+                    {
+                        "price": 229,
+                        "date": "2023-10-06T07:16:44.000000Z"
+                    },
+                    {
+                        "price": 284,
+                        "date": "2023-10-05T07:16:09.000000Z"
+                    },
+                    {
+                        "price": 284,
+                        "date": "2023-10-04T07:13:23.000000Z"
+                    },
+                    {
+                        "price": 284,
+                        "date": "2023-10-03T07:15:57.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 0,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 0,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-13T18:12:48.000000Z",
+                "updated_at": "2023-10-27T07:10:49.000000Z"
+            },
+            {
+                "id": 40312,
+                "name": "Muskatn\u00f8tt Hel 555g",
+                "brand": "SANTA MARIA",
+                "vendor": null,
+                "ean": "7311311013607",
+                "url": "https://engrosnett.no/krydder/muskatnott-hel-555g",
+                "image": "https://engrosnett.no/image/olje-krydder-smakstilsetninger/krydder/4817870-4815379.jpg?lb=true&v=638181077223570000",
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": 325,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Engrosnett",
+                    "code": "ENGROSSNETT_NO",
+                    "url": "https://engrosnett.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Engrosnett.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 325,
+                        "date": "2023-10-27T07:11:08.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-26T07:10:43.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-25T07:12:12.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-24T07:11:33.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-23T07:11:24.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-22T07:16:08.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-21T07:12:57.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-20T07:11:13.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-19T07:16:39.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-18T07:11:19.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-17T07:15:12.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-16T07:15:44.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-15T07:17:08.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-14T07:10:57.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-13T07:17:12.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-12T07:16:38.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-11T07:14:51.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-10T07:17:00.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-09T07:15:15.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-08T07:14:54.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-07T07:15:02.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-06T07:15:37.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-05T07:15:59.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-04T07:11:53.000000Z"
+                    },
+                    {
+                        "price": 325,
+                        "date": "2023-10-03T07:16:39.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 0,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 0,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "fsc",
+                        "display_name": "FSC",
+                        "description": "FSC-merket er et r\u00e5varemerke og omfatter b\u00e5de biologisk mangfold, b\u00e6rekraft og sosiale aspekter.",
+                        "organization": "Forest Stewardship Council\u00ae",
+                        "alternative_names": null,
+                        "type": "Sertifisering",
+                        "year_established": 1993,
+                        "about": "<div>FSC-merket, ogs\u00e5 kjent som Forest Stewardship Council-merket, er en internasjonal sertifiseringsordning for b\u00e6rekraftig skogbruk. Det sikrer at tre- og papirprodukter kommer fra skoger som forvaltes p\u00e5 en milj\u00f8vennlig, sosialt ansvarlig og \u00f8konomisk levedyktig m\u00e5te.<br><br>FSC fokuserer p\u00e5 b\u00e6rekraftig skogbruk ved \u00e5 opprettholde biologisk mangfold, beskytte truede arter og bevare \u00f8kosystemets integritet. Skoger som er FSC-merket, m\u00e5 ogs\u00e5 respektere urfolks og lokalsamfunns rettigheter, kulturelle verdier og arbeidstakeres rettigheter og sikkerhet.<br><br>FSC-merket har et sporbarhetssystem som sikrer at tre- og papirprodukter kan spores tilbake til FSC-sertifiserte skoger. Dette gir forbrukere trygghet om at produktene de kj\u00f8per ikke bidrar til avskoging eller \u00f8deleggelse av s\u00e5rbare skoger. Gjennom FSC-merket kan forbrukere ta informerte valg som st\u00f8tter skogbevaring og sosialt rettferdige praksiser, samtidig som det oppfordres til dialog og samarbeid mellom ulike interessenter for \u00e5 fremme ansvarlig skogbruk globalt.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/FSC.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/FSC.png"
+                        }
+                    },
+                    {
+                        "name": "glass_og_gaffel",
+                        "display_name": "Glass og Gaffel",
+                        "description": "Glass- og gaffelsymbolet er en merking som indikerer at materialer og gjenstander er trygge \u00e5 bruke i forbindelse med mat.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Glass- og gaffelsymbolet er en merking som produsenter bruker for \u00e5 indikere at materialer og gjenstander er ment for kontakt med n\u00e6ringsmidler. Det fungerer som en form for kvalitetskontroll og forsikrer forbrukerne om at produktet oppfyller visse standarder for n\u00e6ringsmiddelkontakt. Symbolet best\u00e5r av et glass og en gaffel, som er vanlige symboler for drikkevarer og spisebestikk.<br><br></div><div><br>I tillegg til glass- og gaffelsymbolet kan produsenter ogs\u00e5 bruke alternative merkinger som \"for n\u00e6ringsmidler\" eller spesifikke betegnelser som beskriver bruksomr\u00e5det til produktet, for eksempel \"br\u00f8dpose\". Disse merkene tjener til \u00e5 informere forbrukerne om at produktet er beregnet p\u00e5 bruk i forbindelse med n\u00e6ringsmidler. Kravene til \u00e5 angi at et produkt er beregnet p\u00e5 n\u00e6ringsmidler gjelder ikke hvis det er tydelig angitt p\u00e5 selve produktet at det er ment for n\u00e6ringsmiddelbruk, for eksempel et glass eller en tallerken.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Glass og gaffel.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Glass og gaffel.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-13T18:13:53.000000Z",
+                "updated_at": "2023-10-27T07:11:08.000000Z"
+            },
+            {
+                "id": 54266,
+                "name": "MUSKATN\u00d8TT HEL 14G POS HINDU",
+                "brand": null,
+                "vendor": null,
+                "ean": "7045010001237",
+                "url": "https://nettbutikk.bunnpris.no/itemdetail.aspx?itemno=7045010001237&itemgrpno=&grpnm=&deptno=",
+                "image": "https://nettbutikk.bunnpris.no/itemImages/noimage_f.png",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 24.5,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Bunnpris",
+                    "code": "BUNNPRIS",
+                    "url": "https://bunnpris.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Bunnpris.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-27T07:21:09.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-26T07:22:40.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-25T07:19:18.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-24T07:18:18.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-23T07:19:41.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-22T07:18:44.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-21T07:19:04.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-20T07:18:29.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-19T07:18:47.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-18T07:19:28.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-17T07:17:47.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-16T07:18:50.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-15T07:18:21.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-14T07:18:31.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-13T07:17:27.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-12T07:19:12.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-11T07:18:34.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-10T07:19:42.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-09T07:20:11.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-08T07:17:47.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-07T07:16:51.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-06T07:20:22.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-05T07:19:09.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-04T07:21:58.000000Z"
+                    },
+                    {
+                        "price": 24.5,
+                        "date": "2023-10-03T07:18:42.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2022-10-31T22:15:27.000000Z",
+                "updated_at": "2023-10-27T07:21:09.000000Z"
+            },
+            {
+                "id": 54561,
+                "name": "MALT MUSKATN\u00d8TT POSE Pose hindu",
+                "brand": null,
+                "vendor": null,
+                "ean": "7045010001220",
+                "url": "https://nettbutikk.bunnpris.no/itemdetail.aspx?itemno=7045010001220&itemgrpno=&grpnm=&deptno=",
+                "image": "https://nettbutikk.bunnpris.no/itemImages/7045010001220_0_f.png",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 13.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Bunnpris",
+                    "code": "BUNNPRIS",
+                    "url": "https://bunnpris.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Bunnpris.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-27T07:20:40.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-26T07:22:08.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-25T07:19:22.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-24T07:20:50.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-23T07:21:01.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-22T07:20:04.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-21T07:16:58.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-20T07:18:56.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-19T07:20:26.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-18T07:17:36.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-17T07:18:01.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-16T07:19:21.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-15T07:20:09.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-14T07:18:30.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-13T07:19:16.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-12T07:18:53.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-11T07:18:09.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-10T07:18:04.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-09T07:21:05.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-08T07:16:01.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-07T07:19:10.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-06T07:19:32.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-05T07:19:24.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-04T07:17:19.000000Z"
+                    },
+                    {
+                        "price": 13.9,
+                        "date": "2023-10-03T07:18:57.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2022-10-31T22:15:36.000000Z",
+                "updated_at": "2023-10-27T07:20:40.000000Z"
+            },
+            {
+                "id": 60516,
+                "name": "Muskatn\u00f8tt hel 14g Pos Hindu",
+                "brand": "Hindu",
+                "vendor": "Olaf ellingsen",
+                "ean": "7045010001237",
+                "url": "https://kiwi.no/aktuelt/dagligvarer/#7045010001237",
+                "image": "https://bilder.ngdata.no/7045010001237/kiwi/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Muskatn\u00f8tt hel",
+                "current_price": 17.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "KIWI",
+                    "code": "KIWI",
+                    "url": "https://kiwi.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Kiwi.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 17.9,
+                        "date": "2023-04-13T06:59:52.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-04-13T02:20:57.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-04-12T08:11:09.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-04-11T07:44:42.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-04-09T22:29:20.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-04-08T08:26:14.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-04-05T11:13:18.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-04-04T18:27:31.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-04-03T07:02:14.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-04-02T21:50:01.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-04-01T12:21:16.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-03-30T11:28:42.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-03-28T22:15:53.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-03-28T08:47:15.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-03-27T04:40:45.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-03-25T18:24:08.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-03-24T19:25:25.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-03-23T09:18:23.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-03-22T10:44:58.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-03-20T03:57:57.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-03-18T11:50:42.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-03-17T11:24:00.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-03-15T09:52:09.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-03-13T07:54:30.000000Z"
+                    },
+                    {
+                        "price": 17.9,
+                        "date": "2023-03-09T11:42:55.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 20.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-12-11T20:53:16.000000Z",
+                "updated_at": "2023-07-16T23:42:29.000000Z"
+            },
+            {
+                "id": 61463,
+                "name": "Muskatn\u00f8tt Malt 12g Pos Hindu",
+                "brand": "Hindu",
+                "vendor": "Olaf ellingsen",
+                "ean": "7045010001220",
+                "url": "https://kiwi.no/aktuelt/dagligvarer/#7045010001220",
+                "image": "https://bilder.ngdata.no/7045010001220/kiwi/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Muscatn\u00f8tt malt",
+                "current_price": 9.3,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "KIWI",
+                    "code": "KIWI",
+                    "url": "https://kiwi.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Kiwi.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 9.3,
+                        "date": "2023-04-13T06:59:57.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-04-13T02:20:44.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-04-12T08:11:10.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-04-11T07:44:38.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-04-09T22:29:21.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-04-08T08:26:25.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-04-05T11:13:16.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-04-04T18:27:29.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-04-03T07:02:11.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-04-02T21:50:08.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-04-01T12:21:09.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-03-30T11:28:45.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-03-28T22:15:49.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-03-28T08:47:20.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-03-27T04:40:49.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-03-25T18:24:06.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-03-24T19:24:45.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-03-23T09:18:19.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-03-22T10:44:59.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-03-20T03:57:28.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-03-18T11:50:46.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-03-17T11:24:14.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-03-15T09:51:59.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-03-13T07:54:20.000000Z"
+                    },
+                    {
+                        "price": 9.3,
+                        "date": "2023-03-09T11:43:21.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 20.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-12-11T20:53:21.000000Z",
+                "updated_at": "2023-07-16T23:42:37.000000Z"
+            },
+            {
+                "id": 66896,
+                "name": "Muskatn\u00f8tt Malt 1kg",
+                "brand": null,
+                "vendor": null,
+                "ean": null,
+                "url": "https://engrosnett.no/krydder/muskatnott-malt-1kg",
+                "image": "https://engrosnett.no/image/krydder/2560324-2560324-png?lb=true&v=638181007703130000",
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": 478,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Engrosnett",
+                    "code": "ENGROSSNETT_NO",
+                    "url": "https://engrosnett.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Engrosnett.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 478,
+                        "date": "2023-10-27T07:17:15.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-26T07:14:53.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-25T07:11:14.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-24T07:15:48.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-23T07:15:10.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-22T07:15:02.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-21T07:14:00.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-20T07:14:02.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-19T07:12:20.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-18T07:15:58.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-17T07:16:03.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-16T07:11:23.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-15T07:15:13.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-14T07:15:50.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-13T07:10:46.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-12T07:14:41.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-11T07:10:54.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-10T07:14:49.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-09T07:15:27.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-08T07:11:31.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-07T07:12:33.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-06T07:13:18.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-05T07:10:43.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-04T07:14:27.000000Z"
+                    },
+                    {
+                        "price": 478,
+                        "date": "2023-10-03T07:15:27.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 0,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 0,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-02-25T17:38:46.000000Z",
+                "updated_at": "2023-10-27T07:17:15.000000Z"
+            },
+            {
+                "id": 92164,
+                "name": "Muskatn\u00f8tt Malt 35g Santa Maria",
+                "brand": "Santa-Maria",
+                "vendor": "SANTA MARIA NORGE AS",
+                "ean": "7311311014604",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7311311014604",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Muskatn\u00f8d/Muskatn\u00f8tt",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 35,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 20.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.04,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "grontpunkt",
+                        "display_name": "Gr\u00f8nt Punkt",
+                        "description": "Gr\u00f8nt Punkt-symbolet viser at bedriften tar sitt lovp\u00e5lagte produsentansvar for emballasjeinnsamling og gjenvinning.",
+                        "organization": "Gr\u00f8nt Punkt Norge",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 1994,
+                        "about": "<div>Gr\u00f8nt Punkt-symbolet er et symbol knyttet til produsentansvar for emballasje i Norge. Dette symbolet fungerer som et bevis p\u00e5 at en bedrift har oppfylt sitt lovp\u00e5lagte ansvar gjennom medlemskap i Gr\u00f8nt Punkt Norge. Som et anerkjent symbol representerer det bedriftens engasjement for innsamling og gjenvinning av emballasje, noe som ogs\u00e5 har en positiv effekt p\u00e5 bedriftens omd\u00f8mme.<br><br></div><div><br>Gr\u00f8nt Punkt-symbolet er en kvittering som viser at bedriften har tatt sitt milj\u00f8ansvar ved \u00e5 v\u00e6re medlem i et godkjent returselskap for emballasje. Det symboliserer bedriftens betaling for innsamling og gjenvinning av emballasje gjennom Gr\u00f8nt Punkt Norge. Dette er en viktig del av det lovp\u00e5lagte produsentansvaret for emballasje i Norge.<br><br></div><div><br>Ved \u00e5 vise Gr\u00f8nt Punkt-symbolet demonstrerer bedriften at den tar ansvar for emballasjen sin gjennom hele livssyklusen. Dette inkluderer finansiering av innsamling og gjenvinning, og bidrar dermed til \u00e5 redusere milj\u00f8belastningen av emballasje. Som et symbol for milj\u00f8ansvar bidrar Gr\u00f8nt Punkt-symbolet til \u00e5 styrke bedriftens omd\u00f8mme og signaliserer at den tar b\u00e6rekraft p\u00e5 alvor.<br><br></div><div><br>Gr\u00f8nt Punkt Norge forvalter produsentansvarsordningen for returselskapene som tar seg av ulike typer emballasje. Dette symbolet er en anerkjent mark\u00f8r som har v\u00e6rt i bruk siden 1997. Bedrifter som er medlemmer av Gr\u00f8nt Punkt Norge og bruker symbolet, viser at de tar sin del av ansvaret for emballasjen de produserer eller importerer. Dette bidrar til et mer b\u00e6rekraftig og ressurseffektivt samfunn.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Gront Punkt.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Gront Punkt.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T02:47:28.000000Z",
+                "updated_at": "2023-09-06T01:14:01.000000Z"
+            },
+            {
+                "id": 94694,
+                "name": "Muskatn\u00f8tt Hel 555g Santa Maria",
+                "brand": "Santa Maria",
+                "vendor": "SANTA MARIA NORGE AS",
+                "ean": "7311311013607",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7311311013607",
+                "category": null,
+                "description": null,
+                "ingredients": "Muskatn\u00f8d/Muskatn\u00f8tt.",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 555,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 21,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 26,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.04,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "fsc",
+                        "display_name": "FSC",
+                        "description": "FSC-merket er et r\u00e5varemerke og omfatter b\u00e5de biologisk mangfold, b\u00e6rekraft og sosiale aspekter.",
+                        "organization": "Forest Stewardship Council\u00ae",
+                        "alternative_names": null,
+                        "type": "Sertifisering",
+                        "year_established": 1993,
+                        "about": "<div>FSC-merket, ogs\u00e5 kjent som Forest Stewardship Council-merket, er en internasjonal sertifiseringsordning for b\u00e6rekraftig skogbruk. Det sikrer at tre- og papirprodukter kommer fra skoger som forvaltes p\u00e5 en milj\u00f8vennlig, sosialt ansvarlig og \u00f8konomisk levedyktig m\u00e5te.<br><br>FSC fokuserer p\u00e5 b\u00e6rekraftig skogbruk ved \u00e5 opprettholde biologisk mangfold, beskytte truede arter og bevare \u00f8kosystemets integritet. Skoger som er FSC-merket, m\u00e5 ogs\u00e5 respektere urfolks og lokalsamfunns rettigheter, kulturelle verdier og arbeidstakeres rettigheter og sikkerhet.<br><br>FSC-merket har et sporbarhetssystem som sikrer at tre- og papirprodukter kan spores tilbake til FSC-sertifiserte skoger. Dette gir forbrukere trygghet om at produktene de kj\u00f8per ikke bidrar til avskoging eller \u00f8deleggelse av s\u00e5rbare skoger. Gjennom FSC-merket kan forbrukere ta informerte valg som st\u00f8tter skogbevaring og sosialt rettferdige praksiser, samtidig som det oppfordres til dialog og samarbeid mellom ulike interessenter for \u00e5 fremme ansvarlig skogbruk globalt.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/FSC.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/FSC.png"
+                        }
+                    },
+                    {
+                        "name": "glass_og_gaffel",
+                        "display_name": "Glass og Gaffel",
+                        "description": "Glass- og gaffelsymbolet er en merking som indikerer at materialer og gjenstander er trygge \u00e5 bruke i forbindelse med mat.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Glass- og gaffelsymbolet er en merking som produsenter bruker for \u00e5 indikere at materialer og gjenstander er ment for kontakt med n\u00e6ringsmidler. Det fungerer som en form for kvalitetskontroll og forsikrer forbrukerne om at produktet oppfyller visse standarder for n\u00e6ringsmiddelkontakt. Symbolet best\u00e5r av et glass og en gaffel, som er vanlige symboler for drikkevarer og spisebestikk.<br><br></div><div><br>I tillegg til glass- og gaffelsymbolet kan produsenter ogs\u00e5 bruke alternative merkinger som \"for n\u00e6ringsmidler\" eller spesifikke betegnelser som beskriver bruksomr\u00e5det til produktet, for eksempel \"br\u00f8dpose\". Disse merkene tjener til \u00e5 informere forbrukerne om at produktet er beregnet p\u00e5 bruk i forbindelse med n\u00e6ringsmidler. Kravene til \u00e5 angi at et produkt er beregnet p\u00e5 n\u00e6ringsmidler gjelder ikke hvis det er tydelig angitt p\u00e5 selve produktet at det er ment for n\u00e6ringsmiddelbruk, for eksempel et glass eller en tallerken.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Glass og gaffel.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Glass og gaffel.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T02:51:46.000000Z",
+                "updated_at": "2023-09-06T01:14:21.000000Z"
+            },
+            {
+                "id": 94830,
+                "name": "Muskatn\u00f8tt Malt 440g",
+                "brand": "",
+                "vendor": "SANTA MARIA NORGE AS",
+                "ean": "7311311011993",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7311311011993",
+                "category": null,
+                "description": null,
+                "ingredients": "Muskatn\u00f8d/Muskatn\u00f8tt.",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 440,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 29,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 21,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 26,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.04,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "fsc",
+                        "display_name": "FSC",
+                        "description": "FSC-merket er et r\u00e5varemerke og omfatter b\u00e5de biologisk mangfold, b\u00e6rekraft og sosiale aspekter.",
+                        "organization": "Forest Stewardship Council\u00ae",
+                        "alternative_names": null,
+                        "type": "Sertifisering",
+                        "year_established": 1993,
+                        "about": "<div>FSC-merket, ogs\u00e5 kjent som Forest Stewardship Council-merket, er en internasjonal sertifiseringsordning for b\u00e6rekraftig skogbruk. Det sikrer at tre- og papirprodukter kommer fra skoger som forvaltes p\u00e5 en milj\u00f8vennlig, sosialt ansvarlig og \u00f8konomisk levedyktig m\u00e5te.<br><br>FSC fokuserer p\u00e5 b\u00e6rekraftig skogbruk ved \u00e5 opprettholde biologisk mangfold, beskytte truede arter og bevare \u00f8kosystemets integritet. Skoger som er FSC-merket, m\u00e5 ogs\u00e5 respektere urfolks og lokalsamfunns rettigheter, kulturelle verdier og arbeidstakeres rettigheter og sikkerhet.<br><br>FSC-merket har et sporbarhetssystem som sikrer at tre- og papirprodukter kan spores tilbake til FSC-sertifiserte skoger. Dette gir forbrukere trygghet om at produktene de kj\u00f8per ikke bidrar til avskoging eller \u00f8deleggelse av s\u00e5rbare skoger. Gjennom FSC-merket kan forbrukere ta informerte valg som st\u00f8tter skogbevaring og sosialt rettferdige praksiser, samtidig som det oppfordres til dialog og samarbeid mellom ulike interessenter for \u00e5 fremme ansvarlig skogbruk globalt.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/FSC.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/FSC.png"
+                        }
+                    },
+                    {
+                        "name": "glass_og_gaffel",
+                        "display_name": "Glass og Gaffel",
+                        "description": "Glass- og gaffelsymbolet er en merking som indikerer at materialer og gjenstander er trygge \u00e5 bruke i forbindelse med mat.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Glass- og gaffelsymbolet er en merking som produsenter bruker for \u00e5 indikere at materialer og gjenstander er ment for kontakt med n\u00e6ringsmidler. Det fungerer som en form for kvalitetskontroll og forsikrer forbrukerne om at produktet oppfyller visse standarder for n\u00e6ringsmiddelkontakt. Symbolet best\u00e5r av et glass og en gaffel, som er vanlige symboler for drikkevarer og spisebestikk.<br><br></div><div><br>I tillegg til glass- og gaffelsymbolet kan produsenter ogs\u00e5 bruke alternative merkinger som \"for n\u00e6ringsmidler\" eller spesifikke betegnelser som beskriver bruksomr\u00e5det til produktet, for eksempel \"br\u00f8dpose\". Disse merkene tjener til \u00e5 informere forbrukerne om at produktet er beregnet p\u00e5 bruk i forbindelse med n\u00e6ringsmidler. Kravene til \u00e5 angi at et produkt er beregnet p\u00e5 n\u00e6ringsmidler gjelder ikke hvis det er tydelig angitt p\u00e5 selve produktet at det er ment for n\u00e6ringsmiddelbruk, for eksempel et glass eller en tallerken.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Glass og gaffel.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Glass og gaffel.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T02:51:55.000000Z",
+                "updated_at": "2023-09-06T01:14:22.000000Z"
+            },
+            {
+                "id": 95947,
+                "name": "Muskatn\u00f8tt Hel 10g Santa Maria",
+                "brand": "Santa Maria",
+                "vendor": "SANTA MARIA NORGE AS",
+                "ean": "7311311004636",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7311311004636",
+                "category": null,
+                "description": null,
+                "ingredients": "Muskatn\u00f8d/Muskatn\u00f8tt.",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 10,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 20.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.04,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "resin7",
+                        "display_name": "Andre plasttyper (Andre eller O)",
+                        "description": "Andre typer plast som ikke dekkes av de andre kategoriene",
+                        "organization": "ASTM International",
+                        "alternative_names": null,
+                        "type": "Plastmerke",
+                        "year_established": null,
+                        "about": "Andre plasttyper, som akryl, nylon, polycarbonat og polylaktid (en bioplast ogs\u00e5 kjent som PLA), samt flerlags kombinasjoner av forskjellige plasttyper, brukes til \u00e5 lage flasker, konstruksjonsmaterialer av plast, frontlykter, vernebriller og sikkerhetsbeskyttelse. Nummer 7-plast er vanligvis ikke resirkulerbart da det ofte ble produsert i begrensede mengder da symbolene ble etablert.",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Resin7.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Resin7.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T02:53:11.000000Z",
+                "updated_at": "2023-09-06T01:14:32.000000Z"
+            },
+            {
+                "id": 103810,
+                "name": "Muskatn\u00f8tt Hel 12 g Toro",
+                "brand": "Toro",
+                "vendor": "ORKLA FOODS NORGE AS",
+                "ean": "7045516190688",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7045516190688",
+                "category": null,
+                "description": null,
+                "ingredients": "Muskatn\u00f8tt.",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 12,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 0,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 0,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.04,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T03:02:36.000000Z",
+                "updated_at": "2023-09-06T01:15:39.000000Z"
+            },
+            {
+                "id": 104285,
+                "name": "Muskatn\u00f8tt Malt 10g TORO",
+                "brand": "TORO",
+                "vendor": "ORKLA FOODS NORGE AS",
+                "ean": "7045516196079",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7045516196079",
+                "category": null,
+                "description": null,
+                "ingredients": "Muskatn\u00f8tt.",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 10,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 0,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 0,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.04,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T03:03:10.000000Z",
+                "updated_at": "2023-09-06T01:15:43.000000Z"
+            },
+            {
+                "id": 107859,
+                "name": "Muskatn\u00f8tt hel 30g Saga",
+                "brand": "Saga",
+                "vendor": "L.k. haaland as",
+                "ean": "7053260226218",
+                "url": "https://meny.no/Varer/middagstilbehor/krydder/muskat/muskatnott-hel-7053260226218",
+                "image": "https://bilder.ngdata.no/7053260226218/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Muskatn\u00f8tt",
+                "current_price": 25.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 25.9,
+                        "date": "2023-08-03T07:01:24.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-08-02T07:01:51.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-08-01T07:01:01.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-31T07:03:13.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-31T07:01:12.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-30T07:00:52.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-29T07:02:54.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-29T07:00:43.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-28T07:02:10.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-27T07:03:34.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-27T07:02:17.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-26T07:01:54.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-25T07:03:53.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-25T07:02:08.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-24T07:04:15.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-24T07:02:42.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-23T07:01:35.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-22T07:00:47.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-21T07:01:04.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-20T07:01:04.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-19T07:00:41.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-18T07:00:57.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-17T07:00:50.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-16T07:01:16.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-15T07:00:53.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 535,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2239,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 45,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.94,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.04,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 22.5,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T14:15:38.000000Z",
+                "updated_at": "2023-08-03T07:01:24.000000Z"
+            },
+            {
+                "id": 107876,
+                "name": "Muskatn\u00f8tt Malt 40g Saga",
+                "brand": "Saga",
+                "vendor": "L.k. haaland as",
+                "ean": "7053260226416",
+                "url": "https://meny.no/Varer/middagstilbehor/krydder/muskat/muskatnott-malt-7053260226416",
+                "image": "https://bilder.ngdata.no/7053260226416/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Muskatn\u00f8tt",
+                "current_price": 25.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 25.9,
+                        "date": "2023-08-03T07:01:03.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-08-02T07:01:21.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-08-01T07:01:30.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-31T07:03:18.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-31T07:01:40.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-30T07:03:16.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-30T07:01:18.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-29T07:03:16.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-29T07:01:32.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-28T07:01:27.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-27T07:03:16.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-27T07:01:19.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-26T07:01:18.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-25T07:03:26.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-25T07:01:14.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-24T07:03:41.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-24T07:01:39.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-23T07:01:10.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-22T07:00:47.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-21T07:01:04.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-20T07:01:04.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-19T07:00:41.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-18T07:00:57.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-17T07:00:50.000000Z"
+                    },
+                    {
+                        "price": 25.9,
+                        "date": "2023-07-16T07:01:17.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 535,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2239,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 45,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.94,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.04,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 22.5,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T14:15:39.000000Z",
+                "updated_at": "2023-08-03T07:01:03.000000Z"
+            },
+            {
+                "id": 116053,
+                "name": "Muskatn\u00f8tt Malt 35g Santa-Maria",
+                "brand": "Santa maria",
+                "vendor": "Santa maria norge as",
+                "ean": "7311311014604",
+                "url": "https://spar.no/nettbutikk/varer/middagstilbehor/krydder/muskat/muskatnott-malt-7311311014604",
+                "image": "https://bilder.ngdata.no/7311311014604/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 249,
+                        "depth": -1,
+                        "name": "Krydder"
+                    },
+                    {
+                        "id": 352,
+                        "depth": 0,
+                        "name": "Muskat"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Muskatn\u00f8d/muskatn\u00f8tt",
+                "current_price": 38.5,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 38.5,
+                        "date": "2023-08-03T07:03:01.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-08-02T07:02:43.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-08-01T07:02:26.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-31T07:03:00.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-30T07:03:11.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-29T07:04:23.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-28T07:02:26.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-27T07:02:41.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-26T07:02:29.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-25T07:02:41.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-24T07:04:17.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-24T07:02:56.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-23T07:02:24.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-22T07:02:33.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-21T07:02:21.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-20T07:02:12.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-19T07:02:21.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-18T07:02:22.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-17T07:02:33.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-16T07:02:20.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-15T07:02:24.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-14T07:01:57.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-13T07:02:54.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-12T07:02:44.000000Z"
+                    },
+                    {
+                        "price": 38.5,
+                        "date": "2023-07-11T07:02:45.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 20.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.04,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "grontpunkt",
+                        "display_name": "Gr\u00f8nt Punkt",
+                        "description": "Gr\u00f8nt Punkt-symbolet viser at bedriften tar sitt lovp\u00e5lagte produsentansvar for emballasjeinnsamling og gjenvinning.",
+                        "organization": "Gr\u00f8nt Punkt Norge",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 1994,
+                        "about": "<div>Gr\u00f8nt Punkt-symbolet er et symbol knyttet til produsentansvar for emballasje i Norge. Dette symbolet fungerer som et bevis p\u00e5 at en bedrift har oppfylt sitt lovp\u00e5lagte ansvar gjennom medlemskap i Gr\u00f8nt Punkt Norge. Som et anerkjent symbol representerer det bedriftens engasjement for innsamling og gjenvinning av emballasje, noe som ogs\u00e5 har en positiv effekt p\u00e5 bedriftens omd\u00f8mme.<br><br></div><div><br>Gr\u00f8nt Punkt-symbolet er en kvittering som viser at bedriften har tatt sitt milj\u00f8ansvar ved \u00e5 v\u00e6re medlem i et godkjent returselskap for emballasje. Det symboliserer bedriftens betaling for innsamling og gjenvinning av emballasje gjennom Gr\u00f8nt Punkt Norge. Dette er en viktig del av det lovp\u00e5lagte produsentansvaret for emballasje i Norge.<br><br></div><div><br>Ved \u00e5 vise Gr\u00f8nt Punkt-symbolet demonstrerer bedriften at den tar ansvar for emballasjen sin gjennom hele livssyklusen. Dette inkluderer finansiering av innsamling og gjenvinning, og bidrar dermed til \u00e5 redusere milj\u00f8belastningen av emballasje. Som et symbol for milj\u00f8ansvar bidrar Gr\u00f8nt Punkt-symbolet til \u00e5 styrke bedriftens omd\u00f8mme og signaliserer at den tar b\u00e6rekraft p\u00e5 alvor.<br><br></div><div><br>Gr\u00f8nt Punkt Norge forvalter produsentansvarsordningen for returselskapene som tar seg av ulike typer emballasje. Dette symbolet er en anerkjent mark\u00f8r som har v\u00e6rt i bruk siden 1997. Bedrifter som er medlemmer av Gr\u00f8nt Punkt Norge og bruker symbolet, viser at de tar sin del av ansvaret for emballasjen de produserer eller importerer. Dette bidrar til et mer b\u00e6rekraftig og ressurseffektivt samfunn.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Gront Punkt.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Gront Punkt.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T14:16:43.000000Z",
+                "updated_at": "2023-08-03T07:03:01.000000Z"
+            },
+            {
+                "id": 142824,
+                "name": "Muskatn\u00f8tt Hel Boks Hindu",
+                "brand": "Hindu",
+                "vendor": "OLAF ELLINGSEN A/S",
+                "ean": "7045010004252",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7045010004252",
+                "category": null,
+                "description": null,
+                "ingredients": "MUSKATN\u00d8TT HEL",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 340,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 20.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-12T00:04:13.000000Z",
+                "updated_at": "2023-09-06T01:18:21.000000Z"
+            },
+            {
+                "id": 148745,
+                "name": "Muskatn\u00f8tt Hel 37g Albert M\u00e9n\u00e8s",
+                "brand": "Albert M\u00e9n\u00e8s",
+                "vendor": "SARRAZAC AS",
+                "ean": "3162900031274",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/3162900031274",
+                "category": null,
+                "description": null,
+                "ingredients": "Muskatn\u00f8tt malt",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 0.04,
+                "weight_unit": "kg",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "peanotter",
+                        "display_name": "Pean\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2023-06-12T00:14:16.000000Z",
+                "updated_at": "2023-09-06T01:19:11.000000Z"
+            },
+            {
+                "id": 179816,
+                "name": "Muskatn\u00f8tt Malt 1 kg Ig",
+                "brand": "Ig",
+                "vendor": "INTER-GASTRO AS",
+                "ean": "5700320100637",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/5700320100637",
+                "category": null,
+                "description": null,
+                "ingredients": "Muskat",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 1,
+                "weight_unit": "kg",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 525,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2196,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 3.22,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0.35,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 49.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.84,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 28.5,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-16T15:39:49.000000Z",
+                "updated_at": "2023-09-06T01:23:45.000000Z"
+            },
+            {
+                "id": 187153,
+                "name": "Muskatn\u00f8tt Hel",
+                "brand": "Hindu",
+                "vendor": "OLAF ELLINGSEN A/S",
+                "ean": "7045010001237",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7045010001237",
+                "category": null,
+                "description": null,
+                "ingredients": "MUSKATN\u00d8TT HEL",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 18,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 506,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2093,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 28.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 20.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 25.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-08-11T17:29:02.000000Z",
+                "updated_at": "2023-09-06T01:24:01.000000Z"
+            }
+        ]
+    ]
+}

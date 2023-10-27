@@ -1,0 +1,94 @@
+{
+    "data": [
+        [
+            {
+                "id": 178638,
+                "name": "N\u00f8tteliten Macadamian\u00f8tter Rist/salt 500g",
+                "brand": "N\u00d8TTELITEN",
+                "vendor": "FOODTRADE AS",
+                "ean": "7090048374297",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7090048374297",
+                "category": null,
+                "description": null,
+                "ingredients": "Macadamian\u00f8tter, solsikkeolje, salt",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 500,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "cashewnott",
+                        "display_name": "Cashewn\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "macadamianott",
+                        "display_name": "Macademiann\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 729,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 3052,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 77.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 12.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 11.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 7.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 4.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-16T15:31:28.000000Z",
+                "updated_at": "2023-09-06T01:23:36.000000Z"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,2956 @@
+{
+    "data": [
+        [
+            {
+                "id": 32610,
+                "name": "L'Oreal Lipstick Color Riche Plump Litchi 103",
+                "brand": "LOREAL",
+                "vendor": "L'OREAL NORGE AS",
+                "ean": "3600523687138",
+                "url": "https://matlevering.coop.no/hygieneartikler/kosmetikk/loreal-lipstick-c.rich-litchi",
+                "image": "https://cdcimg.coop.no/rte/RTE2/3600523687138.png",
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": 159,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Coop",
+                    "code": "COOP_NO",
+                    "url": "https://matlevering.coop.no",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Coop.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 159,
+                        "date": "2022-01-13T00:01:55.000000Z"
+                    },
+                    {
+                        "price": 159,
+                        "date": "2022-01-12T20:35:41.000000Z"
+                    },
+                    {
+                        "price": 159,
+                        "date": "2022-01-12T20:29:47.000000Z"
+                    },
+                    {
+                        "price": 159,
+                        "date": "2022-01-11T22:13:01.000000Z"
+                    },
+                    {
+                        "price": 159,
+                        "date": "2022-01-11T22:03:12.000000Z"
+                    },
+                    {
+                        "price": 159,
+                        "date": "2022-01-10T22:02:22.000000Z"
+                    },
+                    {
+                        "price": 159,
+                        "date": "2022-01-10T17:31:14.000000Z"
+                    },
+                    {
+                        "price": 159,
+                        "date": "2022-01-09T20:02:35.000000Z"
+                    },
+                    {
+                        "price": 159,
+                        "date": "2022-01-09T20:02:35.000000Z"
+                    },
+                    {
+                        "price": 159,
+                        "date": "2022-01-09T19:59:12.000000Z"
+                    },
+                    {
+                        "price": 159,
+                        "date": "2022-01-09T19:59:12.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2022-01-09T19:59:12.000000Z",
+                "updated_at": "2023-07-16T23:38:18.000000Z"
+            },
+            {
+                "id": 39210,
+                "name": "Monin Litchi 70cl",
+                "brand": "MONIN",
+                "vendor": null,
+                "ean": "3052910606923",
+                "url": "https://engrosnett.no/monin-shake-it/monin-litchi-70cl",
+                "image": "https://engrosnett.no/image/drikkevarer/monin/323428-323428.png?lb=true&v=638205177168530000",
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": 160,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Engrosnett",
+                    "code": "ENGROSSNETT_NO",
+                    "url": "https://engrosnett.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Engrosnett.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 160,
+                        "date": "2023-10-27T07:14:42.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-26T07:15:56.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-25T07:15:24.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-24T07:15:01.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-23T07:13:34.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-22T07:15:01.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-21T07:14:35.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-20T07:15:06.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-19T07:16:30.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-18T07:13:13.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-17T07:10:41.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-16T07:15:16.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-15T07:11:09.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-14T07:16:33.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-13T07:14:51.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-12T07:12:27.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-11T07:12:00.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-10T07:11:20.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-09T07:14:41.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-08T07:11:59.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-07T07:12:02.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-06T07:13:08.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-05T07:15:36.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-04T07:11:37.000000Z"
+                    },
+                    {
+                        "price": 160,
+                        "date": "2023-10-03T07:12:03.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 0,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 0,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-13T18:12:45.000000Z",
+                "updated_at": "2023-10-27T07:14:42.000000Z"
+            },
+            {
+                "id": 45579,
+                "name": "Hansa Litchi Ipa Lite 0,5l boks",
+                "brand": "Hansa",
+                "vendor": "Hansa borg bryggerier as",
+                "ean": "7030019538709",
+                "url": "https://spar.no/nettbutikk/varer/drikke/ol/ol/hansa-litchi-ipa-7030019538709",
+                "image": "https://res.cloudinary.com/norgesgruppen/image/upload/v1651537315/Product/7030019538709.jpg",
+                "category": null,
+                "description": null,
+                "ingredients": "Vann, maltet bygg glutenfri, humle og naturlig aroma",
+                "current_price": 39.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T16:07:05.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T16:05:46.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T16:04:32.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T16:00:38.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:59:37.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:58:26.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:54:33.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:53:24.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:52:23.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:48:46.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:47:38.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:47:34.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:46:23.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:42:38.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:41:24.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:40:19.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:36:17.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:35:07.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:33:47.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:29:41.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:28:33.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:27:22.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:20:51.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:19:39.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-04T15:18:22.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 28,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 117,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0.1,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "cross_grain",
+                        "display_name": "Crossed Grain",
+                        "description": "Produkter merket med det velkjente Crossed Grain-symbolet er lisensierte gjennom NCF \u2013 og er garantert glutenfrie",
+                        "organization": "European Coeliac Societies",
+                        "alternative_names": null,
+                        "type": "Sertifisering",
+                        "year_established": null,
+                        "about": "<div>Crossed Grain-symbolet er et viktig symbol for forbrukere som s\u00f8ker glutenfrie produkter og \u00f8nsker \u00e5 v\u00e6re trygge p\u00e5 at de oppfyller h\u00f8ye standarder. Symbolet indikerer at produktet er garantert glutenfritt og gir dermed forbrukerne trygghet i deres valg av matvarer.<br><br></div><div>Lisensieringsordningen for Crossed Grain administreres av <a href=\"https://ncf.no/?ref=kassal.app\">Norsk c\u00f8liakiforening</a> (NCF) i Norge, og lisensnummeret til produktet er oppf\u00f8rt under symbolet. Dette gir forbrukerne muligheten til \u00e5 verifisere at produktet er ordentlig lisensiert og oppfyller kravene for \u00e5 v\u00e6re glutenfritt.<br><br></div><div>Bak Crossed Grain st\u00e5r <a href=\"https://www.aoecs.org/\">Association of the European Coeliac Societies</a> (AOECS), som er dedikert til \u00e5 fremme tydelig merking og trygghet for forbrukere. Lisensiering av produktene gjennom NCF sikrer at de blir testet av eksterne laboratorier i henhold til AOECS' h\u00f8ye standarder basert p\u00e5 HACCP. Dette bidrar til \u00e5 \u00f8ke tilliten til produktene som er merket med Crossed Grain-symbolet.<br><br></div><div>Forbrukere som \u00f8nsker glutenfrie produkter kan stole p\u00e5 Crossed Grain-symbolet som en p\u00e5litelig indikator p\u00e5 at produktene oppfyller kravene for \u00e5 v\u00e6re glutenfrie. Det gir dem trygghet og muligheten til \u00e5 ta informerte valg n\u00e5r de handler matvarer.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Cross Grain.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Cross Grain.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-07-15T01:50:02.000000Z",
+                "updated_at": "2023-07-16T23:40:20.000000Z"
+            },
+            {
+                "id": 45604,
+                "name": "Grevens Cider Litchi&Lime 0,5l boks",
+                "brand": "Grevens",
+                "vendor": "Hansa borg bryggerier as",
+                "ean": "7030019538594",
+                "url": "https://spar.no/nettbutikk/varer/drikke/cider/cider/grevens-cider-7030019538594",
+                "image": "https://res.cloudinary.com/norgesgruppen/image/upload/v1651537313/Product/7030019538594.jpg",
+                "category": null,
+                "description": "Grevens Litchi & Lime er en forfriskende ny smak. Litchi er en eksotisk frukt med forfriskende smaksnotater av jordb\u00e6r, rose og\u00a0muskat.\u00a0?Med sine myke s\u00f8te smaker, passer den godt sammen med lime som gir en \u00f8kt friskhet.",
+                "ingredients": "Kullsyret vann, gj\u00e6ret eplejuice, sukker,  aroma,  surhetsregulerende middel, (sitronsyre, natruimsitrat), konserveringsmiddel (kaliumsorbat, e220 svoveldioksid).",
+                "current_price": 39.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-05T16:45:02.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T03:52:10.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T03:50:45.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T03:49:33.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T03:46:45.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T03:44:45.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T03:43:37.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T03:28:34.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T03:27:29.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T03:26:24.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:55:55.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:54:35.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:53:39.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:51:43.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:50:34.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:49:20.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:45:13.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:44:03.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:42:49.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:33:14.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:32:07.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:31:14.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:25:26.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:24:17.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:23:08.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "sulfitt",
+                        "display_name": "Sulfitt",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 48,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 199,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.01,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 5.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-07-15T01:50:05.000000Z",
+                "updated_at": "2023-07-16T23:40:20.000000Z"
+            },
+            {
+                "id": 45927,
+                "name": "Hansa Litchi Ipa Lite 0,5l boks",
+                "brand": "Hansa",
+                "vendor": "Hansa borg bryggerier as",
+                "ean": "7030019538709",
+                "url": "https://joker.no/nettbutikk/varer/drikkevarer/ol/ol/hansa-litchi-ipa-7030019538709",
+                "image": "https://res.cloudinary.com/norgesgruppen/image/upload/v1651537315/Product/7030019538709.jpg",
+                "category": null,
+                "description": null,
+                "ingredients": "Vann, maltet bygg glutenfri, humle og naturlig aroma",
+                "current_price": 39.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Joker",
+                    "code": "JOKER_NO",
+                    "url": "https://joker.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Joker.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 39.9,
+                        "date": "2022-09-15T14:42:55.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-09-15T14:41:48.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-09-15T14:41:21.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:46:28.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:27:18.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:26:12.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:25:09.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:07:33.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:06:24.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-17T02:05:14.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-15T01:50:39.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 28,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 117,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0.1,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "cross_grain",
+                        "display_name": "Crossed Grain",
+                        "description": "Produkter merket med det velkjente Crossed Grain-symbolet er lisensierte gjennom NCF \u2013 og er garantert glutenfrie",
+                        "organization": "European Coeliac Societies",
+                        "alternative_names": null,
+                        "type": "Sertifisering",
+                        "year_established": null,
+                        "about": "<div>Crossed Grain-symbolet er et viktig symbol for forbrukere som s\u00f8ker glutenfrie produkter og \u00f8nsker \u00e5 v\u00e6re trygge p\u00e5 at de oppfyller h\u00f8ye standarder. Symbolet indikerer at produktet er garantert glutenfritt og gir dermed forbrukerne trygghet i deres valg av matvarer.<br><br></div><div>Lisensieringsordningen for Crossed Grain administreres av <a href=\"https://ncf.no/?ref=kassal.app\">Norsk c\u00f8liakiforening</a> (NCF) i Norge, og lisensnummeret til produktet er oppf\u00f8rt under symbolet. Dette gir forbrukerne muligheten til \u00e5 verifisere at produktet er ordentlig lisensiert og oppfyller kravene for \u00e5 v\u00e6re glutenfritt.<br><br></div><div>Bak Crossed Grain st\u00e5r <a href=\"https://www.aoecs.org/\">Association of the European Coeliac Societies</a> (AOECS), som er dedikert til \u00e5 fremme tydelig merking og trygghet for forbrukere. Lisensiering av produktene gjennom NCF sikrer at de blir testet av eksterne laboratorier i henhold til AOECS' h\u00f8ye standarder basert p\u00e5 HACCP. Dette bidrar til \u00e5 \u00f8ke tilliten til produktene som er merket med Crossed Grain-symbolet.<br><br></div><div>Forbrukere som \u00f8nsker glutenfrie produkter kan stole p\u00e5 Crossed Grain-symbolet som en p\u00e5litelig indikator p\u00e5 at produktene oppfyller kravene for \u00e5 v\u00e6re glutenfrie. Det gir dem trygghet og muligheten til \u00e5 ta informerte valg n\u00e5r de handler matvarer.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Cross Grain.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Cross Grain.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-07-15T01:50:39.000000Z",
+                "updated_at": "2023-07-16T23:40:22.000000Z"
+            },
+            {
+                "id": 46622,
+                "name": "Hansa Lite Litchi IPA 6 x 0,5l, 3 l",
+                "brand": "Hansa",
+                "vendor": "Hansa Borg Bryggerier AS",
+                "ean": null,
+                "url": "https://oda.com/no/products/42081-hansa-hansa-lite-litchi-ipa-6-x-05l/",
+                "image": "https://bilder.kolonial.no/local_products/e28ddcae-98de-4ce9-bb98-47fe9ac5ddc1.jpeg?auto=format&fit=max&w=376&s=c215dc6f88bfc6e42363784a9d7e745f",
+                "category": null,
+                "description": null,
+                "ingredients": "Vann, maltet bygg glutenfri, humle og naturlig aroma",
+                "current_price": 250.6,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 250.6,
+                        "date": "2023-03-09T12:07:50.000000Z"
+                    },
+                    {
+                        "price": 239.8,
+                        "date": "2023-01-08T18:57:23.000000Z"
+                    },
+                    {
+                        "price": 215.8,
+                        "date": "2022-12-15T19:51:40.000000Z"
+                    },
+                    {
+                        "price": 215.4,
+                        "date": "2022-12-14T07:01:03.000000Z"
+                    },
+                    {
+                        "price": 215.4,
+                        "date": "2022-12-11T21:09:58.000000Z"
+                    },
+                    {
+                        "price": 215.4,
+                        "date": "2022-12-09T16:22:42.000000Z"
+                    },
+                    {
+                        "price": 215.4,
+                        "date": "2022-12-04T15:09:06.000000Z"
+                    },
+                    {
+                        "price": 215.4,
+                        "date": "2022-11-29T16:39:50.000000Z"
+                    },
+                    {
+                        "price": 215.4,
+                        "date": "2022-11-25T21:29:45.000000Z"
+                    },
+                    {
+                        "price": 215.4,
+                        "date": "2022-11-24T14:33:21.000000Z"
+                    },
+                    {
+                        "price": 239.9,
+                        "date": "2022-11-18T23:39:42.000000Z"
+                    },
+                    {
+                        "price": 239.9,
+                        "date": "2022-11-17T07:18:24.000000Z"
+                    },
+                    {
+                        "price": 239.9,
+                        "date": "2022-11-15T22:28:36.000000Z"
+                    },
+                    {
+                        "price": 239.9,
+                        "date": "2022-11-14T13:50:19.000000Z"
+                    },
+                    {
+                        "price": 239.9,
+                        "date": "2022-11-10T09:00:28.000000Z"
+                    },
+                    {
+                        "price": 239.9,
+                        "date": "2022-11-07T19:06:05.000000Z"
+                    },
+                    {
+                        "price": 239.9,
+                        "date": "2022-11-01T23:03:54.000000Z"
+                    },
+                    {
+                        "price": 239.9,
+                        "date": "2022-10-31T22:26:01.000000Z"
+                    },
+                    {
+                        "price": 239.9,
+                        "date": "2022-10-25T19:40:48.000000Z"
+                    },
+                    {
+                        "price": 239.9,
+                        "date": "2022-08-05T16:42:18.000000Z"
+                    },
+                    {
+                        "price": 239.9,
+                        "date": "2022-07-17T01:32:53.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 28,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 117,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0.1,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-07-17T01:32:53.000000Z",
+                "updated_at": "2023-07-16T23:40:29.000000Z"
+            },
+            {
+                "id": 48220,
+                "name": "Grevens Cider Litchi&Lime 0,5l boks",
+                "brand": "Grevens",
+                "vendor": "Hansa borg bryggerier as",
+                "ean": "7030019538594",
+                "url": "https://joker.no/nettbutikk/varer/drikkevarer/cider/cider/grevens-cider-7030019538594",
+                "image": "https://res.cloudinary.com/norgesgruppen/image/upload/v1651537313/Product/7030019538594.jpg",
+                "category": null,
+                "description": "Grevens Litchi & Lime er en forfriskende ny smak. Litchi er en eksotisk frukt med forfriskende smaksnotater av jordb\u00e6r, rose og\u00a0muskat.\u00a0?Med sine myke s\u00f8te smaker, passer den godt sammen med lime som gir en \u00f8kt friskhet.",
+                "ingredients": "Kullsyret vann, gj\u00e6ret eplejuice, sukker,  aroma,  surhetsregulerende middel, (sitronsyre, natruimsitrat), konserveringsmiddel (kaliumsorbat, e220 svoveldioksid).",
+                "current_price": 39.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Joker",
+                    "code": "JOKER_NO",
+                    "url": "https://joker.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Joker.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 39.9,
+                        "date": "2022-08-05T16:40:44.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-22T06:48:44.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-22T06:47:31.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-22T06:46:22.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T23:18:54.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T23:17:44.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T23:16:33.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T23:11:08.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T23:09:57.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T23:08:49.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T23:03:32.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T23:02:24.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T23:01:12.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T22:56:09.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T22:54:57.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T22:53:45.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T22:49:17.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T22:48:10.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T22:46:59.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T22:43:37.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T22:42:27.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T22:41:18.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T22:36:49.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T22:35:38.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2022-07-21T22:34:28.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "sulfitt",
+                        "display_name": "Sulfitt",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 48,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 199,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.01,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 5.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-07-21T22:28:26.000000Z",
+                "updated_at": "2023-07-16T23:40:47.000000Z"
+            },
+            {
+                "id": 50470,
+                "name": "Litchi Kg",
+                "brand": "TL M\u00c5KESTAD",
+                "vendor": null,
+                "ean": null,
+                "url": "https://engrosnett.no/frukt-gront/frukt-og-baer/litchi-kg",
+                "image": "https://engrosnett.no/image/frukt-og-baer/frukt/5816-5816.jpg?lb=true&v=638181107692600000",
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": 157,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Engrosnett",
+                    "code": "ENGROSSNETT_NO",
+                    "url": "https://engrosnett.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Engrosnett.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 157,
+                        "date": "2023-10-27T07:12:11.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-26T07:10:50.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-25T07:10:37.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-24T07:16:24.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-23T07:13:55.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-22T07:16:45.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-21T07:14:26.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-20T07:12:18.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-19T07:15:06.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-18T07:12:17.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-17T07:15:07.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-16T07:14:49.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-15T07:11:34.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-14T07:15:34.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-13T07:12:56.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-12T07:10:52.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-11T07:15:47.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-10T07:13:53.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-09T07:13:41.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-08T07:11:32.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-07T07:15:47.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-06T07:12:52.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-05T07:15:52.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-04T07:14:05.000000Z"
+                    },
+                    {
+                        "price": 157,
+                        "date": "2023-10-03T07:13:29.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 0,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 0,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-10-25T19:55:40.000000Z",
+                "updated_at": "2023-10-27T07:12:11.000000Z"
+            },
+            {
+                "id": 76195,
+                "name": "Litchi Pure 1kg Capfruit",
+                "brand": "Capfruit",
+                "vendor": "A LA CARTE PRODUKTER AS",
+                "ean": "3760034313206",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/3760034313206",
+                "category": null,
+                "description": null,
+                "ingredients": "litchipure",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 1,
+                "weight_unit": "kg",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 77,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 328,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 17,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 17,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "resin5",
+                        "display_name": "Polypropylen (PP)",
+                        "description": "Type plast brukt i produkter som bilreservedeler og matbeholdere",
+                        "organization": "ASTM International",
+                        "alternative_names": null,
+                        "type": "Plastmerke",
+                        "year_established": null,
+                        "about": "PP (polypropylen) brukes til \u00e5 lage bildeler, industrielle fibre, matbeholdere og servise. Denne typen plast kan vanligvis resirkuleres gjennom de fleste kommunale gjenvinningsprogrammer.",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Resin5.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Resin5.png"
+                        }
+                    },
+                    {
+                        "name": "Papp",
+                        "display_name": "Papp",
+                        "description": null,
+                        "organization": "Gr\u00f8nt Punkt",
+                        "alternative_names": null,
+                        "type": "Emballasjemerking",
+                        "year_established": null,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Papp.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Papp.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T00:04:34.000000Z",
+                "updated_at": "2023-09-06T01:11:49.000000Z"
+            },
+            {
+                "id": 78984,
+                "name": "Hansa Lite Litchi Ipa 0.50l bx",
+                "brand": null,
+                "vendor": "HANSA BORG BRYGGERIER AS",
+                "ean": "7030019538709",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7030019538709",
+                "category": null,
+                "description": null,
+                "ingredients": "Vann, maltet bygg glutenfri, humle og naturlig aroma",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 0.5,
+                "weight_unit": "l",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 28,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 117,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0.1,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "cross_grain",
+                        "display_name": "Crossed Grain",
+                        "description": "Produkter merket med det velkjente Crossed Grain-symbolet er lisensierte gjennom NCF \u2013 og er garantert glutenfrie",
+                        "organization": "European Coeliac Societies",
+                        "alternative_names": null,
+                        "type": "Sertifisering",
+                        "year_established": null,
+                        "about": "<div>Crossed Grain-symbolet er et viktig symbol for forbrukere som s\u00f8ker glutenfrie produkter og \u00f8nsker \u00e5 v\u00e6re trygge p\u00e5 at de oppfyller h\u00f8ye standarder. Symbolet indikerer at produktet er garantert glutenfritt og gir dermed forbrukerne trygghet i deres valg av matvarer.<br><br></div><div>Lisensieringsordningen for Crossed Grain administreres av <a href=\"https://ncf.no/?ref=kassal.app\">Norsk c\u00f8liakiforening</a> (NCF) i Norge, og lisensnummeret til produktet er oppf\u00f8rt under symbolet. Dette gir forbrukerne muligheten til \u00e5 verifisere at produktet er ordentlig lisensiert og oppfyller kravene for \u00e5 v\u00e6re glutenfritt.<br><br></div><div>Bak Crossed Grain st\u00e5r <a href=\"https://www.aoecs.org/\">Association of the European Coeliac Societies</a> (AOECS), som er dedikert til \u00e5 fremme tydelig merking og trygghet for forbrukere. Lisensiering av produktene gjennom NCF sikrer at de blir testet av eksterne laboratorier i henhold til AOECS' h\u00f8ye standarder basert p\u00e5 HACCP. Dette bidrar til \u00e5 \u00f8ke tilliten til produktene som er merket med Crossed Grain-symbolet.<br><br></div><div>Forbrukere som \u00f8nsker glutenfrie produkter kan stole p\u00e5 Crossed Grain-symbolet som en p\u00e5litelig indikator p\u00e5 at produktene oppfyller kravene for \u00e5 v\u00e6re glutenfrie. Det gir dem trygghet og muligheten til \u00e5 ta informerte valg n\u00e5r de handler matvarer.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Cross Grain.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Cross Grain.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T00:11:36.000000Z",
+                "updated_at": "2023-09-06T01:12:14.000000Z"
+            },
+            {
+                "id": 78995,
+                "name": "Grevens Litchi & Lime 0,50l bx",
+                "brand": null,
+                "vendor": "HANSA BORG BRYGGERIER AS",
+                "ean": "7030019538594",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7030019538594",
+                "category": null,
+                "description": null,
+                "ingredients": "Kullsyret vann, gj\u00e6ret eplejuice, sukker,  aroma,  surhetsregulerende middel, (sitronsyre, natruimsitrat), konserveringsmiddel (kaliumsorbat, E220 svoveldioksid).",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 0.5,
+                "weight_unit": "l",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "sulfitt",
+                        "display_name": "Sulfitt",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 48,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 199,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.01,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 5.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T00:11:37.000000Z",
+                "updated_at": "2023-09-06T01:12:14.000000Z"
+            },
+            {
+                "id": 110204,
+                "name": "Bubbies Litchi 35g",
+                "brand": "Bubbies",
+                "vendor": "Danora as",
+                "ean": "787325300335",
+                "url": "https://meny.no/Varer/dessert/is/mochi-is/bubbies-787325300335",
+                "image": "https://bilder.ngdata.no/787325300335/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 164,
+                        "depth": -2,
+                        "name": "Dessert"
+                    },
+                    {
+                        "id": 403,
+                        "depth": -1,
+                        "name": "Is"
+                    },
+                    {
+                        "id": 1191,
+                        "depth": 0,
+                        "name": "Mochi-is"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Litchi-is (skummetmelk, fl\u00f8te (melk), sukker, litchi, vann, aroma, stabilisator (johannesbr\u00f8dkjernemel, guarkjernemel), surhetsregulerende middel (sitronsyre), mochi-deig (sukker, rismel, vann, tapiokasirup (tapioka, vann, salt, vanilje), eggehviter).",
+                "current_price": 21.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 21.9,
+                        "date": "2023-08-03T07:01:13.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-08-02T07:01:10.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-08-01T07:00:33.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-31T07:00:39.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-30T07:00:53.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-29T07:00:45.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-28T07:00:45.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-27T07:00:47.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-26T07:01:12.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-25T07:01:04.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-24T07:00:56.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-23T07:00:42.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-22T07:01:03.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-21T07:01:07.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-20T07:01:08.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-19T07:00:55.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-18T07:00:34.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-17T07:00:51.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-16T07:01:54.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-15T07:01:05.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-14T07:01:17.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-13T07:00:43.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-12T07:01:01.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-11T07:01:05.000000Z"
+                    },
+                    {
+                        "price": 21.9,
+                        "date": "2023-07-10T07:00:59.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "egg",
+                        "display_name": "Egg",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 257,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 1075,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 10,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 40,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 5.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.03,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 28.5,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "frysevare",
+                        "display_name": "Frysevare",
+                        "description": "Produktet er en frysevare.",
+                        "organization": "Kassalapp",
+                        "alternative_names": null,
+                        "type": "Kassalapp",
+                        "year_established": 2023,
+                        "about": "<div>Dette merket, som brukes p\u00e5 Kassalapp nettsiden, viser at produktet er en frysevare.&nbsp;<br><br>Sn\u00f8fnugg-ikonet ble valgt fordi det assosieres med kulde og frysing, og det gir tydelig informasjon til forbrukerne.</div>",
+                        "note": "Ikke en offisiel merkeordning",
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Frysevare.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Frysevare.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T14:15:57.000000Z",
+                "updated_at": "2023-08-03T07:01:13.000000Z"
+            },
+            {
+                "id": 140175,
+                "name": "Gioia Litchisorbet",
+                "brand": "GIOIA AS",
+                "vendor": "GIOIA AS",
+                "ean": "7090049650185",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7090049650185",
+                "category": [
+                    {
+                        "id": 164,
+                        "depth": -2,
+                        "name": "Dessert"
+                    },
+                    {
+                        "id": 403,
+                        "depth": -1,
+                        "name": "Is"
+                    },
+                    {
+                        "id": 404,
+                        "depth": 0,
+                        "name": "Dessertis"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Litchipure\u0301 50%, vann, sukker, glykose,dekstrose, emulgator (E471), stabilisator (E466, E410, E412)",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 0.5,
+                "weight_unit": "l",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 209,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 875,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.19,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 51.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0.32,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.05,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.37,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 47.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "glass_og_gaffel",
+                        "display_name": "Glass og Gaffel",
+                        "description": "Glass- og gaffelsymbolet er en merking som indikerer at materialer og gjenstander er trygge \u00e5 bruke i forbindelse med mat.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Glass- og gaffelsymbolet er en merking som produsenter bruker for \u00e5 indikere at materialer og gjenstander er ment for kontakt med n\u00e6ringsmidler. Det fungerer som en form for kvalitetskontroll og forsikrer forbrukerne om at produktet oppfyller visse standarder for n\u00e6ringsmiddelkontakt. Symbolet best\u00e5r av et glass og en gaffel, som er vanlige symboler for drikkevarer og spisebestikk.<br><br></div><div><br>I tillegg til glass- og gaffelsymbolet kan produsenter ogs\u00e5 bruke alternative merkinger som \"for n\u00e6ringsmidler\" eller spesifikke betegnelser som beskriver bruksomr\u00e5det til produktet, for eksempel \"br\u00f8dpose\". Disse merkene tjener til \u00e5 informere forbrukerne om at produktet er beregnet p\u00e5 bruk i forbindelse med n\u00e6ringsmidler. Kravene til \u00e5 angi at et produkt er beregnet p\u00e5 n\u00e6ringsmidler gjelder ikke hvis det er tydelig angitt p\u00e5 selve produktet at det er ment for n\u00e6ringsmiddelbruk, for eksempel et glass eller en tallerken.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Glass og gaffel.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Glass og gaffel.png"
+                        }
+                    },
+                    {
+                        "name": "resin6",
+                        "display_name": "Polystyren (PS)",
+                        "description": "Type plast brukt i produkter som engangsbestikk, emballasje og isolasjonsplater",
+                        "organization": "ASTM International",
+                        "alternative_names": null,
+                        "type": "Plastmerke",
+                        "year_established": null,
+                        "about": "PS (polystyren) brukes til \u00e5 lage skrivebordsutstyr, kafeteriafat, plastbestikk, lokk til kaffekopper, leker, videokassetter og -omslag, brett med lokk, pakkefyll i form av sm\u00e5 plastkuler og isolasjonsplater og andre produkter av ekspandert polystyren (f.eks. Styrofoam). Polystyren blir ofte ikke resirkulert gjennom kommunale gjenvinningsprogrammer da det er for lett til \u00e5 v\u00e6re \u00f8konomisk \u00e5 resirkulere. Det blir vanligvis forbrent i stedet.",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Resin6.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Resin6.png"
+                        }
+                    },
+                    {
+                        "name": "matskatt",
+                        "display_name": "Matskatt",
+                        "description": "Matskatter er norske produkter med unik kvalitet, i kombinasjon med klar lokal identitet og en god historie. Fordi lokalmat er viktig for deg, er stort utvalg norske matskatter viktig for oss.",
+                        "organization": "MENY",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Matskatt er en merkeordning fra <a href=\"https://kassal.app/kjeder/meny\">MENY</a> som omfavner lokal mat, regional mat, kortreist mat og g\u00e5rdsmat under ett felles begrep. Matskatter er mat- og drikkeprodukter som utmerker seg med en ekstra god smak, unik kvalitet og en spesiell historie. Disse produktene er preget av klar lokal identitet og kommer ofte fra b\u00e5de sm\u00e5 og store produsenter.<br><br></div><div>En Matskatt defineres av sin unike kvalitet, tydelig lokal identitet og en god historie. Det kan v\u00e6re alt fra en utmerket ost, en smakfull skinke, et nydelig syltet\u00f8y, delikat klippfisk, en rensk\u00e5ret lakseloin, gode p\u00f8lser, g\u00e5rdspresset eple eller en velsmakende potet. MENY har funnet over 4500 produkter fra rundt 450 lokale produsenter som passer inn i Matskatt-kategorien.<br><br></div><div>MENY-Lauget, som best\u00e5r av erfarne fagpersoner fra ulike omr\u00e5der som kokker, slaktere, p\u00f8lsemakere og fiskehandlere, er ansvarlig for \u00e5 oppdage og promotere Matskattene. De f\u00f8lger med p\u00e5 produktutviklingen i sin region og jakter kontinuerlig p\u00e5 nye Matskatter. Du kan se etter Matskatt-merket i MENY-butikkene og nettbutikken for \u00e5 finne disse spesielle produktene.<br><br></div><div>Matskattene er viktige for kundene til MENY, og det er en del av deres innsats for \u00e5 ivareta norske mattradisjoner og st\u00f8tte visjon\u00e6re produsenter. MENY deler ogs\u00e5 ut Matskattstipendet \u00e5rlig, som gir produsenter muligheten til \u00e5 utforske nye produkter, \u00f8ke produksjonen eller realisere innovasjonsprosjekter. Produsentene som bidrar til mangfoldet og skaper de uunnv\u00e6rlige smakene i norske Matskatter blir verdsatt og anerkjent.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Matskatt.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Matskatt.png"
+                        }
+                    },
+                    {
+                        "name": "frysevare",
+                        "display_name": "Frysevare",
+                        "description": "Produktet er en frysevare.",
+                        "organization": "Kassalapp",
+                        "alternative_names": null,
+                        "type": "Kassalapp",
+                        "year_established": 2023,
+                        "about": "<div>Dette merket, som brukes p\u00e5 Kassalapp nettsiden, viser at produktet er en frysevare.&nbsp;<br><br>Sn\u00f8fnugg-ikonet ble valgt fordi det assosieres med kulde og frysing, og det gir tydelig informasjon til forbrukerne.</div>",
+                        "note": "Ikke en offisiel merkeordning",
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Frysevare.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Frysevare.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T23:58:44.000000Z",
+                "updated_at": "2023-09-06T01:18:00.000000Z"
+            },
+            {
+                "id": 145625,
+                "name": "Monin Litchi Sirup 70cl",
+                "brand": "Monin",
+                "vendor": "BARKONSULT AS",
+                "ean": "3052910006921",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/3052910006921",
+                "category": null,
+                "description": null,
+                "ingredients": "SUKKER, VANN  KONSENTRERT- SITRONJUICE,AROMA,FARGE: ANTOCYANER E163  TOTAL FRUKTJUICE MINIMUM 23% INKL. 13% LITCHIJUICE",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 70,
+                "weight_unit": "cl",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 339,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 1416,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 84.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.03,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 82.4,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-12T00:09:22.000000Z",
+                "updated_at": "2023-09-06T01:18:44.000000Z"
+            },
+            {
+                "id": 171588,
+                "name": "Litchi 35g Bubbies",
+                "brand": "Bubbies",
+                "vendor": "DANORA AS",
+                "ean": "787325300335",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/787325300335",
+                "category": [
+                    {
+                        "id": 164,
+                        "depth": -2,
+                        "name": "Dessert"
+                    },
+                    {
+                        "id": 403,
+                        "depth": -1,
+                        "name": "Is"
+                    },
+                    {
+                        "id": 1191,
+                        "depth": 0,
+                        "name": "Mochi-is"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Litchi-is (SKUMMETMELK, FL\u00d8TE (MELK), sukker, litchi, vann, aroma, stabilisator (johannesbr\u00f8dkjernemel, guarkjernemel), surhetsregulerende middel (sitronsyre), mochi-deig (sukker, rismel, vann, tapiokasirup (tapioka, vann, salt, vanilje), EGGEHVITER).",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 3544,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "egg",
+                        "display_name": "Egg",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 257,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 1075,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 10,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 40,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 5.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.03,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 28.5,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "frysevare",
+                        "display_name": "Frysevare",
+                        "description": "Produktet er en frysevare.",
+                        "organization": "Kassalapp",
+                        "alternative_names": null,
+                        "type": "Kassalapp",
+                        "year_established": 2023,
+                        "about": "<div>Dette merket, som brukes p\u00e5 Kassalapp nettsiden, viser at produktet er en frysevare.&nbsp;<br><br>Sn\u00f8fnugg-ikonet ble valgt fordi det assosieres med kulde og frysing, og det gir tydelig informasjon til forbrukerne.</div>",
+                        "note": "Ikke en offisiel merkeordning",
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Frysevare.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Frysevare.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-12T00:59:29.000000Z",
+                "updated_at": "2023-09-06T01:22:40.000000Z"
+            },
+            {
+                "id": 177120,
+                "name": "Litchinektar 33cl Alain Milliat",
+                "brand": "Alain Milliat",
+                "vendor": "SARRAZAC AS",
+                "ean": "3556000332711",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/3556000332711",
+                "category": null,
+                "description": null,
+                "ingredients": "Vann, fruktkj\u00f8tt av litchi 35%, sukker, surhetsmiddel: sitronsyre, antioksidant: askorbinsyre",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 0.33,
+                "weight_unit": "l",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 68,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 289,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 15,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 10,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-16T15:20:48.000000Z",
+                "updated_at": "2023-09-06T01:23:24.000000Z"
+            },
+            {
+                "id": 183055,
+                "name": "Litchisorbet 0,5l Gioia",
+                "brand": "Gioia",
+                "vendor": "Gioia as",
+                "ean": "7090049650185",
+                "url": "https://meny.no/Varer/dessert/is/dessertis/litchisorbet-7090049650185",
+                "image": "https://bilder.ngdata.no/7090049650185/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 164,
+                        "depth": -2,
+                        "name": "Dessert"
+                    },
+                    {
+                        "id": 403,
+                        "depth": -1,
+                        "name": "Is"
+                    },
+                    {
+                        "id": 404,
+                        "depth": 0,
+                        "name": "Dessertis"
+                    }
+                ],
+                "description": "Spennende og frisk smak",
+                "ingredients": "Litchipure\u00b4 50%, vann, sukker, glykose,dekstrose, emulgator (e471), stabilisator (e466, e410, e412)",
+                "current_price": 137,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 137,
+                        "date": "2023-08-03T07:01:49.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-08-02T07:01:36.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-08-01T07:01:06.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-31T07:01:28.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-30T07:01:50.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-29T07:01:42.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-28T07:01:46.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-27T07:01:49.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-26T07:02:08.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-25T07:02:16.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-24T07:02:19.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-23T07:01:08.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-22T07:01:27.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-21T07:01:52.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-20T07:01:35.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-19T07:01:22.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-18T07:00:38.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-17T07:00:56.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-16T07:02:04.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-15T07:01:11.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-14T07:01:29.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-13T07:00:45.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-12T07:01:07.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-11T07:01:14.000000Z"
+                    },
+                    {
+                        "price": 137,
+                        "date": "2023-07-10T07:01:06.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 209,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 875,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.19,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 51.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0.32,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.05,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.37,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 47.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "glass_og_gaffel",
+                        "display_name": "Glass og Gaffel",
+                        "description": "Glass- og gaffelsymbolet er en merking som indikerer at materialer og gjenstander er trygge \u00e5 bruke i forbindelse med mat.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Glass- og gaffelsymbolet er en merking som produsenter bruker for \u00e5 indikere at materialer og gjenstander er ment for kontakt med n\u00e6ringsmidler. Det fungerer som en form for kvalitetskontroll og forsikrer forbrukerne om at produktet oppfyller visse standarder for n\u00e6ringsmiddelkontakt. Symbolet best\u00e5r av et glass og en gaffel, som er vanlige symboler for drikkevarer og spisebestikk.<br><br></div><div><br>I tillegg til glass- og gaffelsymbolet kan produsenter ogs\u00e5 bruke alternative merkinger som \"for n\u00e6ringsmidler\" eller spesifikke betegnelser som beskriver bruksomr\u00e5det til produktet, for eksempel \"br\u00f8dpose\". Disse merkene tjener til \u00e5 informere forbrukerne om at produktet er beregnet p\u00e5 bruk i forbindelse med n\u00e6ringsmidler. Kravene til \u00e5 angi at et produkt er beregnet p\u00e5 n\u00e6ringsmidler gjelder ikke hvis det er tydelig angitt p\u00e5 selve produktet at det er ment for n\u00e6ringsmiddelbruk, for eksempel et glass eller en tallerken.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Glass og gaffel.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Glass og gaffel.png"
+                        }
+                    },
+                    {
+                        "name": "resin6",
+                        "display_name": "Polystyren (PS)",
+                        "description": "Type plast brukt i produkter som engangsbestikk, emballasje og isolasjonsplater",
+                        "organization": "ASTM International",
+                        "alternative_names": null,
+                        "type": "Plastmerke",
+                        "year_established": null,
+                        "about": "PS (polystyren) brukes til \u00e5 lage skrivebordsutstyr, kafeteriafat, plastbestikk, lokk til kaffekopper, leker, videokassetter og -omslag, brett med lokk, pakkefyll i form av sm\u00e5 plastkuler og isolasjonsplater og andre produkter av ekspandert polystyren (f.eks. Styrofoam). Polystyren blir ofte ikke resirkulert gjennom kommunale gjenvinningsprogrammer da det er for lett til \u00e5 v\u00e6re \u00f8konomisk \u00e5 resirkulere. Det blir vanligvis forbrent i stedet.",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Resin6.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Resin6.png"
+                        }
+                    },
+                    {
+                        "name": "matskatt",
+                        "display_name": "Matskatt",
+                        "description": "Matskatter er norske produkter med unik kvalitet, i kombinasjon med klar lokal identitet og en god historie. Fordi lokalmat er viktig for deg, er stort utvalg norske matskatter viktig for oss.",
+                        "organization": "MENY",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Matskatt er en merkeordning fra <a href=\"https://kassal.app/kjeder/meny\">MENY</a> som omfavner lokal mat, regional mat, kortreist mat og g\u00e5rdsmat under ett felles begrep. Matskatter er mat- og drikkeprodukter som utmerker seg med en ekstra god smak, unik kvalitet og en spesiell historie. Disse produktene er preget av klar lokal identitet og kommer ofte fra b\u00e5de sm\u00e5 og store produsenter.<br><br></div><div>En Matskatt defineres av sin unike kvalitet, tydelig lokal identitet og en god historie. Det kan v\u00e6re alt fra en utmerket ost, en smakfull skinke, et nydelig syltet\u00f8y, delikat klippfisk, en rensk\u00e5ret lakseloin, gode p\u00f8lser, g\u00e5rdspresset eple eller en velsmakende potet. MENY har funnet over 4500 produkter fra rundt 450 lokale produsenter som passer inn i Matskatt-kategorien.<br><br></div><div>MENY-Lauget, som best\u00e5r av erfarne fagpersoner fra ulike omr\u00e5der som kokker, slaktere, p\u00f8lsemakere og fiskehandlere, er ansvarlig for \u00e5 oppdage og promotere Matskattene. De f\u00f8lger med p\u00e5 produktutviklingen i sin region og jakter kontinuerlig p\u00e5 nye Matskatter. Du kan se etter Matskatt-merket i MENY-butikkene og nettbutikken for \u00e5 finne disse spesielle produktene.<br><br></div><div>Matskattene er viktige for kundene til MENY, og det er en del av deres innsats for \u00e5 ivareta norske mattradisjoner og st\u00f8tte visjon\u00e6re produsenter. MENY deler ogs\u00e5 ut Matskattstipendet \u00e5rlig, som gir produsenter muligheten til \u00e5 utforske nye produkter, \u00f8ke produksjonen eller realisere innovasjonsprosjekter. Produsentene som bidrar til mangfoldet og skaper de uunnv\u00e6rlige smakene i norske Matskatter blir verdsatt og anerkjent.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Matskatt.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Matskatt.png"
+                        }
+                    },
+                    {
+                        "name": "frysevare",
+                        "display_name": "Frysevare",
+                        "description": "Produktet er en frysevare.",
+                        "organization": "Kassalapp",
+                        "alternative_names": null,
+                        "type": "Kassalapp",
+                        "year_established": 2023,
+                        "about": "<div>Dette merket, som brukes p\u00e5 Kassalapp nettsiden, viser at produktet er en frysevare.&nbsp;<br><br>Sn\u00f8fnugg-ikonet ble valgt fordi det assosieres med kulde og frysing, og det gir tydelig informasjon til forbrukerne.</div>",
+                        "note": "Ikke en offisiel merkeordning",
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Frysevare.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Frysevare.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-27T07:00:51.000000Z",
+                "updated_at": "2023-08-03T07:01:49.000000Z"
+            },
+            {
+                "id": 183983,
+                "name": "HANSA LITE LITCHI IPA 0.50L BX",
+                "brand": null,
+                "vendor": null,
+                "ean": "7030019538709",
+                "url": "",
+                "image": null,
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": 35.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "REMA 1000",
+                    "code": "REMA_1000",
+                    "url": "https://rema.no",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Rema 1000.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 35.9,
+                        "date": "2023-06-28T13:34:18.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [],
+                "labels": [
+                    {
+                        "name": "cross_grain",
+                        "display_name": "Crossed Grain",
+                        "description": "Produkter merket med det velkjente Crossed Grain-symbolet er lisensierte gjennom NCF \u2013 og er garantert glutenfrie",
+                        "organization": "European Coeliac Societies",
+                        "alternative_names": null,
+                        "type": "Sertifisering",
+                        "year_established": null,
+                        "about": "<div>Crossed Grain-symbolet er et viktig symbol for forbrukere som s\u00f8ker glutenfrie produkter og \u00f8nsker \u00e5 v\u00e6re trygge p\u00e5 at de oppfyller h\u00f8ye standarder. Symbolet indikerer at produktet er garantert glutenfritt og gir dermed forbrukerne trygghet i deres valg av matvarer.<br><br></div><div>Lisensieringsordningen for Crossed Grain administreres av <a href=\"https://ncf.no/?ref=kassal.app\">Norsk c\u00f8liakiforening</a> (NCF) i Norge, og lisensnummeret til produktet er oppf\u00f8rt under symbolet. Dette gir forbrukerne muligheten til \u00e5 verifisere at produktet er ordentlig lisensiert og oppfyller kravene for \u00e5 v\u00e6re glutenfritt.<br><br></div><div>Bak Crossed Grain st\u00e5r <a href=\"https://www.aoecs.org/\">Association of the European Coeliac Societies</a> (AOECS), som er dedikert til \u00e5 fremme tydelig merking og trygghet for forbrukere. Lisensiering av produktene gjennom NCF sikrer at de blir testet av eksterne laboratorier i henhold til AOECS' h\u00f8ye standarder basert p\u00e5 HACCP. Dette bidrar til \u00e5 \u00f8ke tilliten til produktene som er merket med Crossed Grain-symbolet.<br><br></div><div>Forbrukere som \u00f8nsker glutenfrie produkter kan stole p\u00e5 Crossed Grain-symbolet som en p\u00e5litelig indikator p\u00e5 at produktene oppfyller kravene for \u00e5 v\u00e6re glutenfrie. Det gir dem trygghet og muligheten til \u00e5 ta informerte valg n\u00e5r de handler matvarer.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Cross Grain.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Cross Grain.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-28T13:34:18.000000Z",
+                "updated_at": "2023-07-16T23:46:47.000000Z"
+            },
+            {
+                "id": 189031,
+                "name": "Hansa Lite Litchi Ipa 0.50l bx",
+                "brand": null,
+                "vendor": "HANSA BORG BRYGGERIER AS",
+                "ean": "7030019538709",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7030019538709",
+                "category": null,
+                "description": null,
+                "ingredients": "Vann, maltet bygg glutenfri, humle og naturlig aroma",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 0.5,
+                "weight_unit": "l",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 28,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 117,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0.1,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "cross_grain",
+                        "display_name": "Crossed Grain",
+                        "description": "Produkter merket med det velkjente Crossed Grain-symbolet er lisensierte gjennom NCF \u2013 og er garantert glutenfrie",
+                        "organization": "European Coeliac Societies",
+                        "alternative_names": null,
+                        "type": "Sertifisering",
+                        "year_established": null,
+                        "about": "<div>Crossed Grain-symbolet er et viktig symbol for forbrukere som s\u00f8ker glutenfrie produkter og \u00f8nsker \u00e5 v\u00e6re trygge p\u00e5 at de oppfyller h\u00f8ye standarder. Symbolet indikerer at produktet er garantert glutenfritt og gir dermed forbrukerne trygghet i deres valg av matvarer.<br><br></div><div>Lisensieringsordningen for Crossed Grain administreres av <a href=\"https://ncf.no/?ref=kassal.app\">Norsk c\u00f8liakiforening</a> (NCF) i Norge, og lisensnummeret til produktet er oppf\u00f8rt under symbolet. Dette gir forbrukerne muligheten til \u00e5 verifisere at produktet er ordentlig lisensiert og oppfyller kravene for \u00e5 v\u00e6re glutenfritt.<br><br></div><div>Bak Crossed Grain st\u00e5r <a href=\"https://www.aoecs.org/\">Association of the European Coeliac Societies</a> (AOECS), som er dedikert til \u00e5 fremme tydelig merking og trygghet for forbrukere. Lisensiering av produktene gjennom NCF sikrer at de blir testet av eksterne laboratorier i henhold til AOECS' h\u00f8ye standarder basert p\u00e5 HACCP. Dette bidrar til \u00e5 \u00f8ke tilliten til produktene som er merket med Crossed Grain-symbolet.<br><br></div><div>Forbrukere som \u00f8nsker glutenfrie produkter kan stole p\u00e5 Crossed Grain-symbolet som en p\u00e5litelig indikator p\u00e5 at produktene oppfyller kravene for \u00e5 v\u00e6re glutenfrie. Det gir dem trygghet og muligheten til \u00e5 ta informerte valg n\u00e5r de handler matvarer.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Cross Grain.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Cross Grain.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-08-11T18:43:53.000000Z",
+                "updated_at": "2023-09-06T01:24:16.000000Z"
+            }
+        ]
+    ]
+}

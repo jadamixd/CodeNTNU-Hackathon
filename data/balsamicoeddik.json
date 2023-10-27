@@ -1,0 +1,884 @@
+{
+    "data": [
+        [
+            {
+                "id": 498,
+                "name": "Emilio Balsamicoeddik 250 ml",
+                "brand": "Carandini",
+                "vendor": "Haugen-Gruppen AS",
+                "ean": "8014347104859",
+                "url": "https://oda.com/no/products/37653-carandini-emilio-balsamicoeddik/",
+                "image": "https://bilder.kolonial.no/local_products/651f0604-74a3-46da-b40b-0612fec779c0.jpeg?auto=format&fit=max&w=154&s=f14a0e8b2ed74aa4961ce4a8d679f149",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 611,
+                        "depth": -1,
+                        "name": "Eddiker"
+                    },
+                    {
+                        "id": 617,
+                        "depth": 0,
+                        "name": "Eddik"
+                    }
+                ],
+                "description": "",
+                "ingredients": "Kokt druemost, vineddik, sulfitter",
+                "current_price": 129,
+                "current_unit_price": 516,
+                "weight": 250,
+                "weight_unit": "ml",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 129,
+                        "date": "2023-10-27T07:12:58.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-26T07:15:40.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-25T07:14:14.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-24T07:13:57.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-23T07:13:21.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-22T07:13:40.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-21T07:13:55.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-20T07:13:22.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-19T07:16:05.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-18T07:12:53.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-17T07:13:31.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-16T07:15:55.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-15T07:15:32.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-14T07:13:25.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-13T07:15:55.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-12T07:15:51.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-11T07:14:25.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-10T07:12:33.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-09T07:14:20.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-08T07:12:04.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-07T07:13:11.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-06T07:12:49.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-05T07:12:26.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-04T07:15:56.000000Z"
+                    },
+                    {
+                        "price": 129,
+                        "date": "2023-10-03T07:12:16.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "sulfitt",
+                        "display_name": "Sulfitt",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 380,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 1614,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 90.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.04,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 75.9,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "vegan",
+                        "display_name": "Vegansk",
+                        "description": "Produktet er vegansk",
+                        "organization": "Kassalapp",
+                        "alternative_names": null,
+                        "type": "Kassalapp",
+                        "year_established": 2023,
+                        "about": "<div>Dette merket, som brukes p\u00e5 Kassalapp nettsiden, fungerer som en indikasjon p\u00e5 at produktet er vegansk. Blad-ikonet ble valgt fordi det er semi-offisielt brukt i ulike veganske organisasjoner, men det finnes ingen fast standard. Derfor har jeg laget mitt eget merke.</div>",
+                        "note": "Ikke en offisiel merkeordning",
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Vegan.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Vegan.png"
+                        }
+                    },
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-09T19:28:59.000000Z",
+                "updated_at": "2023-10-27T07:12:58.000000Z"
+            },
+            {
+                "id": 24119,
+                "name": "Emilio Aceto Balsamicoeddik 250 ml",
+                "brand": "Il Torrione",
+                "vendor": "Haugen-Gruppen AS",
+                "ean": null,
+                "url": "https://oda.com/no/products/29208-il-torrione-emilio-aceto-balsamicoeddik/",
+                "image": "https://bilder.kolonial.no/produkter/8822ea76-b524-45aa-9da8-f98825f36a7c.jpeg?auto=format&fit=max&w=500&s=95806b5f3060d600150939ab02422133",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 611,
+                        "depth": -1,
+                        "name": "Eddiker"
+                    },
+                    {
+                        "id": 617,
+                        "depth": 0,
+                        "name": "Eddik"
+                    }
+                ],
+                "description": "En rik, \u00abtykk\u00bb balsamico vinedikk fra Modena IGP som modnes sakte og t\u00e5lmodig i prisvinnende trefat. Rik/sterk intens og s\u00f8t ettersmak. Perfekt til modne oster og god spekeskinke, frukt (jordb\u00e6r, melon, p\u00e6rer), og desserter basert p\u00e5 iskrem, Ikke akkurat ",
+                "ingredients": "Kokt druemost, vineddik. Inneholder sulfitter.",
+                "current_price": 187.7,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 187.7,
+                        "date": "2023-03-09T12:07:03.000000Z"
+                    },
+                    {
+                        "price": 171.9,
+                        "date": "2023-01-08T18:53:18.000000Z"
+                    },
+                    {
+                        "price": 171.9,
+                        "date": "2022-09-15T14:57:40.000000Z"
+                    },
+                    {
+                        "price": 171.9,
+                        "date": "2022-08-24T18:14:24.000000Z"
+                    },
+                    {
+                        "price": 171.9,
+                        "date": "2022-08-06T22:02:39.000000Z"
+                    },
+                    {
+                        "price": 171.9,
+                        "date": "2022-08-06T21:51:22.000000Z"
+                    },
+                    {
+                        "price": 171.9,
+                        "date": "2022-08-06T21:38:52.000000Z"
+                    },
+                    {
+                        "price": 171.9,
+                        "date": "2022-08-05T17:46:53.000000Z"
+                    },
+                    {
+                        "price": 171.9,
+                        "date": "2022-01-16T11:04:31.000000Z"
+                    },
+                    {
+                        "price": 171.9,
+                        "date": "2022-01-14T11:03:09.000000Z"
+                    },
+                    {
+                        "price": 171.9,
+                        "date": "2022-01-11T22:02:07.000000Z"
+                    },
+                    {
+                        "price": 171.9,
+                        "date": "2022-01-10T22:02:22.000000Z"
+                    },
+                    {
+                        "price": 171.9,
+                        "date": "2022-01-10T17:30:54.000000Z"
+                    },
+                    {
+                        "price": 171.9,
+                        "date": "2022-01-09T20:04:46.000000Z"
+                    },
+                    {
+                        "price": 171.9,
+                        "date": "2022-01-09T19:56:43.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 0,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 0,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:56:43.000000Z",
+                "updated_at": "2023-07-16T23:37:06.000000Z"
+            },
+            {
+                "id": 33488,
+                "name": "Leonardi Balsamicoeddik 8 \u00e5r, 250 ml",
+                "brand": null,
+                "vendor": "Oluf Lorentzen AS, Toveien 22, 1540 Vestby, Norwegen",
+                "ean": "8033378341552",
+                "url": "https://oda.com/no/products/9890-leonardi-balsamicoeddik-8-ar/",
+                "image": "https://bilder.kolonial.no/produkter/0e636ac4-aaed-4e15-b10d-d89e30561cec.jpeg?auto=format&fit=max&w=720&s=873165294f25810f94aadefbbfde7251",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 611,
+                        "depth": -1,
+                        "name": "Eddiker"
+                    },
+                    {
+                        "id": 617,
+                        "depth": 0,
+                        "name": "Eddik"
+                    }
+                ],
+                "description": "",
+                "ingredients": "Innkokt druemost (sulfitt).",
+                "current_price": 358.7,
+                "current_unit_price": 1434.8,
+                "weight": 250,
+                "weight_unit": "ml",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-27T07:11:27.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-26T07:13:52.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-25T07:11:35.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-24T07:15:55.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-23T07:16:51.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-22T07:16:58.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-21T07:16:25.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-20T07:14:48.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-19T07:14:17.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-18T07:16:53.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-17T07:14:35.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-16T07:16:21.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-15T07:14:38.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-14T07:16:30.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-13T07:14:21.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-12T07:14:12.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-11T07:14:02.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-10T07:14:03.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-09T07:14:09.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-08T07:14:04.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-07T07:14:13.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-06T07:13:36.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-05T07:15:22.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-04T07:14:11.000000Z"
+                    },
+                    {
+                        "price": 358.7,
+                        "date": "2023-10-03T07:14:05.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "sulfitt",
+                        "display_name": "Sulfitt",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 240,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 1005,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 55,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.74,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.06,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 55,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:59:42.000000Z",
+                "updated_at": "2023-10-27T07:11:27.000000Z"
+            },
+            {
+                "id": 84644,
+                "name": "Carandini \u00d8kologisk Balsamicoeddik 6x250ml",
+                "brand": "Il Torrione",
+                "vendor": "HAUGEN - GRUPPEN AS",
+                "ean": "8014347001097",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/8014347001097",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 611,
+                        "depth": -1,
+                        "name": "Eddiker"
+                    },
+                    {
+                        "id": 612,
+                        "depth": 0,
+                        "name": "Balsamico"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Vineddik, konsentrert druemost. \u00d8kologisk landbruk. Inneholder sulfitter.",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 250,
+                "weight_unit": "ml",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "sulfitt",
+                        "display_name": "Sulfitt",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 114,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 487,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 23.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.02,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 21.8,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T02:37:04.000000Z",
+                "updated_at": "2023-09-06T01:13:00.000000Z"
+            },
+            {
+                "id": 155152,
+                "name": "Balsamicoeddik Il Denso 250ml Mussini",
+                "brand": "Mussini",
+                "vendor": "OLIVINO AS",
+                "ean": "8032181038390",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/8032181038390",
+                "category": null,
+                "description": null,
+                "ingredients": "Kokt druemost, vineddik.",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 250,
+                "weight_unit": "ml",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "sulfitt",
+                        "display_name": "Sulfitt",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 287,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 1220,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 67.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.09,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 67.7,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-12T00:25:17.000000Z",
+                "updated_at": "2023-09-06T01:20:05.000000Z"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            {
+                "id": 169992,
+                "name": "Pure Hindb\u00e6r 70 cl",
+                "brand": null,
+                "vendor": "SKANLOG AS",
+                "ean": "5700002044068",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/5700002044068",
+                "category": null,
+                "description": null,
+                "ingredients": "",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 70,
+                "weight_unit": "cl",
+                "store": null,
+                "price_history": [],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2023-06-12T00:55:38.000000Z",
+                "updated_at": "2023-09-06T01:22:10.000000Z"
+            },
+            {
+                "id": 170620,
+                "name": "Aqua Vitae Hindb\u00e6r Geist , 35 cl",
+                "brand": null,
+                "vendor": "SKANLOG AS",
+                "ean": "7070334627108",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7070334627108",
+                "category": null,
+                "description": null,
+                "ingredients": "",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 35,
+                "weight_unit": "cl",
+                "store": null,
+                "price_history": [],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2023-06-12T00:57:12.000000Z",
+                "updated_at": "2023-09-06T01:22:16.000000Z"
+            }
+        ]
+    ]
+}
