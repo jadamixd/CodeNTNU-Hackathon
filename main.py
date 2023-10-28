@@ -16,7 +16,8 @@ from camera.imagetext_extraction import extract_text_from_image, extracting_rele
 pyt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
 # Provide the path to the image of the receipt
-image_path = r'C:\Users\Jakob\Scripts\Python\StartNTNU_Hackathon\mockdata\kvitto.jpg' # Change path to the processed image
+# Change path to the processed image
+image_path = r'mockdata\kvitto.jpg'
 
 # Call the OCR function
 extracted_text = extract_text_from_image(image_path)
@@ -38,6 +39,3 @@ print(extracted_text)
 extracting_relevant_text(extracted_text)
 
 # -------------------------------- #
-
-
-
