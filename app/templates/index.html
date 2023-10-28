@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Bootstrap Example</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.15/dist/tailwind.min.css">
 <style>
 #container {
     margin-top: 50px;
@@ -15,7 +15,10 @@
     width: 700px; /* Adjust the width to your desired vertical size */
     height: 1000px; /* Adjust the height to your desired horizontal size */
     border: 10px #333 solid;
-    background-image: url(snapshots/download.jpg);    
+}
+
+#CANVAS {
+    border: 10px #333 solid;
 }
 
 #videoElement {
@@ -37,37 +40,75 @@
 </style>
 
 </head>
-<body>
-    <div id="container" name="cont" class="container-fluid no-padding">
-        <video autoplay="true" id="videoElement" name="vid"></video>
+<body class="bg-gradient-to-b from-gray-900 to-blue-900 font-sans text-white m-0 p-0">
+    <div class="text-center pt-20">
+        <!-- Place your header content here -->
+        <h1 class="text-5xl">Reciept reader</h1>
+        <p class="text-2l pt-4">Get useful information about your current reciept</p>
     </div>
 
-    <a id="download" download="face.jpg"></form>
-    <button onclick="myFunction(); download();" align="center" style="margin: 20px 250px auto " class="btn btn-primary dropdown-toggle" type="button">
-        Capture
-    </button></a>
+    <main class="flex min-h-screen w-full flex-col items-center pt-10">
+        <div class="container-fluid no-padding">
+            <div id="container" name="cont" style="display: inline-block;">
+                <video autoplay="true" id="videoElement" name="vid"></video>
+            </div>
+            <div style="display: inline-block;">
+                <canvas id="CANVAS" name="CANVAS" width="350" height="400">
+                    Your browser does not support Canvas.
+                </canvas>
+            </div>
+        </div>
+        <a id="download" download="face.jpg">
+            <button onclick="myFunction();" style="margin-top: 20px; font-size: 20px; padding: 10px 20px;" class="btn btn-primary" type="button">
+                Capture
+            </button>
+        </a>
+    </main>
 
     <script>
         var video = document.querySelector("#videoElement");
         if (navigator.mediaDevices.getUserMedia) {
-            navigator.mediaDevices.getUserMedia({video: true})
-            .then(function(stream) {
-                video.srcObject = stream;
-            })
-            .catch(function(err0r) {
-                console.log("Something went wrong!");
-            });
-
+            navigator.mediaDevices.getUserMedia({ video: true })
+                .then(function (stream) {
+                    video.srcObject = stream;
+                })
+                .catch(function (error) {
+                    console.log("Something went wrong: " + error);
+                });
+    
             function myFunction() {
                 var x = document.getElementById("CANVAS");
                 var ctx = x.getContext("2d");
                 ctx.fillStyle = "#FF0000";
 
-                ctx.drawImage(video, 0, 0, 350, 400); /* Adjust the dimensions to match the vertical orientation */
-
-                //ctx.fillRect(20, 20, 150, 100);
+                ctx.drawImage(video, 0, 0, 350, 400);
+                var imageDataURL = x.toDataURL("image/jpeg");
+    
+                // Send the captured image data to the server
+                saveImageOnServer(imageDataURL);
             }
-        }           
+    
+            // Function to send the image data to the server (unchanged)
+            function saveImageOnServer(imageData) {
+                fetch('/save-image', {
+                    method: 'POST',
+                    body: JSON.stringify({ image: imageData }),
+                    headers: {
+                        'Content-Type': 'application/json'
+                    }
+                })
+                .then(response => {
+                    if (response.ok) {
+                        console.log('Image saved on the server.');
+                    } else {
+                        console.error('Failed to save the image.');
+                    }
+                })
+                .catch(error => {
+                    console.error('An error occurred: ' + error);
+                });
+            }
+        }    
     </script>
 </body>
 </html>

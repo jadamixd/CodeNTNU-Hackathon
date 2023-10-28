@@ -1,7 +1,28 @@
-from flask import Flask, render_template, request, redirect, url_for
+from flask import Flask, render_template, request, jsonify
+import base64
 
 app = Flask(__name__)
-app.static_folder = 'static'
+
+@app.route('/save-image', methods=['POST'])
+def save_image():
+    try:
+        data = request.get_json()
+        image_data = data['image']
+        # Decode the base64 image data
+        image_binary = base64.b64decode(image_data.split(',')[1])
+
+        # Define the directory to save the images
+        image_directory = 'snapshots/'
+        # Save the image to a file in the specified directory
+        
+        print(image_directory + 'reciept.jpg')
+        
+        with open(image_directory + 'reciept.jpg', 'wb') as f:
+            f.write(image_binary)
+
+        return 'Image saved successfully', 200
+    except Exception as e:
+        return 'Failed to save the image: ' + str(e), 500
 
 @app.route('/')
 def index():
