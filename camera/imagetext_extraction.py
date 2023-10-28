@@ -26,8 +26,8 @@ def extract_text_from_image(image_path):
 
 def extracting_relevant_text(extracted_text):
 
-    openai.organization = "org-9OoTo5Wv0pe2EQPsMF29hS2M"
-    openai.api_key = "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"
+    openai.organization = ""
+    openai.api_key = ""
 
     openai.Model.list()
 

@@ -48,13 +48,14 @@
     </button></a>
 
     <script>
-        function download() {
-            var download = document.getElementById("download");
-            var image = document.getElementById("CANVAS").toDataURL("image/png")
-                            .replace("image/jpg", "image/octet-stream");
-                download.setAttribute("href", image);
-                //download.setAttribute("download","archive.png");
-        }
+        function downloadImage() {
+        var downloadLink = document.getElementById("download");
+        var canvas = document.getElementById("CANVAS");
+        var image = canvas.toDataURL("image/png");
+        downloadLink.setAttribute("href", image);
+        downloadLink.setAttribute("download", "archive.png"); // Du kan legge til dette for å angi filnavnet som skal lagres
+    }
+        
 
         var video = document.querySelector("#videoElement");
 
