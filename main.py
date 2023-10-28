@@ -26,7 +26,7 @@ def main():
     if extracted_text:
         # Print the extracted text
         print("Extracted Text:")
-        # print(extracted_text)
+        print(extracted_text)
     else:
         print("Text extraction failed.")
         return []
@@ -42,4 +42,4 @@ def main():
     # -------------------------------- #
 
 
-main()
+# main()

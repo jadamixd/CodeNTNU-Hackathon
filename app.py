@@ -35,8 +35,7 @@ def index():
 
 @app.route('/information')
 def information():
-    data = ["A", "b", "c", "hallaisen", "hallaisen", "hallaisen", "hallaisen", "halsdsdsdsdsdsdlaisen", "hallaisen", "hallaisen"]
-    return render_template('information.html', data=data)
+    return render_template('information.html')
 
 if __name__ == '__main__':
     app.run(debug=True)
