@@ -12,6 +12,8 @@ def extract_text_from_image(image_path):
     try:
         # Open the image using Pillow (PIL)
         image = Image.open(image_path)
+        image = image.transpose(Image.ROTATE_270)
+        image.save(image_path)
 
         # Perform OCR on the image
         text = pyt.image_to_string(image, lang="nor")
@@ -33,7 +35,7 @@ def extracting_relevant_text(extracted_text):
         response = openai.Completion.create(
             model="text-davinci-003",
             prompt=str(
-                f"Kan du filtrere ut matvarene fra kvitteringen under og gi det som en komma separert streng?: {extracted_text}"),
+                f"Kan du filtrere ut matvarer fra kvitteringen under og gi det som en komma separert streng?: {extracted_text}"),
             max_tokens=2000,
             temperature=0
         )
