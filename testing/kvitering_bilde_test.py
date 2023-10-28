@@ -8,7 +8,7 @@ with open('weigth_data/coco.names', 'r') as f:
     classes = f.read().strip().split('\n')
 
 # Load an image for object detection
-image = cv2.imread('weigth_data\person.jpg')  # Replace 'your_image.jpg' with the path to your image
+image = cv2.imread('weigth_data/person.jpg')  # Replace 'your_image.jpg' with the path to your image
 
 # Prepare the image for object detection
 blob = cv2.dnn.blobFromImage(image, 1/255.0, (416, 416), swapRB=True, crop=False)
@@ -36,7 +36,7 @@ for out in outs:
             cv2.rectangle(image, (x, y), (x + w, y + h), (0, 255, 0), 2)
             cv2.putText(image, label, (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
             extracted_frame = image[y:(y + h), x:(x + w)]
-            cv2.imshow('Extracted Frame', extracted_frame)
+            cv2.imwrite('weigth_data/extracted_frame.jpg', extracted_frame)
 
 # Display the image with object detection
 cv2.imshow('Object Detection', image)
