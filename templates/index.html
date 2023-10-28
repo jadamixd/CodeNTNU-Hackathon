@@ -20,8 +20,8 @@
 }
 
 #videoElement {
-    width: 100%;
-    height: 100%;
+    width: 640px;
+    height: 480px;
     object-fit: cover; /* Use object-fit to maintain the video's aspect ratio */
 }
 
@@ -51,7 +51,7 @@
                 <video autoplay="true" id="videoElement" name="vid"></video>
             </div>
             <div style="display: inline-block;">
-                <canvas id="CANVAS" name="CANVAS" width="350" height="400">
+                <canvas id="CANVAS" name="CANVAS" width="640" height="480">
                     Your browser does not support Canvas.
                 </canvas>
             </div>
@@ -84,7 +84,8 @@
                 var ctx = x.getContext("2d");
                 ctx.fillStyle = "#FF0000";
 
-                ctx.drawImage(video, 0, 0, 350, 400);
+                ctx.drawImage(video, 0, 0, 640, 480);
+
                 var imageDataURL = x.toDataURL("image/jpeg");
     
                 // Send the captured image data to the server
