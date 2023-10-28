@@ -1,16 +1,82 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Login</title>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+<style>
+#container {
+    margin-top: 50px;
+    margin: 0px auto;
+    width: 700px; /* Adjust the width to your desired vertical size */
+    height: 1000px; /* Adjust the height to your desired horizontal size */
+    border: 10px #333 solid;
+    background-image: url(snapshots/download.jpg);    
+}
+
+#videoElement {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Use object-fit to maintain the video's aspect ratio */
+}
+
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#f_style {
+    width: 100%;
+    height: 70%;  
+    margin-right: 10px; 
+}
+</style>
+
 </head>
 <body>
-    <h1>Login</h1>
-    <form method="POST" action="/login">
-        <label for="username">Username:</label>
-        <input type="text" id="username" name="username" required><br><br>
-        <label for="password">Password:</label>
-        <input type="password" id="password" name="password" required><br><br>
-        <input type="submit" value="Login">
-    </form>
+    <div id="container" name="cont" class="container-fluid no-padding">
+        <video autoplay="true" id="videoElement" name="vid"></video>
+    </div>
+
+    <a id="download" download="face.jpg"></form>
+    <button onclick="myFunction(); download();" align="center" style="margin: 20px 250px auto " class="btn btn-primary dropdown-toggle" type="button">
+        Capture
+    </button></a>
+
+    <script>
+        function download() {
+            var download = document.getElementById("download");
+            var image = document.getElementById("CANVAS").toDataURL("image/png")
+                            .replace("image/jpg", "image/octet-stream");
+                download.setAttribute("href", image);
+                //download.setAttribute("download","archive.png");
+        }
+
+        var video = document.querySelector("#videoElement");
+
+        if (navigator.mediaDevices.getUserMedia) {
+            navigator.mediaDevices.getUserMedia({video: true})
+            .then(function(stream) {
+                video.srcObject = stream;
+            })
+            .catch(function(err0r) {
+                console.log("Something went wrong!");
+            });
+
+            function myFunction() {
+                var x = document.getElementById("CANVAS");
+                var ctx = x.getContext("2d");
+                ctx.fillStyle = "#FF0000";
+
+                ctx.drawImage(video, 0, 0, 350, 400); /* Adjust the dimensions to match the vertical orientation */
+
+                //ctx.fillRect(20, 20, 150, 100);
+            }
+        }           
+    </script>
 </body>
 </html>
