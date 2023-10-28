@@ -10,10 +10,6 @@ def main():
 
     # -------------------------------- #
 
-    # Code to take and automatically crop image
-
-    # -------------------------------- #
-
     # Path to the Tesseract executable (update this with your installation path)
     pyt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
@@ -44,4 +40,4 @@ def main():
     # -------------------------------- #
 
 
-# main()
+main()

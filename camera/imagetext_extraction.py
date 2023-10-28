@@ -33,7 +33,7 @@ def extracting_relevant_text(extracted_text):
         response = openai.Completion.create(
             model="text-davinci-003",
             prompt=str(
-                f"Kan du filtrere ut matvarene i teksten og gi det som en komma separert streng?: {extracted_text}"),
+                f"Kan du filtrere ut matvarene fra kvitteringen under og gi det som en komma separert streng?: {extracted_text}"),
             max_tokens=2000,
             temperature=0
         )
