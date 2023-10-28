@@ -15,7 +15,7 @@ def main():
 
     # Provide the path to the image of the receipt
     # Change path to the processed image
-    image_path = r'mockdata\test.jpg'
+    image_path = r'static\reciept.jpg'
 
     # Call the OCR function
     extracted_text = extract_text_from_image(image_path)
@@ -40,4 +40,4 @@ def main():
     # -------------------------------- #
 
 
-main()
+# main()

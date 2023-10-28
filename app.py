@@ -5,7 +5,7 @@ import sys
 app = Flask(__name__)
 
 # Add the root directory to sys.path
-sys.path.append('/main')
+# sys.path.append('/main')
 
 # Now you can import main
 from main import main 
