@@ -2,8 +2,6 @@ from flask import Flask, render_template, request
 import base64
 import sys
 
-app = Flask(__name__)
-
 # Add the root directory to sys.path
 # sys.path.append('/main')
 
@@ -37,7 +35,8 @@ def index():
 
 @app.route('/information')
 def information():
-    return render_template('information.html')
+    data = ["A", "b", "c", "hallaisen", "hallaisen", "hallaisen", "hallaisen", "halsdsdsdsdsdsdlaisen", "hallaisen", "hallaisen"]
+    return render_template('information.html', data=data)
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8080)
+    app.run(debug=True)
