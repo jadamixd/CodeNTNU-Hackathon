@@ -25,20 +25,25 @@ def extract_text_from_image(image_path):
 
 
 def extracting_relevant_text(extracted_text):
+    try:
+        # insert organization and api key
 
-    openai.organization = ""
-    openai.api_key = ""
+        # openai.Model.list()
 
-    openai.Model.list()
+        response = openai.Completion.create(
+            model="text-davinci-003",
+            prompt=str(
+                f"Kan du filtrere ut matvarene fra kvitteringen under og gi det som en komma separert streng?: {extracted_text}"),
+            max_tokens=2000,
+            temperature=0
+        )
 
-    response = openai.Completion.create(
-        model="gpt-3.5-turbo-0613",
-        prompt=str(
-            f"Kan du filtrere ut matvarene i teksten og sette det inn i en python liste?: {extracted_text}"),
-        max_tokens=200,
-        temperature=20
-    )
+        extracted_text_list = response['choices'][0]['text'].split(",")
 
-    print(response)
+        print(extracted_text_list)
 
-    return extracted_text
+        return extracted_text_list
+
+    except:
+        print("total failure!")
+        return []
