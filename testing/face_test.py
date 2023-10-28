@@ -31,12 +31,25 @@ def scan_face ():
                 scores = detection[5:]
                 class_id = np.argmax(scores)
                 confidence = scores[class_id] 
-                """
+                
                 if confidence > 0.99:
                     print("found person")
                     print(confidence)
+                    cap.release()
+                    cv2.destroyAllWindows()
+                    center_x = int(detection[0] * frame.shape[1])
+                    center_y = int(detection[1] * frame.shape[0])
+                    w = int(detection[2] * frame.shape[1])
+                    h = int(detection[3] * frame.shape[0])
+                    x = center_x - w // 2
+                    y = center_y - h // 2
+                    extracted_frame = frame[y:(y + h), x:(x + w)]
+                    cv2.imshow('Extracted Frame', extracted_frame)
+                    stop = 1
+                    while stop == 1:
+                        stop = int(input("input"))
                     return
-                """
+                
                 if confidence > 0.5:
                     center_x = int(detection[0] * frame.shape[1])
                     center_y = int(detection[1] * frame.shape[0])
@@ -49,8 +62,8 @@ def scan_face ():
                     label = f'{classes[class_id]}: {confidence:.2f}'
                     cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
                     cv2.putText(frame, label, (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 255, 0), 2)
-                    extracted_frame = frame[y:(y + h), x:(x + w)]
-                    cv2.imshow('Extracted Frame', extracted_frame)
+                    #extracted_frame = frame[y:(y + h), x:(x + w)]
+                    #cv2.imshow('Extracted Frame', extracted_frame)
                     
 
         # Display the frame with object detection
