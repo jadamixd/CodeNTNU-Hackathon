@@ -8,8 +8,6 @@ def main():
     # Other file imports
     from camera.imagetext_extraction import extract_text_from_image, extracting_relevant_text
 
-    failure = False
-
     # -------------------------------- #
 
     # Code to take and automatically crop image
