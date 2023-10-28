@@ -3,7 +3,6 @@ from PIL import Image
 import pytesseract as pyt
 import numpy as np
 
-
 def main():
     # Other file imports
     from camera.imagetext_extraction import extract_text_from_image, extracting_relevant_text

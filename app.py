@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import base64
 
 app = Flask(__name__)
-# from main import main
+from main import main
 
 @app.route('/save-image', methods=['POST'])
 def save_image():
@@ -30,8 +30,8 @@ def index():
 
 @app.route('/information')
 def information():
-    # data = main()
-    data = ["ADS", "ADSJIDAS", "AHSDH", "AGSHD", "AOSIDPAS", "AOSPIJ"]
+    data = main()
+    # data = ["ADS", "ADSJIDAS", "AHSDH", "AGSHD", "AOSIDPAS", "AOSPIJ"]
     return render_template('information.html', data=data)
 
 if __name__ == '__main__':
