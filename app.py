@@ -8,6 +8,7 @@ app = Flask(__name__)
 # sys.path.append('/main')
 
 # Now you can import main
+from main import main
 
 app = Flask(__name__)
 
@@ -37,6 +38,8 @@ def index():
 
 @app.route('/information')
 def information():
+    data = main()
+    print(data)
     return render_template('information.html')
 
 if __name__ == '__main__':
