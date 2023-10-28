@@ -15,34 +15,31 @@
             border: 10px #333 solid;
         }
 
-        #CANVAS {
+        .list-div {
+            flex: 1;
+            display: block;
+            padding: 20px; /* Padding for each item */
+            font-size: 24px;
+            margin-bottom: 10px; /* Add margin between items */
+        }
+
+        .border {
             border: 10px #333 solid;
         }
 
-        #videoElement {
-            width: 100%;
-            height: 100%;
-            object-fit: cover;
-        }
+        span {cursor:pointer; }
+            input{
+                height:34px;
+                width: 100px;
+                text-align: center;
+                font-size: 26px;
+                border:1px solid #ddd;
+                border-radius:4px;
+                display: inline-block;
+                vertical-align: middle;
+                color: black;
+            }
 
-        .no-padding {
-            padding-left: 0;
-            padding-right: 0;
-        }
-
-        #f_style {
-            width: 100%;
-            height: 70%;
-            margin-right: 10px;
-        }
-
-        /* Increase the size of the div elements */
-        .large-div {
-            flex: 1;
-            display: inline-block;
-            padding: 200px; /* Add more padding to increase size */
-            font-size: 24px; /* Increase font size */
-        }
     </style>
 </head>
 <body class="bg-gradient-to-b from-gray-900 to-blue-900 font-sans text-white m-0 p-0">
@@ -52,20 +49,49 @@
     </div>
 
     <main class="flex min-h-screen w-full flex-col items-center pt-10">
-        <div class="flex">
-            <div style="display: inline-block;">
-                <img src='{{ url_for("static", filename="/reciept.jpg") }}' alt="Receipt Image">
-            </div>
-            <div class="large-div">
-                DIVVY
-            </div>
-        </div>
         <a id="backpage" href="/">
-            <button style="margin-top: 20px; font-size: 20px; padding: 10px 20px;" class="btn btn-primary" type="button">
+            <button style="margin-bottom: 20px; font-size: 20px; padding: 10px 20px;" class="btn btn-primary" type="button">
                 Take a new photo
             </button>
         </a>
+        <div class="flex">
+            <div style="display: inline-block; margin-right: 10px;"> <!-- Use "margin-right" instead of "style" twice -->
+                <img src="{{ url_for('static', filename="/reciept.jpg") }}" alt="Receipt Image">
+            </div>
+            <div class="border" style="max-height: 480px; overflow-y: auto;">
+                {% for item in data %}
+                <div class="list-div" style="margin-bottom: 1px; display: flex; justify-content: space-between; align-items: center;">
+                    <div>
+                        • {{ item }}    
+                    </div>
+                    <div style="margin-left: 20px">
+                        <span class="minus">-</span>
+                        <input type="text" value="1"/>
+                        <span class="plus">+</span>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
     </main>
+    <script>
+        $(document).ready(function() {
+			$('.minus').click(function () {
+				var $input = $(this).parent().find('input');
+				var count = parseInt($input.val()) - 1;
+				count = count < 0 ? 0 : count;
+				$input.val(count);
+				$input.change();
+				return false;
+			});
+			$('.plus').click(function () {
+				var $input = $(this).parent().find('input');
+				$input.val(parseInt($input.val()) + 1);
+				$input.change();
+				return false;
+			});
+		});
+    </script>
+
 </body>
 </html>
-
