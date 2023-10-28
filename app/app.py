@@ -1,5 +1,14 @@
-from flask import Flask, render_template, request, jsonify
+from flask import Flask, render_template, request
 import base64
+import sys
+
+app = Flask(__name__)
+
+# Add the root directory to sys.path
+sys.path.append('/main')
+
+# Now you can import main
+from main import main 
 
 app = Flask(__name__)
 
@@ -29,6 +38,8 @@ def index():
 
 @app.route('/information')
 def information():
+    list = main()
+    print(list)
     return render_template('information.html')
 
 if __name__ == '__main__':
