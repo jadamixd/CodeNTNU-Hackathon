@@ -21,7 +21,7 @@ def save_image():
         image_binary = base64.b64decode(image_data.split(',')[1])
 
         # Define the directory to save the images
-        image_directory = 'app/static/'
+        image_directory = 'static/'
         
         # Save the image to a file in the specified directory
         with open(image_directory + 'reciept.jpg', 'wb') as f:
