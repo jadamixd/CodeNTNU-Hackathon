@@ -1,0 +1,16 @@
+{
+    "data": [],
+    "links": {
+        "first": "https://kassal.app/api/v1/products?page=1",
+        "last": null,
+        "prev": "https://kassal.app/api/v1/products?page=2",
+        "next": null
+    },
+    "meta": {
+        "current_page": 3,
+        "from": null,
+        "path": "https://kassal.app/api/v1/products",
+        "per_page": 100,
+        "to": null
+    }
+}

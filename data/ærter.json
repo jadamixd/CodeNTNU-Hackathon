@@ -1,0 +1,825 @@
+{
+    "data": [
+        [
+            {
+                "id": 35953,
+                "name": "Bringeb\u00e6rterte Fransk 110g Fryst",
+                "brand": null,
+                "vendor": "Ikke i bruk-united bakeries",
+                "ean": "2000236900004",
+                "url": "https://meny.no/Varer/bakeri/kaker/terte/bringebaerterte-2000236900004",
+                "image": "https://bilder.ngdata.no/2369/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 22,
+                        "depth": -2,
+                        "name": "Bakeri"
+                    },
+                    {
+                        "id": 156,
+                        "depth": -1,
+                        "name": "Kaker"
+                    },
+                    {
+                        "id": 874,
+                        "depth": 0,
+                        "name": "Terte"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 37.9,
+                "current_unit_price": 37.9,
+                "weight": 1,
+                "weight_unit": "piece",
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-21T07:02:13.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-20T07:02:10.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-18T07:01:39.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-17T07:02:17.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-16T07:01:45.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-14T07:02:08.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-12T07:02:09.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-11T07:01:44.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-10T07:01:42.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-09T07:01:57.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-08T07:01:30.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-07T07:01:23.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-06T07:01:45.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-05T07:01:41.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-02T07:01:26.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-10-01T07:02:35.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-09-30T07:02:04.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-09-28T07:01:40.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-09-27T07:01:30.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-09-26T07:02:23.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-09-25T07:02:10.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-09-23T07:02:33.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-09-22T07:01:56.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-09-20T07:01:52.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-09-19T07:06:34.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "UNKNOWN"
+                    }
+                ],
+                "nutrition": [],
+                "labels": [
+                    {
+                        "name": "frysevare",
+                        "display_name": "Frysevare",
+                        "description": "Produktet er en frysevare.",
+                        "organization": "Kassalapp",
+                        "alternative_names": null,
+                        "type": "Kassalapp",
+                        "year_established": 2023,
+                        "about": "<div>Dette merket, som brukes p\u00e5 Kassalapp nettsiden, viser at produktet er en frysevare.&nbsp;<br><br>Sn\u00f8fnugg-ikonet ble valgt fordi det assosieres med kulde og frysing, og det gir tydelig informasjon til forbrukerne.</div>",
+                        "note": "Ikke en offisiel merkeordning",
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Frysevare.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Frysevare.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-10T17:29:26.000000Z",
+                "updated_at": "2023-10-21T07:02:13.000000Z"
+            },
+            {
+                "id": 51087,
+                "name": "Jordb\u00e6rterte 4-pk",
+                "brand": null,
+                "vendor": "CALAS AS",
+                "ean": "7037421071466",
+                "url": "https://www.europris.no/p-jordbaerterte-4-pk-174853",
+                "image": "https://images2.europris.no/produkter/vw800/17/174853/174853_main.webp",
+                "category": null,
+                "description": "S\u00f8t og god jordb\u00e6rterte. Forpakning med 4 smakfulle biter. Kjekt \u00e5 ha til kaffekosen eller gjester som plutselig dukker opp p\u00e5 d\u00f8ra di.",
+                "ingredients": "Hvetemel, glukose-fruktose sirup, sukker, vegetabilsk olje (palmeolje, rapsolje, kokosolje), eple, 2% jordb\u00e6r, soyab\u00f8nner, fortykningsmiddel (guarkjernemel gum), pektin, surhetsregulerende middel (sitronsyre, E322, E452, E509, E270), emulgator (soyalecitin, E471), hylleb\u00e6r ekstrakt, aroma (melk), hevemiddel (E450, E500), invertsukker, salt, modifisert potetstivelse, dekstrose, melkeprotein, stabilisator (sorbitol), aprikoskjerner, konserveringsmiddel (E202), laktose (melk), hvetestivelse",
+                "current_price": 14.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Europris",
+                    "code": "EUROPRIS_NO",
+                    "url": "https://www.europris.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Europris.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-27T07:20:51.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-26T07:22:41.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-24T07:20:53.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-23T07:19:36.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-22T07:17:45.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-21T07:17:33.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-20T07:17:40.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-19T07:19:39.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-18T07:19:18.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-17T07:19:31.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-16T07:17:17.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-15T07:19:50.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-14T07:17:42.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-13T07:17:51.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-12T07:19:53.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-11T07:19:13.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-10T07:18:34.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-09T07:18:49.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-08T07:16:50.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-07T07:17:45.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-06T07:20:32.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-05T07:18:52.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-04T07:17:56.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-02T07:18:33.000000Z"
+                    },
+                    {
+                        "price": 14.9,
+                        "date": "2023-10-01T07:18:23.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2022-10-26T19:32:44.000000Z",
+                "updated_at": "2023-10-27T07:20:51.000000Z"
+            },
+            {
+                "id": 90011,
+                "name": "Hipp Bulgur og Gr\u00f8nnsakspanne med Kik\u00e6rter og Biff 12mdr 250g",
+                "brand": "Hipp",
+                "vendor": "ARVID NORDQUIST NORGE AS",
+                "ean": "4062300365582",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/4062300365582",
+                "category": [
+                    {
+                        "id": 16,
+                        "depth": -1,
+                        "name": "Barneprodukter"
+                    },
+                    {
+                        "id": 81,
+                        "depth": 0,
+                        "name": "Barnemat"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Gulrot 28%, kokt bulgur (durumhvete) 24%, tomat 17%, vann, okskj\u00f8tt 8%, kikerter 5%, l\u00f8k, risstivelse, rapsolje, krydder (persille, ingef\u00e6r, hvitl\u00f8k), jodert salt (salt, kaliumjodat).",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 250,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "gluten",
+                        "display_name": "Gluten",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 74,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 308,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 2.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 7.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 2.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.28,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "debio",
+                        "display_name": "Debio",
+                        "description": "Debio-merket er det offisielle norske \u00f8kologimerket og gir en garanti for at en vare er \u00f8kologisk dyrket.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Debio-merket er det offisielle norske merket for \u00f8kologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med \u00f8kologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio \u00f8kologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som f\u00f8lges for \u00e5 oppn\u00e5 Debio-sertifisering.<br><br></div><div>For \u00e5 bli merket som \u00f8kologisk av Debio, m\u00e5 produkter gjennomg\u00e5 inspeksjoner og oppfylle strenge krav hvert \u00e5r. Debio samarbeider tett med Mattilsynet for \u00e5 sikre at \u00f8kologisk produksjon og merking f\u00f8lger forskriftene om \u00f8kologisk produksjon og merking av \u00f8kologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole p\u00e5 at Debio-merket indikerer ekte \u00f8kologiske produkter.<br><br></div><div>Debio-merket er et p\u00e5litelig symbol for forbrukere som \u00f8nsker \u00e5 velge \u00f8kologiske alternativer og st\u00f8tte en b\u00e6rekraftig matproduksjon i Norge. Ved \u00e5 se etter Debio-merket, kan forbrukere enkelt identifisere og kj\u00f8pe produkter som er i tr\u00e5d med deres \u00f8nske om \u00e5 spise \u00f8kologisk.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Debio.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Debio.png"
+                        }
+                    },
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T02:45:14.000000Z",
+                "updated_at": "2023-09-06T01:13:44.000000Z"
+            },
+            {
+                "id": 105771,
+                "name": "Bringeb\u00e6rterte Kj\u00f8lt",
+                "brand": null,
+                "vendor": "United bakeries norway",
+                "ean": "2000144000001",
+                "url": "https://meny.no/Varer/bakeri/kaker/terte/bringebaerterte-2000144000001",
+                "image": "https://bilder.ngdata.no/2000144000001/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 22,
+                        "depth": -2,
+                        "name": "Bakeri"
+                    },
+                    {
+                        "id": 156,
+                        "depth": -1,
+                        "name": "Kaker"
+                    },
+                    {
+                        "id": 874,
+                        "depth": 0,
+                        "name": "Terte"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 37.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 37.9,
+                        "date": "2023-08-03T07:01:04.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-08-02T07:01:00.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-08-01T07:00:45.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-31T07:00:44.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-30T07:00:37.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-29T07:01:34.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-28T07:01:29.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-27T07:01:32.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-26T07:01:17.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-25T07:01:25.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-24T07:01:28.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-23T07:01:33.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-22T07:00:58.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-21T07:00:59.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-20T07:00:38.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-19T07:00:39.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-18T07:00:43.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-17T07:01:29.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-16T07:00:59.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-15T07:01:01.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-14T07:01:05.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-13T07:00:40.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-12T07:00:34.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-11T07:00:34.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-10T07:00:34.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "UNKNOWN"
+                    }
+                ],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2023-06-11T14:15:22.000000Z",
+                "updated_at": "2023-08-03T07:01:04.000000Z"
+            },
+            {
+                "id": 113118,
+                "name": "Bringeb\u00e6rterte Fransk 30x110g United Bakeries",
+                "brand": "United bakeries",
+                "vendor": "United bakeries norway",
+                "ean": "7071848034673",
+                "url": "https://meny.no/Varer/bakeri/kaker/terte/bringebaerterte-7071848034673",
+                "image": "https://bilder.ngdata.no/7071848034673/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 22,
+                        "depth": -2,
+                        "name": "Bakeri"
+                    },
+                    {
+                        "id": 156,
+                        "depth": -1,
+                        "name": "Kaker"
+                    },
+                    {
+                        "id": 874,
+                        "depth": 0,
+                        "name": "Terte"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Bringeb\u00e6r 30 %, hvetemel, sukker,  sm\u00f8r, invertsukkersirup, konsentrert sm\u00f8r, vann, egg, rips, malte mandler, solb\u00e6r, vegetabilske geleringsmidler (e440, e406), stivelse, salt, hevemidler (e550, e450).",
+                "current_price": 37.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 37.9,
+                        "date": "2023-08-03T07:00:40.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-08-02T07:00:57.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-08-01T07:00:31.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-31T07:00:29.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-30T07:00:30.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-29T07:00:30.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-28T07:00:31.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-27T07:00:30.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-26T07:00:30.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-25T07:00:30.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-24T07:02:48.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-24T07:00:31.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-23T07:00:30.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-22T07:00:45.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-21T07:00:30.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-20T07:00:28.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-19T07:00:49.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-18T07:00:31.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-17T07:00:29.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-16T07:00:44.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-15T07:00:48.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-14T07:00:30.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-13T07:00:36.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-12T07:00:30.000000Z"
+                    },
+                    {
+                        "price": 37.9,
+                        "date": "2023-07-11T07:00:30.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "egg",
+                        "display_name": "Egg",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "soya",
+                        "display_name": "Soya",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 325,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 1357,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 18,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 35,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 11,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 4.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.19,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 23,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "frysevare",
+                        "display_name": "Frysevare",
+                        "description": "Produktet er en frysevare.",
+                        "organization": "Kassalapp",
+                        "alternative_names": null,
+                        "type": "Kassalapp",
+                        "year_established": 2023,
+                        "about": "<div>Dette merket, som brukes p\u00e5 Kassalapp nettsiden, viser at produktet er en frysevare.&nbsp;<br><br>Sn\u00f8fnugg-ikonet ble valgt fordi det assosieres med kulde og frysing, og det gir tydelig informasjon til forbrukerne.</div>",
+                        "note": "Ikke en offisiel merkeordning",
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Frysevare.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Frysevare.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T14:16:20.000000Z",
+                "updated_at": "2023-08-03T07:00:40.000000Z"
+            }
+        ]
+    ]
+}

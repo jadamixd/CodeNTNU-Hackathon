@@ -1,0 +1,4514 @@
+{
+    "data": [
+        [
+            {
+                "id": 14741,
+                "name": "Sambal Oelek 200g St.Maria",
+                "brand": "Santa maria",
+                "vendor": "Santa maria norge as",
+                "ean": "7311310036218",
+                "url": "https://meny.no/Varer/middagstilbehor/sauser/chilisaus/sambal-oelek-7311310036218",
+                "image": "https://bilder.ngdata.no/7311310036218/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 484,
+                        "depth": 0,
+                        "name": "Chilisaus"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Chilipeber (84%), salt, surhedsregulerende middel (eddiksyre), konserveringsmiddel (e202).",
+                "current_price": 29.9,
+                "current_unit_price": 149.5,
+                "weight": 200,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-09T07:02:16.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-05T07:05:59.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-05T07:03:25.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-05T07:01:06.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-04T07:02:14.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-03T07:07:12.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-09-30T07:02:24.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-09-29T07:01:45.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-24T07:05:18.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-24T07:03:52.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-24T07:00:55.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-23T07:04:54.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-23T07:02:48.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-23T07:00:32.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-22T07:05:52.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-22T07:03:40.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-22T07:01:29.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-21T07:05:05.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-21T07:02:56.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-21T07:00:41.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-20T07:05:12.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-20T07:03:03.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-20T07:00:48.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-19T07:05:40.000000Z"
+                    },
+                    {
+                        "price": 39.3,
+                        "date": "2023-09-19T07:03:01.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 52,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 213,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 3.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 8.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 11,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "grontpunkt",
+                        "display_name": "Gr\u00f8nt Punkt",
+                        "description": "Gr\u00f8nt Punkt-symbolet viser at bedriften tar sitt lovp\u00e5lagte produsentansvar for emballasjeinnsamling og gjenvinning.",
+                        "organization": "Gr\u00f8nt Punkt Norge",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 1994,
+                        "about": "<div>Gr\u00f8nt Punkt-symbolet er et symbol knyttet til produsentansvar for emballasje i Norge. Dette symbolet fungerer som et bevis p\u00e5 at en bedrift har oppfylt sitt lovp\u00e5lagte ansvar gjennom medlemskap i Gr\u00f8nt Punkt Norge. Som et anerkjent symbol representerer det bedriftens engasjement for innsamling og gjenvinning av emballasje, noe som ogs\u00e5 har en positiv effekt p\u00e5 bedriftens omd\u00f8mme.<br><br></div><div><br>Gr\u00f8nt Punkt-symbolet er en kvittering som viser at bedriften har tatt sitt milj\u00f8ansvar ved \u00e5 v\u00e6re medlem i et godkjent returselskap for emballasje. Det symboliserer bedriftens betaling for innsamling og gjenvinning av emballasje gjennom Gr\u00f8nt Punkt Norge. Dette er en viktig del av det lovp\u00e5lagte produsentansvaret for emballasje i Norge.<br><br></div><div><br>Ved \u00e5 vise Gr\u00f8nt Punkt-symbolet demonstrerer bedriften at den tar ansvar for emballasjen sin gjennom hele livssyklusen. Dette inkluderer finansiering av innsamling og gjenvinning, og bidrar dermed til \u00e5 redusere milj\u00f8belastningen av emballasje. Som et symbol for milj\u00f8ansvar bidrar Gr\u00f8nt Punkt-symbolet til \u00e5 styrke bedriftens omd\u00f8mme og signaliserer at den tar b\u00e6rekraft p\u00e5 alvor.<br><br></div><div><br>Gr\u00f8nt Punkt Norge forvalter produsentansvarsordningen for returselskapene som tar seg av ulike typer emballasje. Dette symbolet er en anerkjent mark\u00f8r som har v\u00e6rt i bruk siden 1997. Bedrifter som er medlemmer av Gr\u00f8nt Punkt Norge og bruker symbolet, viser at de tar sin del av ansvaret for emballasjen de produserer eller importerer. Dette bidrar til et mer b\u00e6rekraftig og ressurseffektivt samfunn.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Gront Punkt.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Gront Punkt.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-09T19:54:56.000000Z",
+                "updated_at": "2023-10-09T07:02:15.000000Z"
+            },
+            {
+                "id": 14985,
+                "name": "Sambal Oelek 234g Go-Tan",
+                "brand": "Go tan",
+                "vendor": "Haugen - gruppen as",
+                "ean": "8710605013603",
+                "url": "https://meny.no/Varer/middagstilbehor/sauser/chilisaus/sambal-oelek-8710605013603",
+                "image": "https://bilder.ngdata.no/8710605013603/meny/large.jpg",
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": 24.8,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 24.8,
+                        "date": "2022-02-17T17:50:11.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T05:26:33.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T05:25:30.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T05:21:10.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T05:20:20.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T05:16:01.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T05:15:10.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T05:10:51.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T05:10:00.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T05:05:41.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T05:04:49.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T05:00:30.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T04:59:39.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T04:55:22.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T04:54:30.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T04:50:11.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T04:49:20.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T04:45:01.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T04:44:10.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T04:39:52.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T04:38:59.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T04:34:41.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T04:33:51.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T04:29:31.000000Z"
+                    },
+                    {
+                        "price": 49.6,
+                        "date": "2022-01-17T04:28:40.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 48,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 201,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 7.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 10.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 4.8,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:54:58.000000Z",
+                "updated_at": "2023-07-16T23:35:37.000000Z"
+            },
+            {
+                "id": 26384,
+                "name": "Chilipaste Sambal Oelek 100 g",
+                "brand": "Go Tan",
+                "vendor": "Haugen-Gruppen AS",
+                "ean": "8710605010237",
+                "url": "https://oda.com/no/products/27232-go-tan-chilipaste-sambal-oelek/",
+                "image": "https://bilder.kolonial.no/produkter/d676eda4-c8ca-4217-823f-9277d923dd05.jpeg?auto=format&fit=max&w=654&s=51fdd4ae96b4c8ce63d528db622b232c",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 484,
+                        "depth": 0,
+                        "name": "Chilisaus"
+                    }
+                ],
+                "description": "",
+                "ingredients": "R\u00f8d chillipepper (88%), salt (10,5), modifisert maisstivelse, surhetsmiddel (sitronsyre), konserveringsmiddel (kaliumsorbat).",
+                "current_price": 44.1,
+                "current_unit_price": 441,
+                "weight": 100,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-27T07:13:25.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-26T07:14:51.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-25T07:12:22.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-24T07:12:28.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-23T07:17:19.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-22T07:13:43.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-21T07:13:58.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-20T07:12:50.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-19T07:12:24.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-18T07:13:06.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-17T07:12:58.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-16T07:15:07.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-15T07:12:53.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-14T07:12:22.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-13T07:15:28.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-12T07:13:33.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-11T07:14:14.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-10T07:13:05.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-09T07:15:17.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-08T07:14:24.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-07T07:12:24.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-06T07:14:26.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-05T07:13:52.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-04T07:13:46.000000Z"
+                    },
+                    {
+                        "price": 44.1,
+                        "date": "2023-10-03T07:14:13.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 35,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 145,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 3.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "natrium",
+                        "display_name": "Natrium",
+                        "amount": 4.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 11,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:57:14.000000Z",
+                "updated_at": "2023-10-27T07:13:25.000000Z"
+            },
+            {
+                "id": 27627,
+                "name": "Sambal Oelek 234 g",
+                "brand": "Go Tan",
+                "vendor": "Haugen-Gruppen AS",
+                "ean": null,
+                "url": "https://oda.com/no/products/27226-go-tan-sambal-oelek/",
+                "image": "https://bilder.kolonial.no/local_products/e3a0506a-8acc-4f25-9807-b7d84fdf1559.jpeg?auto=format&fit=max&w=132&s=38870fb9a59bce8077ecbd325d85ef15",
+                "category": null,
+                "description": "Sambal Oelek chili paste i PET flaske. Passer til diverse asiatiske matretter. Lett \u00e5 dosere med.",
+                "ingredients": "R\u00f8d chillipepper, vann, salt, modifisert maisstivelse, surhetsregulerende middel (eddik), konserveringsmiddel (kaliumsorbat).",
+                "current_price": 54.3,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 54.3,
+                        "date": "2023-03-09T12:07:29.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-01-08T18:53:22.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2022-09-15T14:52:31.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2022-08-24T18:17:48.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2022-08-06T22:03:14.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2022-08-06T21:52:26.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2022-08-06T21:39:34.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2022-08-05T18:22:51.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2022-08-05T17:47:49.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2022-07-17T01:38:54.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2022-01-14T11:03:08.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2022-01-12T23:59:35.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2022-01-11T22:12:12.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2022-01-10T22:02:34.000000Z"
+                    },
+                    {
+                        "price": 48.6,
+                        "date": "2022-01-09T20:10:22.000000Z"
+                    },
+                    {
+                        "price": 48.6,
+                        "date": "2022-01-09T19:57:31.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 48,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 201,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 7.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 10.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 4.8,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:57:31.000000Z",
+                "updated_at": "2023-07-16T23:37:35.000000Z"
+            },
+            {
+                "id": 28557,
+                "name": "Santa Maria Sambal Oelek 200g",
+                "brand": "SANTA MARIA",
+                "vendor": "SANTA MARIA NORGE AS",
+                "ean": "7311310036218",
+                "url": "https://matlevering.coop.no/middag-og-tilbehor/asiatisk/thai/s.m.-sambal-oelek-200g",
+                "image": "https://cdcimg.coop.no/rte/RTE2/7311310036218.png",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 484,
+                        "depth": 0,
+                        "name": "Chilisaus"
+                    }
+                ],
+                "description": "En smakfull saus som i hovedsak er laget av chilipepper",
+                "ingredients": "Chilipepper (69%), salt, surhedsregulerende  middel (eddiksyre), konserveringsmiddel (E202).",
+                "current_price": 35.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Coop",
+                    "code": "COOP_NO",
+                    "url": "https://matlevering.coop.no",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Coop.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 35.9,
+                        "date": "2023-01-30T09:32:04.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2023-01-15T10:59:10.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2023-01-12T14:09:50.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2023-01-10T11:49:22.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2023-01-08T18:41:21.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2023-01-05T14:28:49.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2023-01-03T07:50:59.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2023-01-02T07:05:08.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2022-12-29T19:19:50.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2022-12-28T15:35:06.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2022-12-27T14:02:36.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2022-12-21T22:29:37.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2022-12-19T15:12:59.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2022-12-14T06:59:36.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2022-12-11T21:13:21.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2022-12-09T16:30:14.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2022-12-04T15:17:17.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2022-11-24T14:32:59.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2022-11-21T06:27:15.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2022-11-18T23:43:29.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2022-11-15T22:31:20.000000Z"
+                    },
+                    {
+                        "price": 35.9,
+                        "date": "2022-11-14T11:00:14.000000Z"
+                    },
+                    {
+                        "price": 36.9,
+                        "date": "2022-11-10T08:59:42.000000Z"
+                    },
+                    {
+                        "price": 36.9,
+                        "date": "2022-11-07T19:12:59.000000Z"
+                    },
+                    {
+                        "price": 36.9,
+                        "date": "2022-11-04T18:44:02.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 40,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 160,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 6.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 10,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "grontpunkt",
+                        "display_name": "Gr\u00f8nt Punkt",
+                        "description": "Gr\u00f8nt Punkt-symbolet viser at bedriften tar sitt lovp\u00e5lagte produsentansvar for emballasjeinnsamling og gjenvinning.",
+                        "organization": "Gr\u00f8nt Punkt Norge",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 1994,
+                        "about": "<div>Gr\u00f8nt Punkt-symbolet er et symbol knyttet til produsentansvar for emballasje i Norge. Dette symbolet fungerer som et bevis p\u00e5 at en bedrift har oppfylt sitt lovp\u00e5lagte ansvar gjennom medlemskap i Gr\u00f8nt Punkt Norge. Som et anerkjent symbol representerer det bedriftens engasjement for innsamling og gjenvinning av emballasje, noe som ogs\u00e5 har en positiv effekt p\u00e5 bedriftens omd\u00f8mme.<br><br></div><div><br>Gr\u00f8nt Punkt-symbolet er en kvittering som viser at bedriften har tatt sitt milj\u00f8ansvar ved \u00e5 v\u00e6re medlem i et godkjent returselskap for emballasje. Det symboliserer bedriftens betaling for innsamling og gjenvinning av emballasje gjennom Gr\u00f8nt Punkt Norge. Dette er en viktig del av det lovp\u00e5lagte produsentansvaret for emballasje i Norge.<br><br></div><div><br>Ved \u00e5 vise Gr\u00f8nt Punkt-symbolet demonstrerer bedriften at den tar ansvar for emballasjen sin gjennom hele livssyklusen. Dette inkluderer finansiering av innsamling og gjenvinning, og bidrar dermed til \u00e5 redusere milj\u00f8belastningen av emballasje. Som et symbol for milj\u00f8ansvar bidrar Gr\u00f8nt Punkt-symbolet til \u00e5 styrke bedriftens omd\u00f8mme og signaliserer at den tar b\u00e6rekraft p\u00e5 alvor.<br><br></div><div><br>Gr\u00f8nt Punkt Norge forvalter produsentansvarsordningen for returselskapene som tar seg av ulike typer emballasje. Dette symbolet er en anerkjent mark\u00f8r som har v\u00e6rt i bruk siden 1997. Bedrifter som er medlemmer av Gr\u00f8nt Punkt Norge og bruker symbolet, viser at de tar sin del av ansvaret for emballasjen de produserer eller importerer. Dette bidrar til et mer b\u00e6rekraftig og ressurseffektivt samfunn.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Gront Punkt.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Gront Punkt.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-09T19:57:46.000000Z",
+                "updated_at": "2023-07-16T23:37:44.000000Z"
+            },
+            {
+                "id": 29682,
+                "name": "Go-Tan Sambal Oelek 200g",
+                "brand": "GO-TAN",
+                "vendor": "HAUGEN-GRUPPEN AS",
+                "ean": "8710605011333",
+                "url": "https://matlevering.coop.no/middag-og-tilbehor/asiatisk/thai/go-tan-sambal-oelek-200g",
+                "image": "https://cdcimg.coop.no/rte/RTE2/8710605011333.png",
+                "category": null,
+                "description": null,
+                "ingredients": "R\u00f8d Chillipepper (68,9%), vann, salt, matsyre (sitronsyre), modifisert maisstivelse, konseveringsmiddel (kaliumumsorbat).",
+                "current_price": 48.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Coop",
+                    "code": "COOP_NO",
+                    "url": "https://matlevering.coop.no",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Coop.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 48.9,
+                        "date": "2023-01-30T09:32:12.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-01-15T10:59:14.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-01-12T14:09:54.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-01-10T11:49:27.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-01-08T18:41:25.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-01-05T14:28:55.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-01-03T07:51:00.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-01-02T07:05:20.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-12-29T19:19:57.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-12-28T15:35:10.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-12-27T14:02:36.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-12-21T22:29:51.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-12-19T15:13:13.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-12-14T06:59:47.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-12-11T21:13:26.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-12-09T16:30:14.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-12-04T15:17:19.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-11-24T14:33:15.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-11-18T23:43:30.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-11-15T22:31:36.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-11-14T11:00:08.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-11-10T08:59:53.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-11-07T19:13:01.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-11-04T18:43:56.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2022-10-31T22:20:12.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 38,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 161,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 6.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 10.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.6,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:58:04.000000Z",
+                "updated_at": "2023-07-16T23:37:54.000000Z"
+            },
+            {
+                "id": 33046,
+                "name": "Sambal Oelek 200 g",
+                "brand": "Santa Maria",
+                "vendor": "Santa Maria Norge AS",
+                "ean": "7311310036218",
+                "url": "https://oda.com/no/products/16582-santa-maria-sambal-oelek/",
+                "image": "https://bilder.kolonial.no/local_products/c10cfbeb-8566-4330-ae2c-056d427bd367.jpeg?auto=format&fit=max&w=278&s=547763602c59328cac1d1b96053bbfe1",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 484,
+                        "depth": 0,
+                        "name": "Chilisaus"
+                    }
+                ],
+                "description": "",
+                "ingredients": "Chilipeber (84%), salt, surhedsregulerende middel (eddiksyre), konserveringsmiddel (E202).",
+                "current_price": 29.9,
+                "current_unit_price": 149.5,
+                "weight": 200,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-27T07:13:30.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-26T07:15:56.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-25T07:13:43.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-24T07:16:13.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-23T07:16:38.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-22T07:16:07.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-21T07:16:17.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-20T07:14:25.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-19T07:13:03.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-18T07:16:15.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-17T07:14:11.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-16T07:15:45.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-15T07:13:54.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-14T07:15:44.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-13T07:13:35.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-12T07:13:29.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-11T07:13:20.000000Z"
+                    },
+                    {
+                        "price": 29.9,
+                        "date": "2023-10-10T07:13:34.000000Z"
+                    },
+                    {
+                        "price": 31.3,
+                        "date": "2023-10-09T07:13:30.000000Z"
+                    },
+                    {
+                        "price": 31.3,
+                        "date": "2023-10-08T07:13:20.000000Z"
+                    },
+                    {
+                        "price": 31.3,
+                        "date": "2023-10-07T07:13:45.000000Z"
+                    },
+                    {
+                        "price": 31.3,
+                        "date": "2023-10-06T07:12:46.000000Z"
+                    },
+                    {
+                        "price": 31.3,
+                        "date": "2023-10-05T07:14:38.000000Z"
+                    },
+                    {
+                        "price": 31.3,
+                        "date": "2023-10-04T07:13:19.000000Z"
+                    },
+                    {
+                        "price": 31.3,
+                        "date": "2023-10-03T07:13:16.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 52,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 213,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 3.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 8.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 11,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "grontpunkt",
+                        "display_name": "Gr\u00f8nt Punkt",
+                        "description": "Gr\u00f8nt Punkt-symbolet viser at bedriften tar sitt lovp\u00e5lagte produsentansvar for emballasjeinnsamling og gjenvinning.",
+                        "organization": "Gr\u00f8nt Punkt Norge",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 1994,
+                        "about": "<div>Gr\u00f8nt Punkt-symbolet er et symbol knyttet til produsentansvar for emballasje i Norge. Dette symbolet fungerer som et bevis p\u00e5 at en bedrift har oppfylt sitt lovp\u00e5lagte ansvar gjennom medlemskap i Gr\u00f8nt Punkt Norge. Som et anerkjent symbol representerer det bedriftens engasjement for innsamling og gjenvinning av emballasje, noe som ogs\u00e5 har en positiv effekt p\u00e5 bedriftens omd\u00f8mme.<br><br></div><div><br>Gr\u00f8nt Punkt-symbolet er en kvittering som viser at bedriften har tatt sitt milj\u00f8ansvar ved \u00e5 v\u00e6re medlem i et godkjent returselskap for emballasje. Det symboliserer bedriftens betaling for innsamling og gjenvinning av emballasje gjennom Gr\u00f8nt Punkt Norge. Dette er en viktig del av det lovp\u00e5lagte produsentansvaret for emballasje i Norge.<br><br></div><div><br>Ved \u00e5 vise Gr\u00f8nt Punkt-symbolet demonstrerer bedriften at den tar ansvar for emballasjen sin gjennom hele livssyklusen. Dette inkluderer finansiering av innsamling og gjenvinning, og bidrar dermed til \u00e5 redusere milj\u00f8belastningen av emballasje. Som et symbol for milj\u00f8ansvar bidrar Gr\u00f8nt Punkt-symbolet til \u00e5 styrke bedriftens omd\u00f8mme og signaliserer at den tar b\u00e6rekraft p\u00e5 alvor.<br><br></div><div><br>Gr\u00f8nt Punkt Norge forvalter produsentansvarsordningen for returselskapene som tar seg av ulike typer emballasje. Dette symbolet er en anerkjent mark\u00f8r som har v\u00e6rt i bruk siden 1997. Bedrifter som er medlemmer av Gr\u00f8nt Punkt Norge og bruker symbolet, viser at de tar sin del av ansvaret for emballasjen de produserer eller importerer. Dette bidrar til et mer b\u00e6rekraftig og ressurseffektivt samfunn.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Gront Punkt.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Gront Punkt.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-09T19:59:27.000000Z",
+                "updated_at": "2023-10-27T07:13:30.000000Z"
+            },
+            {
+                "id": 33998,
+                "name": "Sambal Oelek Chili 200g Conimex",
+                "brand": "Conimex",
+                "vendor": "Oluf lorentzen as",
+                "ean": "87227093",
+                "url": "https://spar.no/nettbutikk/varer/middagstilbehor/sauser/chilisaus/sambal-oelek-87227093",
+                "image": "https://bilder.ngdata.no/87227093/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 484,
+                        "depth": 0,
+                        "name": "Chilisaus"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Chilipepper 89%, salt, konserveringsmiddel: melkesyre e270, kaliumsorbat e202.",
+                "current_price": 72.9,
+                "current_unit_price": 364.5,
+                "weight": 200,
+                "weight_unit": "ml",
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-26T07:07:19.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-25T07:07:22.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-24T07:08:09.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-23T07:07:54.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-23T07:06:02.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-22T07:07:40.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-22T07:05:53.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-21T07:08:27.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-21T07:06:12.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-20T07:08:23.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-20T07:05:43.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-19T07:07:51.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-19T07:06:17.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-18T07:08:06.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-18T07:06:09.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-17T07:07:23.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-17T07:05:19.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-17T07:03:17.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-16T07:07:25.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-16T07:05:17.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-16T07:03:13.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-15T07:06:53.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-15T07:04:49.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-15T07:02:58.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-10-14T07:07:14.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 38,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 158,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 3.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 9.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.6,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-10T17:29:05.000000Z",
+                "updated_at": "2023-10-26T07:07:19.000000Z"
+            },
+            {
+                "id": 34120,
+                "name": "Sambal Oelek Chili Paste 100g Go-Tan",
+                "brand": "Go-tan",
+                "vendor": "Haugen - gruppen as",
+                "ean": "8710605010237",
+                "url": "https://meny.no/Varer/middagstilbehor/sauser/chilisaus/sambal-oelek-8710605010237",
+                "image": "https://bilder.ngdata.no/8710605010237/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 484,
+                        "depth": 0,
+                        "name": "Chilisaus"
+                    }
+                ],
+                "description": "Et titalls ulike chilier mortet sammen, til en fyldig krydderpaste. Serveres i n\u00e6rmest alle indonesiske retter.",
+                "ingredients": "R\u00f8d chillipepper (88%), salt (10,5), modifisert maisstivelse, surhetsmiddel (sitronsyre), konserveringsmiddel (kaliumsorbat).",
+                "current_price": 51.9,
+                "current_unit_price": 519,
+                "weight": 100,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-10T07:07:29.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-10T07:02:28.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-09T07:07:09.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-09T07:05:10.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-05T07:05:16.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-05T07:03:05.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-05T07:00:51.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-17T07:03:46.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-17T07:01:35.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-16T07:05:35.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-16T07:03:28.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-16T07:01:12.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-15T07:05:55.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-15T07:03:48.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-15T07:01:34.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-13T07:02:15.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-12T07:01:38.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-11T16:49:41.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-11T07:01:37.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-10T07:01:12.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-09T07:00:53.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-08T07:00:59.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-07T07:01:27.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-06T07:00:51.000000Z"
+                    },
+                    {
+                        "price": 51.3,
+                        "date": "2023-08-05T07:01:40.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 35,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 145,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 3.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 11,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-10T17:29:07.000000Z",
+                "updated_at": "2023-10-10T07:07:29.000000Z"
+            },
+            {
+                "id": 34422,
+                "name": "Sambal Oelek 234g Go-Tan",
+                "brand": "Go tan",
+                "vendor": "Haugen - gruppen as",
+                "ean": "8710605013603",
+                "url": "https://spar.no/nettbutikk/varer/middagstilbehor/sauser/chilisaus/sambal-oelek-8710605013603",
+                "image": "https://res.cloudinary.com/norgesgruppen/image/upload/v1609978812/Product/8710605013603.jpg",
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": 47.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 47.9,
+                        "date": "2022-02-17T18:02:00.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T17:27:12.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T17:25:52.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T17:22:03.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T17:20:43.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T17:16:56.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T17:15:30.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T17:11:41.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T17:10:19.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T17:06:31.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T17:05:09.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T17:01:24.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T16:59:58.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T16:56:13.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T16:54:52.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T16:51:02.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T16:49:36.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T16:45:51.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T16:44:31.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T16:40:47.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T16:39:18.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T16:35:35.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T16:34:17.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T16:30:20.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-01-16T16:28:58.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 48,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 201,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 7.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 10.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 4.8,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-10T17:29:10.000000Z",
+                "updated_at": "2023-07-16T23:38:37.000000Z"
+            },
+            {
+                "id": 37507,
+                "name": "Sambal Oelek Chili 200g Conimex",
+                "brand": "Conimex",
+                "vendor": "Oluf lorentzen as",
+                "ean": "87227093",
+                "url": "https://meny.no/Varer/middagstilbehor/sauser/chilisaus/sambal-oelek-87227093",
+                "image": "https://bilder.ngdata.no/87227093/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 484,
+                        "depth": 0,
+                        "name": "Chilisaus"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Chilipepper 89%, salt, konserveringsmiddel: melkesyre e270, kaliumsorbat e202.",
+                "current_price": 74.9,
+                "current_unit_price": 374.5,
+                "weight": 200,
+                "weight_unit": "ml",
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-24T07:02:33.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-23T07:06:45.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-23T07:01:32.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-22T07:01:44.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-21T07:06:37.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-21T07:02:17.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-20T07:06:57.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-20T07:04:53.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-20T07:01:49.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-19T07:07:22.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-19T07:05:32.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-18T07:04:53.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-18T07:02:44.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-18T07:00:29.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-17T07:05:48.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-17T07:03:30.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-17T07:01:20.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-16T07:05:21.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-16T07:03:10.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-16T07:00:48.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-14T07:06:15.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-14T07:03:47.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-14T07:01:33.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-13T07:05:05.000000Z"
+                    },
+                    {
+                        "price": 74.9,
+                        "date": "2023-10-13T07:03:05.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 38,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 158,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 3.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 9.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.6,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-10T22:00:43.000000Z",
+                "updated_at": "2023-10-24T07:02:33.000000Z"
+            },
+            {
+                "id": 47735,
+                "name": "Sambal Oelek 730g",
+                "brand": "SANTA MARIA",
+                "vendor": null,
+                "ean": "17311310046832",
+                "url": "https://engrosnett.no/dressinger-olje/ketchup-sennep-og-dressinger/sambal-oelek-730g",
+                "image": "https://engrosnett.no/image/dressinger-og-olje/ketchup-sennep-og-dressinger/4211819-4211819.png?lb=true&v=638181046779100000",
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": 95,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Engrosnett",
+                    "code": "ENGROSSNETT_NO",
+                    "url": "https://engrosnett.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Engrosnett.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 95,
+                        "date": "2023-10-27T07:12:19.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-26T07:15:57.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-25T07:13:53.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-24T07:13:27.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-23T07:12:55.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-22T07:15:47.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-21T07:16:44.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-20T07:15:31.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-19T07:14:49.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-18T07:13:03.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-17T07:14:46.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-16T07:16:13.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-15T07:14:34.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-14T07:13:21.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-13T07:11:20.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-12T07:15:34.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-11T07:15:33.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-10T07:12:30.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-09T07:12:05.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-08T07:13:58.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-07T07:15:30.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-06T07:10:43.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-05T07:12:25.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-04T07:11:58.000000Z"
+                    },
+                    {
+                        "price": 95,
+                        "date": "2023-10-03T07:15:56.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 0,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 0,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-07-17T01:50:02.000000Z",
+                "updated_at": "2023-10-27T07:12:19.000000Z"
+            },
+            {
+                "id": 52898,
+                "name": "Sambal Oelek 250 g Kokita",
+                "brand": null,
+                "vendor": "SCANESIA AS",
+                "ean": "8991003016056",
+                "url": "https://www.europris.no/p-sambal-oelek-250-g-kokita-132340",
+                "image": "https://images2.europris.no/produkter/vw800/13/132340/132340_main.webp",
+                "category": null,
+                "description": "Smaksrik chili saus fra Kokita.",
+                "ingredients": "chili, tomat, salt, sukker, hvitl\u00f8k, eddik, vann",
+                "current_price": 39.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Europris",
+                    "code": "EUROPRIS_NO",
+                    "url": "https://www.europris.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Europris.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-27T07:20:04.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-26T07:18:34.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-24T07:18:59.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-23T07:18:43.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-22T07:19:54.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-21T07:17:36.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-20T07:18:53.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-19T07:18:18.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-18T07:19:33.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-17T07:19:58.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-16T07:19:01.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-15T07:18:42.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-14T07:19:04.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-13T07:18:24.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-12T07:18:35.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-11T07:19:27.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-10T07:19:01.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-09T07:21:16.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-08T07:16:44.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-07T07:18:52.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-06T07:18:43.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-05T07:17:39.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-04T07:20:41.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-02T07:18:38.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-10-01T07:19:09.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2022-10-26T19:35:18.000000Z",
+                "updated_at": "2023-10-27T07:20:04.000000Z"
+            },
+            {
+                "id": 63360,
+                "name": "Sambal Oelek Chili Paste 100g Go-Tan",
+                "brand": "Go-tan",
+                "vendor": "Haugen - gruppen as",
+                "ean": "8710605010237",
+                "url": "https://kiwi.no/aktuelt/dagligvarer/#8710605010237",
+                "image": "https://bilder.ngdata.no/8710605010237/kiwi/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 484,
+                        "depth": 0,
+                        "name": "Chilisaus"
+                    }
+                ],
+                "description": "Et titalls ulike chilier mortet sammen, til en fyldig krydderpaste. Serveres i n\u00e6rmest alle indonesiske retter.",
+                "ingredients": "R\u00f8d chillipepper (88%), salt (10,5), modifisert maisstivelse, surhetsmiddel (sitronsyre), konserveringsmiddel (kaliumsorbat).",
+                "current_price": 41.4,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "KIWI",
+                    "code": "KIWI",
+                    "url": "https://kiwi.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Kiwi.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 41.4,
+                        "date": "2023-04-11T07:44:46.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-04-09T22:29:22.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-04-08T08:26:16.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-04-05T11:13:01.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-04-04T18:27:32.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-04-03T07:02:22.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-04-02T21:50:06.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-04-01T12:21:22.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-03-30T11:29:21.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-03-28T22:15:32.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-03-28T08:47:01.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-03-27T04:40:45.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-03-25T18:24:24.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-03-24T19:25:20.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-03-23T09:18:19.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-03-22T10:44:14.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-03-20T03:57:53.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-03-18T11:52:39.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-03-17T11:24:11.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-03-15T09:52:14.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-03-13T07:54:29.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-02-27T09:17:09.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-02-25T17:23:00.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-02-23T04:41:24.000000Z"
+                    },
+                    {
+                        "price": 41.4,
+                        "date": "2023-02-20T23:38:50.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 35,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 145,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 3.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 11,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-12-11T20:53:32.000000Z",
+                "updated_at": "2023-07-16T23:42:52.000000Z"
+            },
+            {
+                "id": 72076,
+                "name": "Sambal Oelek Chilipaste 1kg",
+                "brand": "GO-TAN",
+                "vendor": null,
+                "ean": "8710605610581",
+                "url": "https://engrosnett.no/dressinger-olje/ketchup-sennep-og-dressinger/sambal-oelek-chilipaste-1kg",
+                "image": "https://engrosnett.no/image/dressinger-og-olje/ketchup-sennep-og-dressinger/4262036-4262036-jpg?lb=true&v=638188779882970000",
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": 169,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Engrosnett",
+                    "code": "ENGROSSNETT_NO",
+                    "url": "https://engrosnett.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Engrosnett.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 169,
+                        "date": "2023-10-27T07:15:20.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-26T07:11:29.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-25T07:15:38.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-24T07:14:37.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-23T07:11:13.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-22T07:15:44.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-21T07:12:30.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-20T07:14:29.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-19T07:12:24.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-18T07:12:53.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-17T07:11:00.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-16T07:13:06.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-15T07:14:44.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-14T07:15:31.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-13T07:12:46.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-12T07:14:13.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-11T07:13:45.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-10T07:15:47.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-09T07:15:25.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-08T07:11:38.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-07T07:11:56.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-06T07:13:45.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-05T07:14:18.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-04T07:15:20.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-10-03T07:16:38.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 0,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 0,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-05-05T12:47:17.000000Z",
+                "updated_at": "2023-10-27T07:15:20.000000Z"
+            },
+            {
+                "id": 85503,
+                "name": "Sambal Oelek 200g Conimex",
+                "brand": "CONIMEX",
+                "vendor": "OLUF LORENTZEN AS",
+                "ean": "87227093",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/87227093",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 484,
+                        "depth": 0,
+                        "name": "Chilisaus"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Chilipepper 89%, salt, konserveringsmiddel: melkesyre E270, kaliumsorbat E202.",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 200,
+                "weight_unit": "ml",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 38,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 158,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 3.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 9.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.6,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T02:40:41.000000Z",
+                "updated_at": "2023-09-06T01:13:08.000000Z"
+            },
+            {
+                "id": 97886,
+                "name": "Go-tan Sambal Oelek 6x1kg",
+                "brand": "Go-Tan",
+                "vendor": "HAUGEN - GRUPPEN AS",
+                "ean": "8710605010589",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/8710605010589",
+                "category": null,
+                "description": null,
+                "ingredients": "R\u00f8d chili (52%), vann, salt, modifisert maisstivelse, surhetsregulerende middel (sitronsyre), konserveringsmiddel (kaliumsorbat).",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 1,
+                "weight_unit": "kg",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 43,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 180,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 1.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 7.75,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 6.4,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T02:55:29.000000Z",
+                "updated_at": "2023-09-06T01:14:48.000000Z"
+            },
+            {
+                "id": 98254,
+                "name": "Sambal Oelek 730g Santa Maria",
+                "brand": "Santa Maria",
+                "vendor": "SANTA MARIA NORGE AS",
+                "ean": "7311310046835",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7311310046835",
+                "category": null,
+                "description": null,
+                "ingredients": "Chilipepper (84%), salt, surhetsreglerende middel (eddiksyre), konserveringsmiddel (E202).",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 0.73,
+                "weight_unit": "kg",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 52,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 213,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 3.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 11,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T02:55:54.000000Z",
+                "updated_at": "2023-09-06T01:14:51.000000Z"
+            },
+            {
+                "id": 102524,
+                "name": "Sambal Oelek 200g Santa Maria",
+                "brand": "Santa Maria",
+                "vendor": "SANTA MARIA NORGE AS",
+                "ean": "7311310036218",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7311310036218",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 484,
+                        "depth": 0,
+                        "name": "Chilisaus"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Chilipeber (84%), salt, surhedsregulerende middel (eddiksyre), konserveringsmiddel (E202).",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 200,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 52,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 213,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 3.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 8.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 11,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "grontpunkt",
+                        "display_name": "Gr\u00f8nt Punkt",
+                        "description": "Gr\u00f8nt Punkt-symbolet viser at bedriften tar sitt lovp\u00e5lagte produsentansvar for emballasjeinnsamling og gjenvinning.",
+                        "organization": "Gr\u00f8nt Punkt Norge",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 1994,
+                        "about": "<div>Gr\u00f8nt Punkt-symbolet er et symbol knyttet til produsentansvar for emballasje i Norge. Dette symbolet fungerer som et bevis p\u00e5 at en bedrift har oppfylt sitt lovp\u00e5lagte ansvar gjennom medlemskap i Gr\u00f8nt Punkt Norge. Som et anerkjent symbol representerer det bedriftens engasjement for innsamling og gjenvinning av emballasje, noe som ogs\u00e5 har en positiv effekt p\u00e5 bedriftens omd\u00f8mme.<br><br></div><div><br>Gr\u00f8nt Punkt-symbolet er en kvittering som viser at bedriften har tatt sitt milj\u00f8ansvar ved \u00e5 v\u00e6re medlem i et godkjent returselskap for emballasje. Det symboliserer bedriftens betaling for innsamling og gjenvinning av emballasje gjennom Gr\u00f8nt Punkt Norge. Dette er en viktig del av det lovp\u00e5lagte produsentansvaret for emballasje i Norge.<br><br></div><div><br>Ved \u00e5 vise Gr\u00f8nt Punkt-symbolet demonstrerer bedriften at den tar ansvar for emballasjen sin gjennom hele livssyklusen. Dette inkluderer finansiering av innsamling og gjenvinning, og bidrar dermed til \u00e5 redusere milj\u00f8belastningen av emballasje. Som et symbol for milj\u00f8ansvar bidrar Gr\u00f8nt Punkt-symbolet til \u00e5 styrke bedriftens omd\u00f8mme og signaliserer at den tar b\u00e6rekraft p\u00e5 alvor.<br><br></div><div><br>Gr\u00f8nt Punkt Norge forvalter produsentansvarsordningen for returselskapene som tar seg av ulike typer emballasje. Dette symbolet er en anerkjent mark\u00f8r som har v\u00e6rt i bruk siden 1997. Bedrifter som er medlemmer av Gr\u00f8nt Punkt Norge og bruker symbolet, viser at de tar sin del av ansvaret for emballasjen de produserer eller importerer. Dette bidrar til et mer b\u00e6rekraftig og ressurseffektivt samfunn.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Gront Punkt.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Gront Punkt.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T03:01:03.000000Z",
+                "updated_at": "2023-09-06T01:15:29.000000Z"
+            },
+            {
+                "id": 103984,
+                "name": "Go-tan Chilipaste Sambal Oelek 6x100g",
+                "brand": "Go-Tan",
+                "vendor": "HAUGEN - GRUPPEN AS",
+                "ean": "8710605010237",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/8710605010237",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 484,
+                        "depth": 0,
+                        "name": "Chilisaus"
+                    }
+                ],
+                "description": null,
+                "ingredients": "R\u00f8d chillipepper (88%), salt (10,5), modifisert maisstivelse, surhetsmiddel (sitronsyre), konserveringsmiddel (kaliumsorbat).",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 100,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 35,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 145,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "jern",
+                        "display_name": "Jern",
+                        "amount": 0,
+                        "unit": "mg"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 3.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 11,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T03:02:48.000000Z",
+                "updated_at": "2023-09-06T01:15:40.000000Z"
+            },
+            {
+                "id": 113150,
+                "name": "Sambal Oelek 200g St.Maria",
+                "brand": "Santa maria",
+                "vendor": "Santa maria norge as",
+                "ean": "7311310036218",
+                "url": "https://spar.no/nettbutikk/varer/middagstilbehor/sauser/chilisaus/sambal-oelek-7311310036218",
+                "image": "https://bilder.ngdata.no/7311310036218/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 484,
+                        "depth": 0,
+                        "name": "Chilisaus"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Chilipeber (84%), salt, surhedsregulerende middel (eddiksyre), konserveringsmiddel (e202).",
+                "current_price": 40.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 40.9,
+                        "date": "2023-08-03T07:01:56.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-08-02T07:02:04.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-08-01T07:02:38.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-07-31T07:03:00.000000Z"
+                    },
+                    {
+                        "price": 24.54,
+                        "date": "2023-07-30T07:01:36.000000Z"
+                    },
+                    {
+                        "price": 24.54,
+                        "date": "2023-07-29T07:03:43.000000Z"
+                    },
+                    {
+                        "price": 24.54,
+                        "date": "2023-07-28T07:01:50.000000Z"
+                    },
+                    {
+                        "price": 24.54,
+                        "date": "2023-07-27T07:02:41.000000Z"
+                    },
+                    {
+                        "price": 24.54,
+                        "date": "2023-07-26T07:02:29.000000Z"
+                    },
+                    {
+                        "price": 24.54,
+                        "date": "2023-07-25T07:02:39.000000Z"
+                    },
+                    {
+                        "price": 24.54,
+                        "date": "2023-07-24T07:04:07.000000Z"
+                    },
+                    {
+                        "price": 24.54,
+                        "date": "2023-07-24T07:02:29.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-07-23T07:02:17.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-07-22T07:02:36.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-07-21T07:01:46.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-07-20T07:02:32.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-07-19T07:02:46.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-07-18T07:01:42.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-07-17T07:02:33.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-07-16T07:02:16.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-07-15T07:02:25.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-07-14T07:01:57.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-07-13T07:02:29.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-07-12T07:02:22.000000Z"
+                    },
+                    {
+                        "price": 40.9,
+                        "date": "2023-07-11T07:01:57.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 52,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 213,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 3.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 8.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 11,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "grontpunkt",
+                        "display_name": "Gr\u00f8nt Punkt",
+                        "description": "Gr\u00f8nt Punkt-symbolet viser at bedriften tar sitt lovp\u00e5lagte produsentansvar for emballasjeinnsamling og gjenvinning.",
+                        "organization": "Gr\u00f8nt Punkt Norge",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 1994,
+                        "about": "<div>Gr\u00f8nt Punkt-symbolet er et symbol knyttet til produsentansvar for emballasje i Norge. Dette symbolet fungerer som et bevis p\u00e5 at en bedrift har oppfylt sitt lovp\u00e5lagte ansvar gjennom medlemskap i Gr\u00f8nt Punkt Norge. Som et anerkjent symbol representerer det bedriftens engasjement for innsamling og gjenvinning av emballasje, noe som ogs\u00e5 har en positiv effekt p\u00e5 bedriftens omd\u00f8mme.<br><br></div><div><br>Gr\u00f8nt Punkt-symbolet er en kvittering som viser at bedriften har tatt sitt milj\u00f8ansvar ved \u00e5 v\u00e6re medlem i et godkjent returselskap for emballasje. Det symboliserer bedriftens betaling for innsamling og gjenvinning av emballasje gjennom Gr\u00f8nt Punkt Norge. Dette er en viktig del av det lovp\u00e5lagte produsentansvaret for emballasje i Norge.<br><br></div><div><br>Ved \u00e5 vise Gr\u00f8nt Punkt-symbolet demonstrerer bedriften at den tar ansvar for emballasjen sin gjennom hele livssyklusen. Dette inkluderer finansiering av innsamling og gjenvinning, og bidrar dermed til \u00e5 redusere milj\u00f8belastningen av emballasje. Som et symbol for milj\u00f8ansvar bidrar Gr\u00f8nt Punkt-symbolet til \u00e5 styrke bedriftens omd\u00f8mme og signaliserer at den tar b\u00e6rekraft p\u00e5 alvor.<br><br></div><div><br>Gr\u00f8nt Punkt Norge forvalter produsentansvarsordningen for returselskapene som tar seg av ulike typer emballasje. Dette symbolet er en anerkjent mark\u00f8r som har v\u00e6rt i bruk siden 1997. Bedrifter som er medlemmer av Gr\u00f8nt Punkt Norge og bruker symbolet, viser at de tar sin del av ansvaret for emballasjen de produserer eller importerer. Dette bidrar til et mer b\u00e6rekraftig og ressurseffektivt samfunn.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Gront Punkt.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Gront Punkt.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T14:16:21.000000Z",
+                "updated_at": "2023-08-03T07:01:56.000000Z"
+            },
+            {
+                "id": 121548,
+                "name": "Sambal Oelek Chili Paste 100g Go-Tan",
+                "brand": "Go-tan",
+                "vendor": "Haugen - gruppen as",
+                "ean": "8710605010237",
+                "url": "https://spar.no/nettbutikk/varer/middagstilbehor/sauser/chilisaus/sambal-oelek-8710605010237",
+                "image": "https://bilder.ngdata.no/8710605010237/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 484,
+                        "depth": 0,
+                        "name": "Chilisaus"
+                    }
+                ],
+                "description": "Et titalls ulike chilier mortet sammen, til en fyldig krydderpaste. Serveres i n\u00e6rmest alle indonesiske retter.",
+                "ingredients": "R\u00f8d chillipepper (88%), salt (10,5), modifisert maisstivelse, surhetsmiddel (sitronsyre), konserveringsmiddel (kaliumsorbat).",
+                "current_price": 49.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 49.9,
+                        "date": "2023-08-03T07:02:41.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-08-02T07:02:42.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-08-01T07:02:28.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-31T07:03:03.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-30T07:03:19.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-29T07:04:22.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-28T07:02:58.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-27T07:02:02.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-26T07:02:56.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-25T07:03:43.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-24T07:04:40.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-23T07:02:36.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-22T07:02:27.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-21T07:01:58.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-20T07:02:20.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-19T07:02:25.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-18T07:02:26.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-17T07:02:34.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-16T07:02:23.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-15T07:02:27.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-14T07:02:06.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-13T07:02:28.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-12T07:02:17.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-11T07:02:30.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-07-10T07:02:35.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 35,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 145,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 3.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 1.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 11,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T14:17:26.000000Z",
+                "updated_at": "2023-08-03T07:02:41.000000Z"
+            },
+            {
+                "id": 123608,
+                "name": "Sambal Oelek 200g St.Maria",
+                "brand": "Santa maria",
+                "vendor": "Santa maria norge as",
+                "ean": "7311310036218",
+                "url": "https://joker.no/nettbutikk/varer/middagstilbehor/sauser/chilisaus/sambal-oelek-7311310036218",
+                "image": "https://bilder.ngdata.no/7311310036218/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 4,
+                        "depth": -2,
+                        "name": "Middagstilbeh\u00f8r"
+                    },
+                    {
+                        "id": 5,
+                        "depth": -1,
+                        "name": "Sauser"
+                    },
+                    {
+                        "id": 484,
+                        "depth": 0,
+                        "name": "Chilisaus"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Chilipeber (84%), salt, surhedsregulerende middel (eddiksyre), konserveringsmiddel (e202).",
+                "current_price": 39.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Joker",
+                    "code": "JOKER_NO",
+                    "url": "https://joker.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Joker.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 39.9,
+                        "date": "2023-08-03T07:01:36.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-08-02T07:02:19.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-08-01T07:01:33.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-31T07:01:52.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-30T07:02:24.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-29T07:02:20.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-28T07:01:39.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-27T07:01:21.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-26T07:01:53.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-25T07:01:23.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-24T07:01:20.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-23T07:01:13.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-22T07:01:51.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-21T07:01:28.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-20T07:01:48.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-19T07:01:49.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-18T07:01:27.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-17T07:01:27.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-16T07:01:38.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-15T07:02:09.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-14T07:01:07.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-13T07:01:32.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-12T07:01:32.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-11T07:01:36.000000Z"
+                    },
+                    {
+                        "price": 39.9,
+                        "date": "2023-07-10T07:02:11.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 52,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 213,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 3.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 8.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 11,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "grontpunkt",
+                        "display_name": "Gr\u00f8nt Punkt",
+                        "description": "Gr\u00f8nt Punkt-symbolet viser at bedriften tar sitt lovp\u00e5lagte produsentansvar for emballasjeinnsamling og gjenvinning.",
+                        "organization": "Gr\u00f8nt Punkt Norge",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 1994,
+                        "about": "<div>Gr\u00f8nt Punkt-symbolet er et symbol knyttet til produsentansvar for emballasje i Norge. Dette symbolet fungerer som et bevis p\u00e5 at en bedrift har oppfylt sitt lovp\u00e5lagte ansvar gjennom medlemskap i Gr\u00f8nt Punkt Norge. Som et anerkjent symbol representerer det bedriftens engasjement for innsamling og gjenvinning av emballasje, noe som ogs\u00e5 har en positiv effekt p\u00e5 bedriftens omd\u00f8mme.<br><br></div><div><br>Gr\u00f8nt Punkt-symbolet er en kvittering som viser at bedriften har tatt sitt milj\u00f8ansvar ved \u00e5 v\u00e6re medlem i et godkjent returselskap for emballasje. Det symboliserer bedriftens betaling for innsamling og gjenvinning av emballasje gjennom Gr\u00f8nt Punkt Norge. Dette er en viktig del av det lovp\u00e5lagte produsentansvaret for emballasje i Norge.<br><br></div><div><br>Ved \u00e5 vise Gr\u00f8nt Punkt-symbolet demonstrerer bedriften at den tar ansvar for emballasjen sin gjennom hele livssyklusen. Dette inkluderer finansiering av innsamling og gjenvinning, og bidrar dermed til \u00e5 redusere milj\u00f8belastningen av emballasje. Som et symbol for milj\u00f8ansvar bidrar Gr\u00f8nt Punkt-symbolet til \u00e5 styrke bedriftens omd\u00f8mme og signaliserer at den tar b\u00e6rekraft p\u00e5 alvor.<br><br></div><div><br>Gr\u00f8nt Punkt Norge forvalter produsentansvarsordningen for returselskapene som tar seg av ulike typer emballasje. Dette symbolet er en anerkjent mark\u00f8r som har v\u00e6rt i bruk siden 1997. Bedrifter som er medlemmer av Gr\u00f8nt Punkt Norge og bruker symbolet, viser at de tar sin del av ansvaret for emballasjen de produserer eller importerer. Dette bidrar til et mer b\u00e6rekraftig og ressurseffektivt samfunn.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Gront Punkt.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Gront Punkt.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T14:18:18.000000Z",
+                "updated_at": "2023-08-03T07:01:36.000000Z"
+            },
+            {
+                "id": 172251,
+                "name": "Huy Fong Sambal Oelek 3859g",
+                "brand": "HUY FONG",
+                "vendor": "AFOOD DRINKS AS",
+                "ean": "24463061248",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/24463061248",
+                "category": null,
+                "description": null,
+                "ingredients": "Chili 86 %, salt, matsyre: (E260, E330), konserveringsmiddel (E211)",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 3859,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 45,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 180,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.56,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 11.33,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2.5,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-12T01:00:56.000000Z",
+                "updated_at": "2023-09-06T01:22:46.000000Z"
+            },
+            {
+                "id": 173676,
+                "name": "Sambal Oelek Chilli Paste 10kg g T",
+                "brand": "G T",
+                "vendor": "AFOOD DRINKS AS",
+                "ean": "8717703624212",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/8717703624212",
+                "category": null,
+                "description": null,
+                "ingredients": "Fersk hakket chili 86%, salt, surhetsregulerende (E260), konserveringsmiddel (E211)",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 10,
+                "weight_unit": "kg",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 60,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 250,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 5.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 4.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 18,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 5,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-12T01:04:08.000000Z",
+                "updated_at": "2023-09-06T01:22:57.000000Z"
+            },
+            {
+                "id": 176786,
+                "name": "Sambal Oelek 10kg Flower",
+                "brand": "Flower",
+                "vendor": "AFOOD DRINKS AS",
+                "ean": "8710161004213",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/8710161004213",
+                "category": null,
+                "description": null,
+                "ingredients": "R\u00f8d chili, salt, konserveringsmiddel (E211, E260)",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 10,
+                "weight_unit": "kg",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 0,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 0,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-16T15:18:26.000000Z",
+                "updated_at": "2023-09-06T01:23:21.000000Z"
+            },
+            {
+                "id": 195486,
+                "name": "Chilipasta Sambal Oelek 100 g",
+                "brand": "Helios",
+                "vendor": "Midsona Norge AS",
+                "ean": null,
+                "url": "https://oda.com/no/products/63884-helios-chilipasta-sambal-oelek/",
+                "image": "https://bilder.kolonial.no/local_products/10d506e4-107b-4e14-b6d8-a29a9759aa2a.jpg?auto=format&fit=max&w=449&s=26d82242dbb703d9bdc311a89dacff2a",
+                "category": null,
+                "description": "",
+                "ingredients": "Kajennepepper*, salt, eddik*, maisstivelse*",
+                "current_price": 49.9,
+                "current_unit_price": 499,
+                "weight": 100,
+                "weight_unit": null,
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 49.9,
+                        "date": "2023-10-27T07:11:29.000000Z"
+                    },
+                    {
+                        "price": 49.9,
+                        "date": "2023-10-26T07:11:31.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 27,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 112,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 10,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 4,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-10-26T07:11:31.000000Z",
+                "updated_at": "2023-10-27T07:11:29.000000Z"
+            }
+        ]
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "data": [
+        [
+            {
+                "id": 186558,
+                "name": "O-Frame PRO 2.0 Goggles - Black/Persimmon",
+                "brand": "Oakley",
+                "vendor": null,
+                "ean": "888392559647",
+                "url": "https://shop.havaristen.no/products/goggles-o-frame-pro-20-blackpersimmon",
+                "image": "https://havaristen-i03.mycdn.no/mysimgprod/havaristen_mystore_no/images/vKrpL_Oakley_Goggles_O-Frame_PRO_2.0_-_Black_Persi_1.jpg/w600h600.jpg",
+                "category": null,
+                "description": "Alpinbrille med stort synsfelt. Ramme i O-matter-materiale. Fleksibel og utmerket passform. Ventilerte glass.Oakley Googles O-Frame 2.0 er en spesialdesignet brille til de med mindre ansikt. Brillene har et tynnere og mer fleksibelt design som gir en utmerket passform og komfort.Glassene er laget med F2 Anti-fog coating og har flere ventilasjons\u00e5pninger som hjelper mot dugg, slik at du f\u00e5r et klart og bredt synsfelt under alle forhold.Injeksjonsst\u00f8pt Plutonite\u00ae-brilleglassmateriale gir 1 % beskyttelse mot UVA/UVN/UVC og skadelig bl\u00e5tt lys opptil 4 mm gj\u00f8r at glassene t\u00e5ler mye st\u00f8t.Bred 35 mm bred justerbar stropp med silikonf\u00f4r gj\u00f8r at den sitter bedre, i tillegg til at O-Matter\u00ae-rammen tilpasser seg ansiktet ditt p\u00e5 en behagelig m\u00e5te, selv i ekstremt kaldt v\u00e6r.Den str\u00f8mlinjeformede rammegeometrien utvider sidesynet i alle retninger, og gir s\u00f8ml\u00f8s integrasjon med de fleste hjelmer.\u00a0",
+                "ingredients": null,
+                "current_price": 169,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Havaristen",
+                    "code": "HAVARISTEN",
+                    "url": "https://havaristen.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Havaristen.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 169,
+                        "date": "2023-08-05T07:11:05.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-08-04T07:11:07.000000Z"
+                    },
+                    {
+                        "price": 169,
+                        "date": "2023-08-03T07:11:09.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2023-08-03T07:11:09.000000Z",
+                "updated_at": "2023-08-05T07:11:05.000000Z"
+            }
+        ]
+    ]
+}

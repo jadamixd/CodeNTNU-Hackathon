@@ -1,0 +1,2850 @@
+{
+    "data": [
+        [
+            {
+                "id": 15059,
+                "name": "Coop Paran\u00f8tter 100g",
+                "brand": "COOP",
+                "vendor": "ARIMEX LTD",
+                "ean": "7340011494973",
+                "url": "https://matlevering.coop.no/baking/notter-og-torket-frukt/coop-paranotter-100g",
+                "image": "https://cdcimg.coop.no/rte/RTE2/7340011494973.png",
+                "category": null,
+                "description": "Coop-produktene garanterer for en god kvalitet, men til en rimeligere pris enn tilsvarende merkevarer.",
+                "ingredients": "Paran\u00f8tter . Kan inneholde spor av mandler, hasseln\u00f8tter, valn\u00f8tter, makadamian\u00f8tter, pekann\u00f8tter og cashewn\u00f8tter. Pakket i beskyttende atmosf\u00e6re. Pean\u00f8ttenes opprinnelse er angitt ved best f\u00f8r-datoen.",
+                "current_price": 27.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Coop",
+                    "code": "COOP_NO",
+                    "url": "https://matlevering.coop.no",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Coop.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 27.9,
+                        "date": "2023-01-30T09:31:30.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-01-15T10:58:33.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-01-12T14:08:41.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-01-10T11:48:52.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-01-08T18:40:44.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-01-05T14:28:17.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-01-03T07:50:34.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2023-01-02T07:04:30.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2022-12-29T19:19:42.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2022-12-28T15:34:39.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2022-12-27T14:02:01.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2022-12-21T22:29:19.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2022-12-19T15:12:24.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2022-12-14T06:59:14.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2022-12-11T21:12:51.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2022-12-09T16:29:41.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2022-11-24T14:32:15.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2022-11-21T06:26:04.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2022-11-18T23:43:06.000000Z"
+                    },
+                    {
+                        "price": 27.9,
+                        "date": "2022-11-14T10:59:33.000000Z"
+                    },
+                    {
+                        "price": 28.9,
+                        "date": "2022-11-10T08:59:17.000000Z"
+                    },
+                    {
+                        "price": 28.9,
+                        "date": "2022-11-07T19:12:28.000000Z"
+                    },
+                    {
+                        "price": 28.9,
+                        "date": "2022-11-04T18:43:31.000000Z"
+                    },
+                    {
+                        "price": 28.9,
+                        "date": "2022-10-31T22:19:40.000000Z"
+                    },
+                    {
+                        "price": 33.9,
+                        "date": "2022-10-25T19:46:48.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 706,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2912,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 69,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 2.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 16,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 15,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2.3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:54:59.000000Z",
+                "updated_at": "2023-07-16T23:35:42.000000Z"
+            },
+            {
+                "id": 23221,
+                "name": "\u00d8kologiske Paran\u00f8tter R\u00e5, Usaltet, 150 g",
+                "brand": "Interkolonial",
+                "vendor": "FOODTRADE AS",
+                "ean": null,
+                "url": "https://oda.com/no/products/29740-interkolonial-okologiske-paranotter-ra-usaltet/",
+                "image": "https://bilder.kolonial.no/produkter/eb5bca83-5500-44c5-bb67-4541c0580c89.jpg?auto=format&fit=max&w=1000&s=22ad914662177aec7ed719efbe199fd0",
+                "category": null,
+                "description": "",
+                "ingredients": "PARAN\u00d8TTER",
+                "current_price": 70,
+                "current_unit_price": 466.67,
+                "weight": 150,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 70,
+                        "date": "2023-10-27T07:12:56.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-26T07:15:26.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-25T07:14:09.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-24T07:15:37.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-23T07:15:16.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-22T07:16:01.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-21T07:14:11.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-20T07:15:24.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-19T07:16:12.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-18T07:14:14.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-17T07:14:27.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-16T07:13:38.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-15T07:15:38.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-14T07:12:29.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-13T07:13:47.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-12T07:15:40.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-11T07:15:30.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-10T07:12:55.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-09T07:16:25.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-08T07:13:01.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-07T07:14:32.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-06T07:14:42.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-05T07:13:03.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-04T07:15:43.000000Z"
+                    },
+                    {
+                        "price": 70,
+                        "date": "2023-10-03T07:15:48.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 650,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2720,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 63.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 4.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 15.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 13.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.01,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0.1,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:56:30.000000Z",
+                "updated_at": "2023-10-27T07:12:56.000000Z"
+            },
+            {
+                "id": 23369,
+                "name": "Paran\u00f8tter usaltede 175 g",
+                "brand": "N\u00f8tteliten",
+                "vendor": "Mamat AS",
+                "ean": null,
+                "url": "https://oda.com/no/products/29771-notteliten-paranotter-usaltede/",
+                "image": "https://bilder.kolonial.no/produkter/d1ff0682-eff6-4fcf-a07c-9063bcd013a5.jpg?auto=format&fit=max&w=500&s=36d46fb3e0048fef5a58dc2ee4791ec4",
+                "category": null,
+                "description": null,
+                "ingredients": "PARAN\u00d8TTER",
+                "current_price": 67.2,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 67.2,
+                        "date": "2023-03-09T12:06:56.000000Z"
+                    },
+                    {
+                        "price": 67.2,
+                        "date": "2023-01-15T10:37:57.000000Z"
+                    },
+                    {
+                        "price": 67.2,
+                        "date": "2023-01-12T14:05:41.000000Z"
+                    },
+                    {
+                        "price": 67.2,
+                        "date": "2023-01-10T11:51:59.000000Z"
+                    },
+                    {
+                        "price": 67.2,
+                        "date": "2023-01-08T18:33:02.000000Z"
+                    },
+                    {
+                        "price": 67.2,
+                        "date": "2023-01-05T14:26:35.000000Z"
+                    },
+                    {
+                        "price": 67.2,
+                        "date": "2023-01-03T07:43:55.000000Z"
+                    },
+                    {
+                        "price": 69.2,
+                        "date": "2023-01-02T06:55:07.000000Z"
+                    },
+                    {
+                        "price": 67.2,
+                        "date": "2022-12-29T19:18:22.000000Z"
+                    },
+                    {
+                        "price": 67.2,
+                        "date": "2022-12-27T11:45:10.000000Z"
+                    },
+                    {
+                        "price": 67.2,
+                        "date": "2022-12-19T15:16:18.000000Z"
+                    },
+                    {
+                        "price": 61.1,
+                        "date": "2022-12-15T19:52:43.000000Z"
+                    },
+                    {
+                        "price": 61.1,
+                        "date": "2022-12-14T07:01:57.000000Z"
+                    },
+                    {
+                        "price": 61.1,
+                        "date": "2022-12-11T21:10:58.000000Z"
+                    },
+                    {
+                        "price": 61.1,
+                        "date": "2022-12-09T16:23:36.000000Z"
+                    },
+                    {
+                        "price": 61.1,
+                        "date": "2022-12-04T15:10:05.000000Z"
+                    },
+                    {
+                        "price": 61.1,
+                        "date": "2022-11-29T16:42:34.000000Z"
+                    },
+                    {
+                        "price": 61.1,
+                        "date": "2022-11-24T14:34:21.000000Z"
+                    },
+                    {
+                        "price": 61.1,
+                        "date": "2022-11-18T23:40:11.000000Z"
+                    },
+                    {
+                        "price": 61.1,
+                        "date": "2022-11-17T07:19:34.000000Z"
+                    },
+                    {
+                        "price": 61.1,
+                        "date": "2022-11-15T22:29:18.000000Z"
+                    },
+                    {
+                        "price": 61.1,
+                        "date": "2022-11-14T13:51:11.000000Z"
+                    },
+                    {
+                        "price": 61.1,
+                        "date": "2022-11-10T09:00:36.000000Z"
+                    },
+                    {
+                        "price": 61.1,
+                        "date": "2022-11-07T19:06:47.000000Z"
+                    },
+                    {
+                        "price": 61.1,
+                        "date": "2022-11-01T23:04:27.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 650,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2720,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 63.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 4.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 15.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 13.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.01,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0.1,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:56:32.000000Z",
+                "updated_at": "2023-07-16T23:36:58.000000Z"
+            },
+            {
+                "id": 27504,
+                "name": "Paran\u00f8tter 150g Dln",
+                "brand": "Den lille n\u00f8ttefabrikken",
+                "vendor": "Brynild as",
+                "ean": "7041111140950",
+                "url": "https://meny.no/Varer/snacks-godteri/notter/paranotter/paranotter-7041111140950",
+                "image": "https://bilder.ngdata.no/7041111140950/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 60,
+                        "depth": -2,
+                        "name": "Snacks & godteri"
+                    },
+                    {
+                        "id": 61,
+                        "depth": -1,
+                        "name": "N\u00f8tter"
+                    },
+                    {
+                        "id": 2525,
+                        "depth": 0,
+                        "name": "Paran\u00f8tter"
+                    }
+                ],
+                "description": null,
+                "ingredients": "\u00d8kologiske paran\u00f8tter.",
+                "current_price": 49.9,
+                "current_unit_price": 332.67,
+                "weight": 150,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 49.9,
+                        "date": "2023-10-15T07:08:23.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-10-03T07:08:38.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-09-25T07:08:28.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-09-15T07:09:00.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-09-11T07:08:23.000000Z"
+                    },
+                    {
+                        "price": 34.9,
+                        "date": "2023-08-28T07:07:48.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-08-13T07:01:44.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-08-12T07:01:25.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-08-11T16:50:22.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-08-11T07:01:35.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-08-10T07:01:13.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-08-09T07:01:19.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-08-08T07:01:37.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-08-07T07:01:17.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-08-06T07:01:22.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-08-05T07:01:28.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-08-04T07:01:05.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-08-03T07:01:43.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-08-02T07:01:51.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-08-01T07:02:07.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-07-31T07:02:50.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-07-30T07:02:50.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-07-29T07:02:20.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-07-28T07:02:47.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-07-27T07:03:10.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "gluten",
+                        "display_name": "Gluten",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 659,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2757,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 24,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 67,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 24,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 4.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 7.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 16,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 14,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.01,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2.3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "debio",
+                        "display_name": "Debio",
+                        "description": "Debio-merket er det offisielle norske \u00f8kologimerket og gir en garanti for at en vare er \u00f8kologisk dyrket.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Debio-merket er det offisielle norske merket for \u00f8kologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med \u00f8kologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio \u00f8kologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som f\u00f8lges for \u00e5 oppn\u00e5 Debio-sertifisering.<br><br></div><div>For \u00e5 bli merket som \u00f8kologisk av Debio, m\u00e5 produkter gjennomg\u00e5 inspeksjoner og oppfylle strenge krav hvert \u00e5r. Debio samarbeider tett med Mattilsynet for \u00e5 sikre at \u00f8kologisk produksjon og merking f\u00f8lger forskriftene om \u00f8kologisk produksjon og merking av \u00f8kologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole p\u00e5 at Debio-merket indikerer ekte \u00f8kologiske produkter.<br><br></div><div>Debio-merket er et p\u00e5litelig symbol for forbrukere som \u00f8nsker \u00e5 velge \u00f8kologiske alternativer og st\u00f8tte en b\u00e6rekraftig matproduksjon i Norge. Ved \u00e5 se etter Debio-merket, kan forbrukere enkelt identifisere og kj\u00f8pe produkter som er i tr\u00e5d med deres \u00f8nske om \u00e5 spise \u00f8kologisk.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Debio.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Debio.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-09T19:57:30.000000Z",
+                "updated_at": "2023-10-15T07:08:23.000000Z"
+            },
+            {
+                "id": 28083,
+                "name": "Naturhaven Paran\u00f8tter 200g",
+                "brand": "NATUR HAVEN",
+                "vendor": "VATAN ENGROS AS",
+                "ean": "7090034906969",
+                "url": "https://matlevering.coop.no/baking/notter-og-torket-frukt/natur-haven-paranotter-200g",
+                "image": "https://cdcimg.coop.no/rte/RTE2/7090034906969.png",
+                "category": null,
+                "description": null,
+                "ingredients": "PARAN\u00d8TTER",
+                "current_price": 42.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Coop",
+                    "code": "COOP_NO",
+                    "url": "https://matlevering.coop.no",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Coop.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 42.9,
+                        "date": "2023-01-30T09:32:10.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2023-01-15T10:59:02.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2023-01-12T14:09:43.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2023-01-10T11:49:19.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2023-01-08T18:41:07.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2023-01-05T14:28:53.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2023-01-03T07:50:58.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2023-01-02T07:05:07.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-12-29T19:19:58.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-12-28T15:35:04.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-12-27T14:02:30.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-12-21T22:29:38.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-12-19T15:13:10.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-12-14T06:59:39.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-12-11T21:13:18.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-12-09T16:30:08.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-12-04T15:17:17.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-11-24T14:32:55.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-11-21T06:27:09.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-11-18T23:43:28.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-11-15T22:31:29.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-11-14T11:00:05.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-11-10T08:59:49.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-11-07T19:12:58.000000Z"
+                    },
+                    {
+                        "price": 42.9,
+                        "date": "2022-11-04T18:43:51.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 680,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2805,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 66.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 2.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 14.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0.2,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:57:39.000000Z",
+                "updated_at": "2023-07-16T23:37:42.000000Z"
+            },
+            {
+                "id": 58449,
+                "name": "Paran\u00f8tter u/Skall 200g Eldorado",
+                "brand": "Eldorado",
+                "vendor": "Unil",
+                "ean": "7035620039201",
+                "url": "https://meny.no/Varer/snacks-godteri/notter/paranotter/paranotter-7035620039201",
+                "image": "https://res.cloudinary.com/norgesgruppen/image/upload/v1602556440/Product/7035620039201.jpg",
+                "category": null,
+                "description": "Paran\u00f8tter uten skall. Paran\u00f8tter er en spennende og god n\u00f8tt som passer godt opp mot jul. Smaken minner om kokos og de kan like fint nytes r\u00e5 som i bakverk, dessert eller i konfekt. ",
+                "ingredients": "Paran\u00f8tter.",
+                "current_price": 22.45,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 22.45,
+                        "date": "2023-01-03T07:37:07.000000Z"
+                    },
+                    {
+                        "price": 22.45,
+                        "date": "2023-01-02T06:53:08.000000Z"
+                    },
+                    {
+                        "price": 44.9,
+                        "date": "2022-12-29T19:16:45.000000Z"
+                    },
+                    {
+                        "price": 44.9,
+                        "date": "2022-12-28T15:29:48.000000Z"
+                    },
+                    {
+                        "price": 44.9,
+                        "date": "2022-12-27T11:41:26.000000Z"
+                    },
+                    {
+                        "price": 44.9,
+                        "date": "2022-12-21T22:27:02.000000Z"
+                    },
+                    {
+                        "price": 44.9,
+                        "date": "2022-12-19T15:09:25.000000Z"
+                    },
+                    {
+                        "price": 44.9,
+                        "date": "2022-12-15T19:24:24.000000Z"
+                    },
+                    {
+                        "price": 44.9,
+                        "date": "2022-12-14T06:54:21.000000Z"
+                    },
+                    {
+                        "price": 44.9,
+                        "date": "2022-12-11T21:03:12.000000Z"
+                    },
+                    {
+                        "price": 44.9,
+                        "date": "2022-12-09T16:34:59.000000Z"
+                    },
+                    {
+                        "price": 44.9,
+                        "date": "2022-12-04T15:04:42.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "peanotter",
+                        "display_name": "Pean\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 680,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2804,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 24.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 66.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 20.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 2.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 7.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 15.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 14.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2.3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-12-04T15:04:42.000000Z",
+                "updated_at": "2023-07-16T23:42:11.000000Z"
+            },
+            {
+                "id": 58567,
+                "name": "Paran\u00f8tter u/Skall 200g Eldorado",
+                "brand": "Eldorado",
+                "vendor": "Unil",
+                "ean": "7035620039201",
+                "url": "https://spar.no/nettbutikk/varer/snacks-og-godteri/notter/paranotter/paranotter-7035620039201",
+                "image": "https://res.cloudinary.com/norgesgruppen/image/upload/v1602556440/Product/7035620039201.jpg",
+                "category": null,
+                "description": "Paran\u00f8tter uten skall. Paran\u00f8tter er en spennende og god n\u00f8tt som passer godt opp mot jul. Smaken minner om kokos og de kan like fint nytes r\u00e5 som i bakverk, dessert eller i konfekt. ",
+                "ingredients": "Paran\u00f8tter.",
+                "current_price": 23.45,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 23.45,
+                        "date": "2023-01-05T14:25:07.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2023-01-02T06:54:42.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-12-29T19:18:11.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-12-28T15:30:38.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-12-27T11:41:48.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-12-21T22:27:35.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-12-19T15:03:26.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-12-15T19:27:28.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-12-14T06:55:58.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-12-11T21:05:16.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-12-09T16:33:56.000000Z"
+                    },
+                    {
+                        "price": 46.9,
+                        "date": "2022-12-04T15:06:05.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "peanotter",
+                        "display_name": "Pean\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 680,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2804,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 24.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 66.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 20.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 2.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 7.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 15.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 14.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2.3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-12-04T15:06:05.000000Z",
+                "updated_at": "2023-07-16T23:42:11.000000Z"
+            },
+            {
+                "id": 58709,
+                "name": "Paran\u00f8tter Bolivia, 200 g",
+                "brand": null,
+                "vendor": "Netfresh",
+                "ean": null,
+                "url": "https://oda.com/no/products/56442-paranotter-bolivia/",
+                "image": "https://bilder.kolonial.no/local_products/6eb9fe22-e6c4-4ff1-8743-fce513487258.jpg?auto=format&fit=max&w=500&s=8e8a9dc5055d0c9af4e39d5c7b7791c3",
+                "category": null,
+                "description": null,
+                "ingredients": "",
+                "current_price": 54.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 54.9,
+                        "date": "2023-03-09T12:08:05.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-01-08T18:59:13.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-01-03T07:43:06.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2023-01-02T06:54:03.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2022-12-29T19:17:31.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2022-12-27T11:44:29.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2022-12-19T15:15:23.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2022-12-15T19:51:02.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2022-12-14T07:00:54.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2022-12-11T21:09:26.000000Z"
+                    },
+                    {
+                        "price": 54.9,
+                        "date": "2022-12-09T16:22:09.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2022-12-09T16:22:09.000000Z",
+                "updated_at": "2023-07-16T23:42:12.000000Z"
+            },
+            {
+                "id": 61157,
+                "name": "Paran\u00f8tter 150g Dln",
+                "brand": "Den lille n\u00f8ttefabrikken",
+                "vendor": "Brynild as",
+                "ean": "7041111140950",
+                "url": "https://kiwi.no/aktuelt/dagligvarer/#7041111140950",
+                "image": "https://bilder.ngdata.no/7041111140950/kiwi/large.jpg",
+                "category": [
+                    {
+                        "id": 60,
+                        "depth": -2,
+                        "name": "Snacks & godteri"
+                    },
+                    {
+                        "id": 61,
+                        "depth": -1,
+                        "name": "N\u00f8tter"
+                    },
+                    {
+                        "id": 2525,
+                        "depth": 0,
+                        "name": "Paran\u00f8tter"
+                    }
+                ],
+                "description": null,
+                "ingredients": "\u00d8kologiske paran\u00f8tter.",
+                "current_price": 37.4,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "KIWI",
+                    "code": "KIWI",
+                    "url": "https://kiwi.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Kiwi.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 37.4,
+                        "date": "2023-04-13T06:59:53.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-04-13T02:20:40.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-04-12T08:11:08.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-04-11T07:44:32.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-04-09T22:29:37.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-04-08T08:26:21.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-04-05T11:13:16.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-04-04T18:27:46.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-04-03T07:02:12.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-04-02T21:50:09.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-04-01T12:21:09.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-03-30T11:28:46.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-03-28T22:15:46.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-03-28T08:47:08.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-03-27T04:40:52.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-03-25T18:24:21.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-03-24T19:25:15.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-03-23T09:18:16.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-03-22T10:44:08.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-03-20T03:57:59.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-03-18T11:52:37.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-03-17T11:24:04.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-03-15T09:52:21.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-03-13T07:54:21.000000Z"
+                    },
+                    {
+                        "price": 37.4,
+                        "date": "2023-03-09T11:43:16.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "gluten",
+                        "display_name": "Gluten",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 659,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2757,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 24,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 67,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 24,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 4.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 7.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 16,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 14,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.01,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2.3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "debio",
+                        "display_name": "Debio",
+                        "description": "Debio-merket er det offisielle norske \u00f8kologimerket og gir en garanti for at en vare er \u00f8kologisk dyrket.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Debio-merket er det offisielle norske merket for \u00f8kologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med \u00f8kologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio \u00f8kologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som f\u00f8lges for \u00e5 oppn\u00e5 Debio-sertifisering.<br><br></div><div>For \u00e5 bli merket som \u00f8kologisk av Debio, m\u00e5 produkter gjennomg\u00e5 inspeksjoner og oppfylle strenge krav hvert \u00e5r. Debio samarbeider tett med Mattilsynet for \u00e5 sikre at \u00f8kologisk produksjon og merking f\u00f8lger forskriftene om \u00f8kologisk produksjon og merking av \u00f8kologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole p\u00e5 at Debio-merket indikerer ekte \u00f8kologiske produkter.<br><br></div><div>Debio-merket er et p\u00e5litelig symbol for forbrukere som \u00f8nsker \u00e5 velge \u00f8kologiske alternativer og st\u00f8tte en b\u00e6rekraftig matproduksjon i Norge. Ved \u00e5 se etter Debio-merket, kan forbrukere enkelt identifisere og kj\u00f8pe produkter som er i tr\u00e5d med deres \u00f8nske om \u00e5 spise \u00f8kologisk.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Debio.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Debio.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-12-11T20:53:20.000000Z",
+                "updated_at": "2023-07-16T23:42:35.000000Z"
+            },
+            {
+                "id": 63609,
+                "name": "Paran\u00f8tter u/Skall 200g Eldorado",
+                "brand": "Eldorado",
+                "vendor": "Unil",
+                "ean": "7035620039201",
+                "url": "https://kiwi.no/aktuelt/dagligvarer/#7035620039201",
+                "image": "https://res.cloudinary.com/norgesgruppen/image/upload/v1602556440/Product/7035620039201.jpg",
+                "category": null,
+                "description": "Paran\u00f8tter uten skall. Paran\u00f8tter er en spennende og god n\u00f8tt som passer godt opp mot jul. Smaken minner om kokos og de kan like fint nytes r\u00e5 som i bakverk, dessert eller i konfekt. ",
+                "ingredients": "Paran\u00f8tter.",
+                "current_price": 19.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "KIWI",
+                    "code": "KIWI",
+                    "url": "https://kiwi.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Kiwi.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 19.9,
+                        "date": "2023-01-05T14:25:15.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-01-02T06:54:47.000000Z"
+                    },
+                    {
+                        "price": 39.8,
+                        "date": "2022-12-28T15:31:00.000000Z"
+                    },
+                    {
+                        "price": 39.8,
+                        "date": "2022-12-27T11:42:13.000000Z"
+                    },
+                    {
+                        "price": 39.8,
+                        "date": "2022-12-21T22:27:54.000000Z"
+                    },
+                    {
+                        "price": 39.8,
+                        "date": "2022-12-19T14:54:14.000000Z"
+                    },
+                    {
+                        "price": 39.8,
+                        "date": "2022-12-15T19:22:54.000000Z"
+                    },
+                    {
+                        "price": 39.8,
+                        "date": "2022-12-14T06:58:04.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "peanotter",
+                        "display_name": "Pean\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 680,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2804,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 24.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 66.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 20.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 2.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 7.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 15.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "polyoler",
+                        "display_name": "Sukkeralkoholer",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 14.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 0.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2.3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-12-14T06:58:04.000000Z",
+                "updated_at": "2023-07-16T23:42:53.000000Z"
+            },
+            {
+                "id": 64922,
+                "name": "Paran\u00f8tter R\u00e5, Usaltet, 175 g",
+                "brand": "Interkolonial",
+                "vendor": "INTERFRUKT SA",
+                "ean": null,
+                "url": "https://oda.com/no/products/57811-paranotter-ra-usaltet/",
+                "image": "https://bilder.kolonial.no/local_products/42da516a-f1a6-4a0e-a508-a0dcf3f9dfc7.jpeg?auto=format&fit=max&w=239&s=4becdc77af0f70db24f9036a4afb6a30",
+                "category": null,
+                "description": "",
+                "ingredients": "Paran\u00f8tter",
+                "current_price": 49.5,
+                "current_unit_price": 282.86,
+                "weight": 175,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-27T07:12:20.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-26T07:12:39.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-25T07:12:24.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-24T07:12:58.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-23T07:14:58.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-22T07:11:59.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-21T07:12:24.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-20T07:11:56.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-19T07:13:07.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-18T07:12:43.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-17T07:12:43.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-16T07:12:30.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-15T07:12:07.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-14T07:12:34.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-13T07:12:38.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-12T07:12:13.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-11T07:12:36.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-10T07:14:59.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-09T07:12:23.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-08T07:15:11.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-07T07:11:53.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-06T07:12:47.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-05T07:16:20.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-04T07:12:23.000000Z"
+                    },
+                    {
+                        "price": 49.5,
+                        "date": "2023-10-03T07:16:35.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 682,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2813,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 68.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 3.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 16.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 14.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2.4,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-01-25T15:32:47.000000Z",
+                "updated_at": "2023-10-27T07:12:20.000000Z"
+            },
+            {
+                "id": 68461,
+                "name": "Paran\u00f8tter 150g Dln",
+                "brand": "Den lille n\u00f8ttefabrikken",
+                "vendor": "Brynild as",
+                "ean": "7041111140950",
+                "url": "https://spar.no/nettbutikk/varer/snacks-og-godteri/notter/paranotter/paranotter-7041111140950",
+                "image": "https://bilder.ngdata.no/7041111140950/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 60,
+                        "depth": -2,
+                        "name": "Snacks & godteri"
+                    },
+                    {
+                        "id": 61,
+                        "depth": -1,
+                        "name": "N\u00f8tter"
+                    },
+                    {
+                        "id": 2525,
+                        "depth": 0,
+                        "name": "Paran\u00f8tter"
+                    }
+                ],
+                "description": null,
+                "ingredients": "\u00d8kologiske paran\u00f8tter.",
+                "current_price": 51.9,
+                "current_unit_price": 346,
+                "weight": 150,
+                "weight_unit": "g",
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-27T07:08:43.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-27T07:07:47.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-24T07:08:22.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-22T07:07:49.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-21T07:08:11.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-20T07:08:33.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-20T07:07:21.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-19T07:07:56.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-18T07:08:06.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-18T07:06:27.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-17T07:08:26.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-16T07:08:05.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-15T07:07:56.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-14T07:08:10.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-14T07:06:06.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-13T07:08:06.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-12T07:08:12.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-11T07:08:11.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-10T07:08:30.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-09T07:08:37.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-08T07:08:01.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-07T07:08:08.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-06T07:07:50.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-05T07:08:01.000000Z"
+                    },
+                    {
+                        "price": 51.9,
+                        "date": "2023-10-04T07:07:48.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "gluten",
+                        "display_name": "Gluten",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 659,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2757,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 24,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 67,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 24,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 4.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 7.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 16,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 14,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.01,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2.3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "debio",
+                        "display_name": "Debio",
+                        "description": "Debio-merket er det offisielle norske \u00f8kologimerket og gir en garanti for at en vare er \u00f8kologisk dyrket.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Debio-merket er det offisielle norske merket for \u00f8kologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med \u00f8kologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio \u00f8kologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som f\u00f8lges for \u00e5 oppn\u00e5 Debio-sertifisering.<br><br></div><div>For \u00e5 bli merket som \u00f8kologisk av Debio, m\u00e5 produkter gjennomg\u00e5 inspeksjoner og oppfylle strenge krav hvert \u00e5r. Debio samarbeider tett med Mattilsynet for \u00e5 sikre at \u00f8kologisk produksjon og merking f\u00f8lger forskriftene om \u00f8kologisk produksjon og merking av \u00f8kologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole p\u00e5 at Debio-merket indikerer ekte \u00f8kologiske produkter.<br><br></div><div>Debio-merket er et p\u00e5litelig symbol for forbrukere som \u00f8nsker \u00e5 velge \u00f8kologiske alternativer og st\u00f8tte en b\u00e6rekraftig matproduksjon i Norge. Ved \u00e5 se etter Debio-merket, kan forbrukere enkelt identifisere og kj\u00f8pe produkter som er i tr\u00e5d med deres \u00f8nske om \u00e5 spise \u00f8kologisk.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Debio.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Debio.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-03-25T18:24:21.000000Z",
+                "updated_at": "2023-10-27T07:08:43.000000Z"
+            },
+            {
+                "id": 81617,
+                "name": "Dln \u00d8kologiske Paran\u00f8tter 150g",
+                "brand": "Den Lille N\u00f8ttefabrikken",
+                "vendor": "BRYNILD AS",
+                "ean": "7041111140950",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7041111140950",
+                "category": [
+                    {
+                        "id": 60,
+                        "depth": -2,
+                        "name": "Snacks & godteri"
+                    },
+                    {
+                        "id": 61,
+                        "depth": -1,
+                        "name": "N\u00f8tter"
+                    },
+                    {
+                        "id": 2525,
+                        "depth": 0,
+                        "name": "Paran\u00f8tter"
+                    }
+                ],
+                "description": null,
+                "ingredients": "\u00d8kologiske paran\u00f8tter.",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 150,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "gluten",
+                        "display_name": "Gluten",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 659,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2757,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 24,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 67,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 24,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 4.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 7.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 16,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 14,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.01,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2.3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "debio",
+                        "display_name": "Debio",
+                        "description": "Debio-merket er det offisielle norske \u00f8kologimerket og gir en garanti for at en vare er \u00f8kologisk dyrket.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Debio-merket er det offisielle norske merket for \u00f8kologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med \u00f8kologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio \u00f8kologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som f\u00f8lges for \u00e5 oppn\u00e5 Debio-sertifisering.<br><br></div><div>For \u00e5 bli merket som \u00f8kologisk av Debio, m\u00e5 produkter gjennomg\u00e5 inspeksjoner og oppfylle strenge krav hvert \u00e5r. Debio samarbeider tett med Mattilsynet for \u00e5 sikre at \u00f8kologisk produksjon og merking f\u00f8lger forskriftene om \u00f8kologisk produksjon og merking av \u00f8kologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole p\u00e5 at Debio-merket indikerer ekte \u00f8kologiske produkter.<br><br></div><div>Debio-merket er et p\u00e5litelig symbol for forbrukere som \u00f8nsker \u00e5 velge \u00f8kologiske alternativer og st\u00f8tte en b\u00e6rekraftig matproduksjon i Norge. Ved \u00e5 se etter Debio-merket, kan forbrukere enkelt identifisere og kj\u00f8pe produkter som er i tr\u00e5d med deres \u00f8nske om \u00e5 spise \u00f8kologisk.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Debio.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Debio.png"
+                        }
+                    },
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T00:18:43.000000Z",
+                "updated_at": "2023-09-06T01:12:36.000000Z"
+            },
+            {
+                "id": 111903,
+                "name": "Paran\u00f8tter m/Sjokolade 120g Forest Feast",
+                "brand": "Forest feast",
+                "vendor": "Gourmet import",
+                "ean": "5022374051896",
+                "url": "https://meny.no/Varer/snacks-godteri/notter/notteblanding/paranotter-5022374051896",
+                "image": "https://bilder.ngdata.no/5022374051896/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 60,
+                        "depth": -2,
+                        "name": "Snacks & godteri"
+                    },
+                    {
+                        "id": 61,
+                        "depth": -1,
+                        "name": "N\u00f8tter"
+                    },
+                    {
+                        "id": 125,
+                        "depth": 0,
+                        "name": "N\u00f8tteblanding"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Paran\u00f8tter (30%), sukker, kakaosm\u00f8r, helmelkpulver, kakaomasse, emulgator (soya lecitin), glasering (gum arabic, shellac), glukose sirup, gr\u00f8nnsaksolje (kokosn\u00f8tt, palme, solsikke), naturlig smakstilsetning",
+                "current_price": 59.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 59.9,
+                        "date": "2023-08-03T07:00:59.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-08-02T07:01:12.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-08-01T07:00:52.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-31T07:01:29.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-30T07:01:14.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-29T07:01:08.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-28T07:01:23.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-27T07:01:29.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-26T07:00:47.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-25T07:03:21.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-25T07:01:12.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-24T07:03:14.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-24T07:01:07.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-23T07:01:01.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-22T07:01:41.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-21T07:00:51.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-20T07:00:35.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-19T07:01:30.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-18T07:00:41.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-17T07:01:44.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-16T07:02:00.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-15T07:01:12.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-14T07:00:50.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-13T07:01:23.000000Z"
+                    },
+                    {
+                        "price": 59.9,
+                        "date": "2023-07-12T07:01:03.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "melk",
+                        "display_name": "Melk",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "peanotter",
+                        "display_name": "Pean\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 440,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 1842,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 45.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 36.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 3.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 22,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 9.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.14,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 35.3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T14:16:11.000000Z",
+                "updated_at": "2023-08-03T07:00:59.000000Z"
+            },
+            {
+                "id": 178942,
+                "name": "N\u00f8tteliten Paran\u00f8tter Usaltet R\u00e5 175gr",
+                "brand": "N\u00d8TTELITEN",
+                "vendor": "FOODTRADE AS",
+                "ean": "7090048373092",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7090048373092",
+                "category": null,
+                "description": null,
+                "ingredients": "PARAN\u00d8TTER",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 175,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "cashewnott",
+                        "display_name": "Cashewn\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 650,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2720,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 63.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 4.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 15.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 13.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.01,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0.1,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-16T15:33:33.000000Z",
+                "updated_at": "2023-09-06T01:23:38.000000Z"
+            },
+            {
+                "id": 179094,
+                "name": "N\u00f8tteliten \u00d8kologiske Paran\u00f8tter Usaltet R\u00e5 150gr",
+                "brand": "N\u00d8TTELITEN",
+                "vendor": "FOODTRADE AS",
+                "ean": "7090048373573",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7090048373573",
+                "category": null,
+                "description": null,
+                "ingredients": "PARAN\u00d8TTER",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 150,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "cashewnott",
+                        "display_name": "Cashewn\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 650,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2720,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 63.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 4.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 15.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 13.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.01,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0.1,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "euroleaf",
+                        "display_name": "EuroLeaf",
+                        "description": "Euroleaf-logoen er et offisielt merke for \u00f8kologiske produkter som oppfyller EU-standardene for \u00f8kologisk produksjon og merking.",
+                        "organization": "Den europeiske union (EU)",
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2010,
+                        "about": null,
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Euroleaf.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Euroleaf.png"
+                        }
+                    },
+                    {
+                        "name": "debio",
+                        "display_name": "Debio",
+                        "description": "Debio-merket er det offisielle norske \u00f8kologimerket og gir en garanti for at en vare er \u00f8kologisk dyrket.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": null,
+                        "about": "<div>Debio-merket er det offisielle norske merket for \u00f8kologiske produkter. Det gir en garanti for at varen er dyrket og produsert i samsvar med \u00f8kologiske prinsipper. Som en privat medlemsorganisasjon, kontrollerer og merker Debio \u00f8kologisk landbruksproduksjon, foredling, lagring, import og omsetning i Norge. Organisasjonen har utviklet egne regler og standarder som f\u00f8lges for \u00e5 oppn\u00e5 Debio-sertifisering.<br><br></div><div>For \u00e5 bli merket som \u00f8kologisk av Debio, m\u00e5 produkter gjennomg\u00e5 inspeksjoner og oppfylle strenge krav hvert \u00e5r. Debio samarbeider tett med Mattilsynet for \u00e5 sikre at \u00f8kologisk produksjon og merking f\u00f8lger forskriftene om \u00f8kologisk produksjon og merking av \u00f8kologiske landbruksprodukter. Dette sikrer at forbrukerne kan stole p\u00e5 at Debio-merket indikerer ekte \u00f8kologiske produkter.<br><br></div><div>Debio-merket er et p\u00e5litelig symbol for forbrukere som \u00f8nsker \u00e5 velge \u00f8kologiske alternativer og st\u00f8tte en b\u00e6rekraftig matproduksjon i Norge. Ved \u00e5 se etter Debio-merket, kan forbrukere enkelt identifisere og kj\u00f8pe produkter som er i tr\u00e5d med deres \u00f8nske om \u00e5 spise \u00f8kologisk.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Debio.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Debio.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-16T15:34:38.000000Z",
+                "updated_at": "2023-09-06T01:23:39.000000Z"
+            }
+        ]
+    ]
+}

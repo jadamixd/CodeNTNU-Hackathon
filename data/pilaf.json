@@ -1,0 +1,262 @@
+{
+    "data": [
+        [
+            {
+                "id": 105188,
+                "name": "Hvetekornpilaff m/Laks",
+                "brand": null,
+                "vendor": "Din baker",
+                "ean": "2000966600007",
+                "url": "https://meny.no/Varer/middag/ferdigmaltider/ferdigmaltid/hvetekornpilaff-2000966600007",
+                "image": "https://bilder.ngdata.no/2000966600007/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 33,
+                        "depth": -2,
+                        "name": "Middag"
+                    },
+                    {
+                        "id": 70,
+                        "depth": -1,
+                        "name": "Ferdigm\u00e5ltider"
+                    },
+                    {
+                        "id": 269,
+                        "depth": 0,
+                        "name": "Ferdigm\u00e5ltid"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 79,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 79,
+                        "date": "2023-08-03T07:00:36.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-08-02T07:00:46.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-08-01T07:00:36.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-31T07:03:04.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-31T07:01:05.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-30T07:01:01.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-29T07:02:57.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-29T07:00:48.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-28T07:00:38.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-27T07:03:18.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-27T07:01:24.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-26T07:00:43.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-25T07:03:07.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-25T07:00:49.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-24T07:03:35.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-24T07:01:22.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-23T07:01:23.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-22T07:01:03.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-21T07:00:37.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-20T07:01:06.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-19T07:00:34.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-18T07:01:04.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-17T07:00:57.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-16T07:00:59.000000Z"
+                    },
+                    {
+                        "price": 79,
+                        "date": "2023-07-15T07:00:58.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "UNKNOWN"
+                    }
+                ],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2023-06-11T14:15:17.000000Z",
+                "updated_at": "2023-08-03T07:00:36.000000Z"
+            },
+            {
+                "id": 162168,
+                "name": "Green Cuisine Bulgur Pilaf",
+                "brand": "findus",
+                "vendor": "FINDUS FOODSERVICE NORGE AS",
+                "ean": "7310500030067",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7310500030067",
+                "category": null,
+                "description": null,
+                "ingredients": "Kokt bulgur (HVETE) 33%, grillede gr\u00f8nnsaker 21% (squash, r\u00f8d paprika, tomat, aubergine, sukker, salt), gulrot, vann, l\u00f8k, ferskost 5,4% (MELK, salt, mikrobiell l\u00f8pe), svarte oliven, persille, salt, tomatpur\u00e9, sitronskall, stivelse (potet), gr\u00f8nnsakspulver (gulrot, l\u00f8k, pastinakk), vegetabilsk olje (raps, solsikke), mynte, kanel, l\u00f8pstikke, gurkemeie og krydderekstrakt (hvitl\u00f8k, rosmarin)",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 6,
+                "weight_unit": "kg",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "gluten",
+                        "display_name": "Gluten",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 72,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 302,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 1.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 10,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 2.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 2.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 1.8,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "resin4",
+                        "display_name": "Lavdensitetspolyetylen (LDPE eller PE-LD)",
+                        "description": "Type plast brukt i fleksible gjenstander som poser og emballasje",
+                        "organization": "ASTM International",
+                        "alternative_names": null,
+                        "type": "Plastmerke",
+                        "year_established": null,
+                        "about": "LDPE eller PE-LD (lavdensitetspolyetylen eller line\u00e6r lavdensitetspolyetylen) brukes til \u00e5 lage plastposer, seks-pakke-ringer, ulike beholdere, dispenserbokser, vaskerflasker, r\u00f8r og ulikt formet laboratorieutstyr. LDPE blir sjelden resirkulert gjennom kommunale gjenvinningsprogrammer og er en betydelig kilde til plastforurensning. Likevel kan LDPE ofte returneres til mange butikker for gjenvinning.",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/Resin4.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/Resin4.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-12T00:38:40.000000Z",
+                "updated_at": "2023-09-06T01:21:02.000000Z"
+            }
+        ]
+    ]
+}

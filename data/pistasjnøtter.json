@@ -1,0 +1,3165 @@
+{
+    "data": [
+        [
+            {
+                "id": 27579,
+                "name": "Coop Pistasjn\u00f8tter 150g",
+                "brand": "COOP",
+                "vendor": "ARIMEX LTD",
+                "ean": "7340191140196",
+                "url": "https://matlevering.coop.no/snacks-og-godteri/notter/coop-pistasjnotter-150g",
+                "image": "https://cdcimg.coop.no/rte/RTE2/7340191140196.png",
+                "category": null,
+                "description": "Coop-produktene garanterer for en god kvalitet, men til en rimeligere pris enn tilsvarende merkevarer",
+                "ingredients": null,
+                "current_price": 41.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Coop",
+                    "code": "COOP_NO",
+                    "url": "https://matlevering.coop.no",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Coop.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 41.9,
+                        "date": "2023-01-30T09:31:49.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2023-01-15T10:59:04.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2023-01-12T14:09:49.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2023-01-10T11:49:24.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2023-01-08T18:41:21.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2023-01-05T14:28:49.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2023-01-03T07:51:05.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2023-01-02T07:05:13.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-12-29T19:19:59.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-12-28T15:34:57.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-12-27T14:02:37.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-12-21T22:29:44.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-12-19T15:13:07.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-12-14T06:59:47.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-12-11T21:13:12.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-12-09T16:30:13.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-12-04T15:17:18.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-11-24T14:33:01.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-11-21T06:27:13.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-11-18T23:43:33.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-11-15T22:31:42.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-11-14T11:00:09.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-11-10T08:59:45.000000Z"
+                    },
+                    {
+                        "price": 41.9,
+                        "date": "2022-11-07T19:12:55.000000Z"
+                    },
+                    {
+                        "price": 45.9,
+                        "date": "2022-11-04T18:43:53.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "peanotter",
+                        "display_name": "Pean\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 604,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2503,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 49,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 10,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 6.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 27,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 5.6,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:57:31.000000Z",
+                "updated_at": "2023-07-16T23:37:35.000000Z"
+            },
+            {
+                "id": 29939,
+                "name": "Pistasjn\u00f8tter 175 g",
+                "brand": "REMA 1000",
+                "vendor": "Rema 1000",
+                "ean": "7032069716717",
+                "url": "https://oda.com/no/products/18232-rema-1000-pistasjnotter/",
+                "image": "https://bilder.kolonial.no/local_products/2c75ea8c-e023-440e-bc93-63a59fff6c1c.jpg?auto=format&fit=max&w=465&s=7610db0d68f9d024616b9ce7478be5a1",
+                "category": null,
+                "description": "",
+                "ingredients": "Pistasjn\u00f8tter med skall (98,6 %), salt",
+                "current_price": 56.3,
+                "current_unit_price": 321.71,
+                "weight": 175,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Oda",
+                    "code": "ODA_NO",
+                    "url": "https://oda.com/no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Oda.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-27T07:12:45.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-26T07:15:10.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-25T07:12:59.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-24T07:15:41.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-23T07:16:50.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-22T07:16:04.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-21T07:15:24.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-20T07:13:36.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-19T07:12:36.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-18T07:15:27.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-17T07:14:24.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-16T07:15:39.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-15T07:13:31.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-14T07:15:27.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-13T07:13:14.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-12T07:12:49.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-11T07:12:51.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-10T07:13:11.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-09T07:12:56.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-08T07:13:04.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-07T07:13:24.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-06T07:12:22.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-05T07:14:09.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-04T07:13:04.000000Z"
+                    },
+                    {
+                        "price": 56.3,
+                        "date": "2023-10-03T07:13:15.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "cashewnott",
+                        "display_name": "Cashewn\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 627,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2599,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 28,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 51,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 15,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 15,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 8.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 23,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 7.4,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-09T19:58:09.000000Z",
+                "updated_at": "2023-10-27T07:12:45.000000Z"
+            },
+            {
+                "id": 35731,
+                "name": "Pistasjn\u00f8tter 150g Dln",
+                "brand": "Den lille n\u00f8ttefabrikken",
+                "vendor": "Brynild as",
+                "ean": "7041111139770",
+                "url": "https://meny.no/Varer/snacks-godteri/notter/pistasjenotter/pistasjnotter-7041111139770",
+                "image": "https://bilder.ngdata.no/7041111139770/meny/large.jpg",
+                "category": null,
+                "description": null,
+                "ingredients": "Pistasjn\u00f8tter, salt",
+                "current_price": 60.8,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 60.8,
+                        "date": "2022-08-06T22:05:44.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-08-06T21:55:12.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-08-06T21:41:26.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-08-05T18:03:34.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-08-05T16:47:34.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-08-01T14:52:29.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:58:56.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:57:33.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:56:40.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:52:15.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:51:06.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:49:51.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:45:05.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:43:53.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:42:43.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:38:30.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:37:14.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:36:09.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:31:32.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:30:25.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:29:12.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:23:44.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:22:31.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:21:25.000000Z"
+                    },
+                    {
+                        "price": 60.8,
+                        "date": "2022-07-30T19:15:32.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "gluten",
+                        "display_name": "Gluten",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 564,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2362,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 45,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 19,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 5.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 21,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 7.7,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-10T17:29:24.000000Z",
+                "updated_at": "2023-07-16T23:38:49.000000Z"
+            },
+            {
+                "id": 36505,
+                "name": "Pistasjn\u00f8tter California 120g Forest Feast",
+                "brand": "Forest feast",
+                "vendor": "Gourmet import",
+                "ean": "5022374050288",
+                "url": "https://meny.no/Varer/snacks-godteri/notter/pistasjenotter/pistasjnotter-5022374050288",
+                "image": "https://bilder.ngdata.no/5022374050288/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 60,
+                        "depth": -2,
+                        "name": "Snacks & godteri"
+                    },
+                    {
+                        "id": 61,
+                        "depth": -1,
+                        "name": "N\u00f8tter"
+                    },
+                    {
+                        "id": 207,
+                        "depth": 0,
+                        "name": "Pistasjen\u00f8tter"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Pistasjn\u00f8tter, salt, havsalt",
+                "current_price": 70.4,
+                "current_unit_price": 586.67,
+                "weight": 120,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 70.4,
+                        "date": "2023-08-13T07:01:51.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-08-12T07:01:48.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-08-11T16:50:24.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-08-11T07:01:38.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-08-10T07:01:35.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-08-09T07:01:46.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-08-08T07:01:55.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-08-07T07:01:40.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-08-06T07:01:39.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-08-05T07:01:31.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-08-04T07:01:23.000000Z"
+                    },
+                    {
+                        "price": 71.5,
+                        "date": "2023-08-03T07:01:35.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-08-02T07:01:47.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-08-01T07:02:12.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-07-31T07:02:48.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-07-30T07:02:52.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-07-29T07:01:23.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-07-28T07:02:21.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-07-27T07:03:05.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-07-26T07:02:15.000000Z"
+                    },
+                    {
+                        "price": 71.5,
+                        "date": "2023-07-25T07:04:22.000000Z"
+                    },
+                    {
+                        "price": 71.5,
+                        "date": "2023-07-25T07:02:56.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-07-24T07:01:07.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-07-23T07:01:30.000000Z"
+                    },
+                    {
+                        "price": 70.4,
+                        "date": "2023-07-22T07:01:43.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "peanotter",
+                        "display_name": "Pean\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 522,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2184,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 41.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 25.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 10.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 5.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 19.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 4.27,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 7,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    }
+                ],
+                "created_at": "2022-01-10T17:29:31.000000Z",
+                "updated_at": "2023-09-06T01:10:02.000000Z"
+            },
+            {
+                "id": 36710,
+                "name": "Pistasjn\u00f8tter Ristede&Saltede 300g Lille Ekorn",
+                "brand": null,
+                "vendor": "Bama dagligvare  as",
+                "ean": "7040512834031",
+                "url": "https://meny.no/Varer/snacks-godteri/notter/pistasjenotter/pistasjnotter-7040512834031",
+                "image": "https://bilder.ngdata.no/7040512834031/meny/large.jpg",
+                "category": [
+                    {
+                        "id": 60,
+                        "depth": -2,
+                        "name": "Snacks & godteri"
+                    },
+                    {
+                        "id": 61,
+                        "depth": -1,
+                        "name": "N\u00f8tter"
+                    },
+                    {
+                        "id": 207,
+                        "depth": 0,
+                        "name": "Pistasjen\u00f8tter"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 109,
+                "current_unit_price": 363.33,
+                "weight": 300,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Meny",
+                    "code": "MENY_NO",
+                    "url": "https://meny.no/Varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Meny.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 109,
+                        "date": "2023-08-13T07:01:46.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-08-12T07:01:45.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-08-11T16:50:23.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-08-11T07:01:36.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-08-10T07:01:33.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-08-09T07:01:44.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-08-08T07:01:53.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-08-07T07:01:38.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-08-06T07:01:38.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-08-05T07:01:28.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-08-04T07:01:25.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-08-03T07:01:44.000000Z"
+                    },
+                    {
+                        "price": 125,
+                        "date": "2023-08-02T07:01:36.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-08-01T07:01:51.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-07-31T07:02:33.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-07-30T07:02:53.000000Z"
+                    },
+                    {
+                        "price": 125,
+                        "date": "2023-07-29T07:01:16.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-07-28T07:00:50.000000Z"
+                    },
+                    {
+                        "price": 119,
+                        "date": "2023-07-27T07:00:54.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-07-26T07:02:07.000000Z"
+                    },
+                    {
+                        "price": 125,
+                        "date": "2023-07-25T07:04:08.000000Z"
+                    },
+                    {
+                        "price": 125,
+                        "date": "2023-07-25T07:02:36.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-07-24T07:00:59.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-07-23T07:02:08.000000Z"
+                    },
+                    {
+                        "price": 109,
+                        "date": "2023-07-22T07:02:16.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "UNKNOWN"
+                    },
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "peanotter",
+                        "display_name": "Pean\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 589,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2436,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 23.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 50.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 13.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 8.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 9.9,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 21.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "stivelse",
+                        "display_name": "Stivelse",
+                        "amount": 1.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-10T17:29:33.000000Z",
+                "updated_at": "2023-09-06T01:10:03.000000Z"
+            },
+            {
+                "id": 38193,
+                "name": "Pistasjn\u00f8tter 2kg",
+                "brand": "",
+                "vendor": null,
+                "ean": "7050370001025",
+                "url": "https://engrosnett.no/snacks-notter/notter-og-snacks/pistasjnotter-2kg",
+                "image": "https://engrosnett.no/image/frukt-og-gronnsaker/notter/955187-955187.jpg?lb=true&v=638181110306630000",
+                "category": null,
+                "description": null,
+                "ingredients": "Pistasjn&#248;tter, salt",
+                "current_price": 739,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Engrosnett",
+                    "code": "ENGROSSNETT_NO",
+                    "url": "https://engrosnett.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Engrosnett.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 739,
+                        "date": "2023-10-27T07:10:55.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-26T07:12:25.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-25T07:16:06.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-24T07:15:53.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-23T07:14:07.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-22T07:11:16.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-21T07:14:20.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-20T07:13:40.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-19T07:11:42.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-18T07:12:09.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-17T07:15:39.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-16T07:16:25.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-15T07:17:02.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-14T07:15:23.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-13T07:15:49.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-12T07:11:46.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-11T07:15:12.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-10T07:15:54.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-09T07:12:44.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-08T07:15:33.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-07T07:14:16.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-06T07:16:33.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-05T07:15:57.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-04T07:14:39.000000Z"
+                    },
+                    {
+                        "price": 665,
+                        "date": "2023-10-03T07:16:45.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "melk",
+                        "display_name": "Melk",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 0,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 0,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-01-13T18:11:13.000000Z",
+                "updated_at": "2023-10-27T07:10:55.000000Z"
+            },
+            {
+                "id": 48008,
+                "name": "Den Lille N\u00f8ttefabrikken Pistasjn\u00f8tter L\u00f8svekt",
+                "brand": "DEN LILLE N\u00d8TTEFABRIKKEN",
+                "vendor": "BRYNILD GRUPPEN AS",
+                "ean": "7050370001025",
+                "url": "https://matlevering.coop.no/snacks-og-godteri/notter/dln-pistasjnotter-2kg-losvekt",
+                "image": "https://cdcimg.coop.no/rte/RTE2/7050370001025.png",
+                "category": null,
+                "description": "Knekk av skallet og opplev de velsmakende pistasjn\u00f8ttene drysset med havsalt for \u00e5 heve smaken p\u00e5 n\u00f8ttene og gi deg en uimotst\u00e5elig snacksopplevelse.",
+                "ingredients": "Pistasjn\u00f8tter, salt",
+                "current_price": 1059,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Coop",
+                    "code": "COOP_NO",
+                    "url": "https://matlevering.coop.no",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Coop.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 1059,
+                        "date": "2022-09-15T14:39:57.000000Z"
+                    },
+                    {
+                        "price": 1059,
+                        "date": "2022-08-04T22:43:35.000000Z"
+                    },
+                    {
+                        "price": 1059,
+                        "date": "2022-07-30T18:59:55.000000Z"
+                    },
+                    {
+                        "price": 1059,
+                        "date": "2022-07-17T02:10:30.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "melk",
+                        "display_name": "Melk",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 564,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2362,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 45,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 19,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 21,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 8,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-07-17T02:10:30.000000Z",
+                "updated_at": "2023-07-16T23:40:46.000000Z"
+            },
+            {
+                "id": 53441,
+                "name": "PISTASJN\u00d8TTER SALTE 150 g m/skall Eldorado",
+                "brand": null,
+                "vendor": null,
+                "ean": "7035620035555",
+                "url": "https://nettbutikk.bunnpris.no/itemdetail.aspx?itemno=7035620035555&itemgrpno=&grpnm=&deptno=",
+                "image": "https://nettbutikk.bunnpris.no/itemImages/7035620035555_0_f.png",
+                "category": [
+                    {
+                        "id": 60,
+                        "depth": -2,
+                        "name": "Snacks & godteri"
+                    },
+                    {
+                        "id": 61,
+                        "depth": -1,
+                        "name": "N\u00f8tter"
+                    },
+                    {
+                        "id": 207,
+                        "depth": 0,
+                        "name": "Pistasjen\u00f8tter"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 52.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Bunnpris",
+                    "code": "BUNNPRIS",
+                    "url": "https://bunnpris.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Bunnpris.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-27T07:21:44.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-26T07:22:59.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-25T07:20:04.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-24T07:18:32.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-23T07:19:49.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-22T07:17:54.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-21T07:16:39.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-20T07:19:07.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-19T07:19:55.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-18T07:18:45.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-17T07:19:57.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-16T07:18:30.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-15T07:18:40.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-14T07:18:22.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-13T07:19:00.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-12T07:20:16.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-11T07:19:56.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-10T07:20:04.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-09T07:17:58.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-08T07:17:16.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-07T07:19:06.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-06T07:19:56.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-05T07:18:28.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-04T07:19:32.000000Z"
+                    },
+                    {
+                        "price": 52.9,
+                        "date": "2023-10-03T07:18:36.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "peanotter",
+                        "display_name": "Pean\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2022-10-31T22:14:38.000000Z",
+                "updated_at": "2023-10-27T07:21:44.000000Z"
+            },
+            {
+                "id": 62924,
+                "name": "Pistasjn\u00f8tter 300g Natur Haven",
+                "brand": "Natur haven",
+                "vendor": "Vatan engros as",
+                "ean": "7072620011011",
+                "url": "https://kiwi.no/aktuelt/dagligvarer/#7072620011011",
+                "image": "https://bilder.ngdata.no/7072620011011/kiwi/large.jpg",
+                "category": [
+                    {
+                        "id": 60,
+                        "depth": -2,
+                        "name": "Snacks & godteri"
+                    },
+                    {
+                        "id": 61,
+                        "depth": -1,
+                        "name": "N\u00f8tter"
+                    },
+                    {
+                        "id": 207,
+                        "depth": 0,
+                        "name": "Pistasjen\u00f8tter"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Ristede pistasjen\u00f8tter, salt",
+                "current_price": 88.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "KIWI",
+                    "code": "KIWI",
+                    "url": "https://kiwi.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Kiwi.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 88.9,
+                        "date": "2023-04-13T06:59:37.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-04-13T02:20:49.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-04-12T08:10:59.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-04-11T07:44:51.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-04-09T22:29:16.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-04-08T08:26:30.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-04-05T11:13:11.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-04-04T18:27:36.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-03-24T19:25:22.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-03-23T09:17:58.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-03-22T10:44:36.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-03-20T03:58:13.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-03-18T11:52:23.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-03-17T11:24:10.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-03-15T09:52:12.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-03-13T07:54:06.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-03-09T11:43:47.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-03-07T06:28:43.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-03-06T12:08:01.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-03-06T11:59:47.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-03-04T13:02:26.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-03-03T07:51:08.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-02-27T09:19:13.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-02-27T09:17:48.000000Z"
+                    },
+                    {
+                        "price": 88.9,
+                        "date": "2023-02-25T17:23:51.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 657,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2716,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 58.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 7.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 6.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 21.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 2.8,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2022-12-11T20:53:28.000000Z",
+                "updated_at": "2023-07-16T23:42:47.000000Z"
+            },
+            {
+                "id": 70796,
+                "name": "DLN Pistasjn\u00f8tter 70g",
+                "brand": null,
+                "vendor": null,
+                "ean": "9800001275701",
+                "url": "https://www.holdbart.no/dln-pistasjn%C3%B8tter-70g",
+                "image": "https://www.holdbart.no/images/thumbs/0000386_dln-pistasjnotter-70g_550.png",
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": 19.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Holdbart",
+                    "code": "HOLDBART",
+                    "url": "https://www.holdbart.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Holdbart.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 19.9,
+                        "date": "2023-05-11T13:15:01.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-05-10T17:56:52.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-05-09T14:45:40.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-05-08T02:44:18.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-05-06T11:10:31.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-05-05T12:49:39.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-05-03T11:50:00.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-05-02T13:14:47.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-05-01T10:59:12.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-30T08:49:17.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-29T14:09:03.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-28T10:28:01.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-27T12:43:17.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-26T20:03:42.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-25T10:13:22.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-24T09:34:34.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-23T10:09:09.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-23T00:50:15.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-21T11:57:38.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-20T10:59:51.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-19T11:50:33.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-18T09:32:33.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-17T14:37:22.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-16T05:39:17.000000Z"
+                    },
+                    {
+                        "price": 19.9,
+                        "date": "2023-04-14T09:45:51.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2023-04-13T05:04:44.000000Z",
+                "updated_at": "2023-07-16T23:43:44.000000Z"
+            },
+            {
+                "id": 80112,
+                "name": "Pistasjn\u00f8tter Iran 1kg Sosa",
+                "brand": "SOSA",
+                "vendor": "A LA CARTE PRODUKTER AS",
+                "ean": "8414933396130",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/8414933396130",
+                "category": null,
+                "description": null,
+                "ingredients": "Pistasjn\u00f8tter",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 1,
+                "weight_unit": "kg",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "cashewnott",
+                        "display_name": "Cashewn\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 603,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2522.9,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 51.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 11.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 6.14,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 17.65,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 3,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T00:14:34.000000Z",
+                "updated_at": "2023-09-06T01:12:23.000000Z"
+            },
+            {
+                "id": 83194,
+                "name": "Pistasjn\u00f8tter 175g Rema 1000",
+                "brand": "Rema 1000",
+                "vendor": "REMA 1000 NORGE AS (LEV.)",
+                "ean": "7032069716717",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7032069716717",
+                "category": null,
+                "description": null,
+                "ingredients": "Pistasjn\u00f8tter med skall (98,6 %), salt",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 175,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "cashewnott",
+                        "display_name": "Cashewn\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 627,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2599,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "enumettet_fett",
+                        "display_name": "Enumettet fett",
+                        "amount": 28,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 51,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "flerumettet_fett",
+                        "display_name": "Flerumettet fett",
+                        "amount": 15,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 15,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 8.2,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 23,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1.4,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 7.4,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T02:04:04.000000Z",
+                "updated_at": "2023-09-06T01:12:49.000000Z"
+            },
+            {
+                "id": 84525,
+                "name": "Pistachios Ristede, Saltede Pistasjn\u00f8tter med Skall",
+                "brand": "Coop",
+                "vendor": "COOP TRADING AS",
+                "ean": "7340011336808",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7340011336808",
+                "category": null,
+                "description": null,
+                "ingredients": "Pistasjn\u00f8tter 98,5 % (USA), salt. Kan inneholde spor av mandler, hasseln\u00f8tter, valn\u00f8tter, cashewn\u00f8tter, pekann\u00f8tter, makadamian\u00f8tter og pean\u00f8tter. Pakket i beskyttende atmosf\u00e6re.",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 150,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "cashewnott",
+                        "display_name": "Cashewn\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 604,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2503,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 49,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 10,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 6.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 27,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1.5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 5.6,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T02:36:56.000000Z",
+                "updated_at": "2023-09-06T01:12:59.000000Z"
+            },
+            {
+                "id": 84615,
+                "name": "Forest Feast Californiske Pistasjn\u00f8tter 120g",
+                "brand": "Forest Feast",
+                "vendor": "GOURMET IMPORT AS",
+                "ean": "5022374050288",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/5022374050288",
+                "category": [
+                    {
+                        "id": 60,
+                        "depth": -2,
+                        "name": "Snacks & godteri"
+                    },
+                    {
+                        "id": 61,
+                        "depth": -1,
+                        "name": "N\u00f8tter"
+                    },
+                    {
+                        "id": 207,
+                        "depth": 0,
+                        "name": "Pistasjen\u00f8tter"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Pistasjn\u00f8tter, salt, havsalt",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 120,
+                "weight_unit": "g",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "peanotter",
+                        "display_name": "Pean\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 522,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2184,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 41.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 25.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 10.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 5.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 19.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 4.27,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 7,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T02:37:02.000000Z",
+                "updated_at": "2023-09-06T01:13:00.000000Z"
+            },
+            {
+                "id": 103511,
+                "name": "Pistasjn\u00f8tter",
+                "brand": "Den Lille N\u00f8ttefabrikken",
+                "vendor": "BRYNILD AS",
+                "ean": "7050370001025",
+                "url": "",
+                "image": "https://api.vetduat.no/api/images/large/7050370001025",
+                "category": null,
+                "description": null,
+                "ingredients": "Pistasjn\u00f8tter, salt",
+                "current_price": null,
+                "current_unit_price": null,
+                "weight": 2,
+                "weight_unit": "kg",
+                "store": null,
+                "price_history": [],
+                "allergens": [
+                    {
+                        "code": "melk",
+                        "display_name": "Melk",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 564,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2362,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 45,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 19,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 5,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 21,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 8,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T03:02:16.000000Z",
+                "updated_at": "2023-09-06T01:15:37.000000Z"
+            },
+            {
+                "id": 118975,
+                "name": "Pistasjn\u00f8tter Ristede&Saltede 300g Lille Ekorn",
+                "brand": null,
+                "vendor": "Bama dagligvare  as",
+                "ean": "7040512834031",
+                "url": "https://spar.no/nettbutikk/varer/snacks-og-godteri/notter/pistasjenotter/pistasjnotter-7040512834031",
+                "image": "https://bilder.ngdata.no/7040512834031/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 60,
+                        "depth": -2,
+                        "name": "Snacks & godteri"
+                    },
+                    {
+                        "id": 61,
+                        "depth": -1,
+                        "name": "N\u00f8tter"
+                    },
+                    {
+                        "id": 207,
+                        "depth": 0,
+                        "name": "Pistasjen\u00f8tter"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 99.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 99.9,
+                        "date": "2023-08-03T07:02:33.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-08-02T07:02:37.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-08-01T07:03:59.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-31T07:02:43.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-30T07:02:52.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-29T07:02:08.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-28T07:02:28.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-27T07:02:49.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-26T07:02:41.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-25T07:03:28.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-24T07:04:13.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-24T07:02:52.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-23T07:02:22.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-22T07:02:29.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-21T07:02:12.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-20T07:02:20.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-19T07:02:31.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-18T07:02:19.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-17T07:02:18.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-16T07:02:30.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-15T07:02:36.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-14T07:02:15.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-13T07:02:48.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-12T07:02:29.000000Z"
+                    },
+                    {
+                        "price": 99.9,
+                        "date": "2023-07-11T07:02:39.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "UNKNOWN"
+                    },
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "peanotter",
+                        "display_name": "Pean\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 589,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2436,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 50.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 8.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 21.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-11T14:17:05.000000Z",
+                "updated_at": "2023-08-03T07:02:33.000000Z"
+            },
+            {
+                "id": 122670,
+                "name": "Pistasjn\u00f8tter California 120g Forest Feast",
+                "brand": "Forest feast",
+                "vendor": "Gourmet import",
+                "ean": "5022374050288",
+                "url": "https://spar.no/nettbutikk/varer/snacks-og-godteri/notter/pistasjenotter/pistasjnotter-5022374050288",
+                "image": "https://bilder.ngdata.no/5022374050288/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 60,
+                        "depth": -2,
+                        "name": "Snacks & godteri"
+                    },
+                    {
+                        "id": 61,
+                        "depth": -1,
+                        "name": "N\u00f8tter"
+                    },
+                    {
+                        "id": 207,
+                        "depth": 0,
+                        "name": "Pistasjen\u00f8tter"
+                    }
+                ],
+                "description": null,
+                "ingredients": "Pistasjn\u00f8tter, salt, havsalt",
+                "current_price": 72.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "SPAR",
+                    "code": "SPAR_NO",
+                    "url": "https://spar.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Spar.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 72.9,
+                        "date": "2023-08-03T07:02:47.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-08-02T07:02:51.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-08-01T07:04:03.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-31T07:02:50.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-30T07:02:57.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-29T07:02:39.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-28T07:02:49.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-27T07:03:08.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-26T07:02:53.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-25T07:03:31.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-24T07:04:33.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-23T07:02:28.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-22T07:02:32.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-21T07:02:16.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-20T07:02:37.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-19T07:02:32.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-18T07:02:35.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-17T07:02:33.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-16T07:02:41.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-15T07:02:39.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-14T07:02:29.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-13T07:02:53.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-12T07:02:33.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-11T07:02:37.000000Z"
+                    },
+                    {
+                        "price": 72.9,
+                        "date": "2023-07-10T07:02:27.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "peanotter",
+                        "display_name": "Pean\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 522,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2184,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 41.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 25.7,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "kostfiber",
+                        "display_name": "Kostfiber",
+                        "amount": 10.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 5.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 19.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 4.27,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 7,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [
+                    {
+                        "name": "e_merket",
+                        "display_name": "e-merket",
+                        "description": "E-merket er en valgfri merkeordning for ferdigpakninger i EU/E\u00d8S-land, som sikrer korrekt nettoinnhold. Det gir forbrukerne trygghet og tillit til produktene de kj\u00f8per.",
+                        "organization": null,
+                        "alternative_names": null,
+                        "type": null,
+                        "year_established": 2008,
+                        "about": "<div>\u212e-tegnet, ogs\u00e5 kjent som e-merket eller e-symbolet, er en valgfri merkeordning for ferdigpakninger som eksporteres mellom EU/E\u00d8S-land, inkludert Norge. Regelverket for e-merket er basert p\u00e5 <a href=\"https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=celex:31976L0211\">EU-direktiv 76/211/EEC</a> og implementeres i Norge gjennom E\u00d8S-avtalen og <a href=\"https://lovdata.no/dokument/LTI/forskrift/2007-12-21-1730\">forskriften om krav til nettoinnhold i ferdigpakninger</a>. \u212e-tegnet st\u00e5r for \"quantit\u00e9 estim\u00e9e\" (fransk for \"antatt mengde\").<br><br>Form\u00e5let med e-merket er \u00e5 sikre at ferdigpakninger inneholder minst like mye som angitt p\u00e5 pakken. Merket brukes p\u00e5 produkter fylt til forh\u00e5ndsbestemte vektklasser eller volum, fra 5 gram/5 ml til 10 kg/10 l. Grenser er fastsatt for tillatt avvik fra oppgitt innhold i hver pakning.<br><br>Bedrifter kan velge \u00e5 bruke e-merket, men m\u00e5 f\u00f8lge forskriften og melde fra til Justervesenet. Import av e-merkede varer pakket utenfor EU/E\u00d8S-omr\u00e5det er ulovlig uten godkjenning fra Justervesenet. Ved e-merking i et annet EU-/E\u00d8S-land er ikke godkjenning fra Justervesenet n\u00f8dvendig.<br><br>E-merket er en viktig indikator for forbrukerne, da det garanterer at ferdigpakningene oppfyller kravene til nettoinnhold. Dette sikrer riktig mengde i produktene og forhindrer feilinformasjon. Ved \u00e5 bruke e-merket viser bedrifter at de leverer kvalitetsprodukter og f\u00f8lger regelverket for nettoinnhold i ferdigpakninger.</div>",
+                        "note": null,
+                        "icon": {
+                            "svg": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/svg/E-Merket.svg",
+                            "png": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/labels/png/E-Merket.png"
+                        }
+                    }
+                ],
+                "created_at": "2023-06-11T14:17:36.000000Z",
+                "updated_at": "2023-08-03T07:02:47.000000Z"
+            },
+            {
+                "id": 174551,
+                "name": "Pistasjn\u00f8tter Ristede&Saltede 300g Lille Ekorn",
+                "brand": null,
+                "vendor": "Bama dagligvare  as",
+                "ean": "7040512834031",
+                "url": "https://joker.no/nettbutikk/varer/snacks-godteri/notter/pistasjenotter/pistasjnotter-7040512834031",
+                "image": "https://bilder.ngdata.no/7040512834031/kmh/large.jpg",
+                "category": [
+                    {
+                        "id": 60,
+                        "depth": -2,
+                        "name": "Snacks & godteri"
+                    },
+                    {
+                        "id": 61,
+                        "depth": -1,
+                        "name": "N\u00f8tter"
+                    },
+                    {
+                        "id": 207,
+                        "depth": 0,
+                        "name": "Pistasjen\u00f8tter"
+                    }
+                ],
+                "description": null,
+                "ingredients": null,
+                "current_price": 99,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "Joker",
+                    "code": "JOKER_NO",
+                    "url": "https://joker.no/nettbutikk/varer",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Joker.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 99,
+                        "date": "2023-08-03T07:02:06.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-08-02T07:02:25.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-08-01T07:01:44.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-31T07:01:54.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-30T07:01:36.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-29T07:02:26.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-28T07:01:54.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-27T07:02:29.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-26T07:02:21.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-25T07:01:54.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-24T07:02:22.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-23T07:01:47.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-22T07:02:15.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-21T07:02:00.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-20T07:01:43.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-19T07:02:01.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-18T07:01:42.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-17T07:02:09.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-16T07:02:16.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-15T07:02:22.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-14T07:01:33.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-13T07:02:31.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-12T07:02:09.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-11T07:02:17.000000Z"
+                    },
+                    {
+                        "price": 99,
+                        "date": "2023-07-10T07:02:27.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "UNKNOWN"
+                    },
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    },
+                    {
+                        "code": "peanotter",
+                        "display_name": "Pean\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    }
+                ],
+                "nutrition": [
+                    {
+                        "code": "energi_kcal",
+                        "display_name": "Kalorier",
+                        "amount": 589,
+                        "unit": "kcal"
+                    },
+                    {
+                        "code": "energi_kj",
+                        "display_name": "Energi",
+                        "amount": 2436,
+                        "unit": "kj"
+                    },
+                    {
+                        "code": "fett_totalt",
+                        "display_name": "Fett",
+                        "amount": 50.3,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "karbohydrater",
+                        "display_name": "Karbohydrater",
+                        "amount": 8.1,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "mettet_fett",
+                        "display_name": "Mettet fett",
+                        "amount": 5.8,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "protein",
+                        "display_name": "Protein",
+                        "amount": 21.6,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "salt",
+                        "display_name": "Salt",
+                        "amount": 0,
+                        "unit": "g"
+                    },
+                    {
+                        "code": "sukkerarter",
+                        "display_name": "Sukkerarter",
+                        "amount": 0,
+                        "unit": "g"
+                    }
+                ],
+                "labels": [],
+                "created_at": "2023-06-13T14:31:29.000000Z",
+                "updated_at": "2023-08-03T07:02:05.000000Z"
+            },
+            {
+                "id": 181711,
+                "name": "PISTASJN\u00d8TTER 175G R",
+                "brand": null,
+                "vendor": null,
+                "ean": "7032069716717",
+                "url": "",
+                "image": null,
+                "category": null,
+                "description": null,
+                "ingredients": null,
+                "current_price": 48.9,
+                "current_unit_price": null,
+                "weight": null,
+                "weight_unit": null,
+                "store": {
+                    "name": "REMA 1000",
+                    "code": "REMA_1000",
+                    "url": "https://rema.no",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/Rema 1000.svg"
+                },
+                "price_history": [
+                    {
+                        "price": 48.9,
+                        "date": "2023-06-28T10:08:30.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-06-28T09:53:33.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-06-28T09:04:31.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-06-28T08:56:11.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-06-18T20:12:26.000000Z"
+                    },
+                    {
+                        "price": 48.9,
+                        "date": "2023-06-18T19:47:01.000000Z"
+                    }
+                ],
+                "allergens": [
+                    {
+                        "code": "blotdyr",
+                        "display_name": "Bl\u00f8tdyr",
+                        "contains": "NO"
+                    },
+                    {
+                        "code": "cashewnott",
+                        "display_name": "Cashewn\u00f8tter",
+                        "contains": "CAN_CONTAIN_TRACES"
+                    },
+                    {
+                        "code": "notter",
+                        "display_name": "N\u00f8tter",
+                        "contains": "YES"
+                    }
+                ],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2023-06-18T19:47:01.000000Z",
+                "updated_at": "2023-07-16T23:46:35.000000Z"
+            },
+            {
+                "id": 195621,
+                "name": "Pistasjn\u00f8tter ristet saltet \u00f8kologisk (250gr)",
+                "brand": null,
+                "vendor": "Manna",
+                "ean": "",
+                "url": "https://slowly.no/products/pistasjnoter-ristet-saltet-250gr",
+                "image": "https://cdn.shopify.com/s/files/1/0557/7411/8083/files/pistasjnoter-ristet-saltet-250gr-front.png?v=1684833509",
+                "category": null,
+                "description": "Smaksrike og sunne n\u00f8tter som egentlig er fr\u00f8.\u00a0Vanskelig\u00a0\u00e5 slutte \u00e5 spise n\u00e5r du f\u00f8rst er igang.De beste pistasjn\u00f8ttene vi har funnet, by far..",
+                "ingredients": null,
+                "current_price": 78,
+                "current_unit_price": 288.89,
+                "weight": 270,
+                "weight_unit": "g",
+                "store": {
+                    "name": "Slowly.no",
+                    "code": "SLOWLY",
+                    "url": "https://slowly.no/",
+                    "logo": "https://cdn.kassal.app/e230903b-b4fa-4e88-a43d-59df08089994/logos/slowly.jpeg"
+                },
+                "price_history": [
+                    {
+                        "price": 78,
+                        "date": "2023-10-27T09:49:45.000000Z"
+                    }
+                ],
+                "allergens": [],
+                "nutrition": [],
+                "labels": [],
+                "created_at": "2023-10-27T09:49:45.000000Z",
+                "updated_at": "2023-10-27T09:49:45.000000Z"
+            }
+        ]
+    ]
+}

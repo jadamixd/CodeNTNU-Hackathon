@@ -6,7 +6,7 @@ cap = cv2.VideoCapture(0)  # 0 represents the default camera (usually the built-
 # Initialize the movable border coordinates
 x1, y1, x2, y2 = 100, 100, 300, 200
 
-# Variables for handling mouse events
+# Variables for handling mouse events 
 dragging = False
 start_x, start_y = None, None
 
@@ -59,3 +59,5 @@ while True:
 # When everything is done, release the capture
 cap.release()
 cv2.destroyAllWindows()
+
+#Hei
