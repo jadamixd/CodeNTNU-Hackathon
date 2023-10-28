@@ -56,9 +56,14 @@
                 </canvas>
             </div>
         </div>
-        <a id="download" download="face.jpg">
+        <a id="download">
             <button onclick="myFunction();" style="margin-top: 20px; font-size: 20px; padding: 10px 20px;" class="btn btn-primary" type="button">
                 Capture
+            </button>
+        </a>
+        <a id="nextpage" href="/information" style="display: none;">
+            <button style="margin-top: 20px; font-size: 20px; padding: 10px 20px;" class="btn btn-primary" type="button">
+                Go to info page
             </button>
         </a>
     </main>
@@ -84,6 +89,9 @@
     
                 // Send the captured image data to the server
                 saveImageOnServer(imageDataURL);
+
+                document.getElementById("nextpage").style.display = "block";
+
             }
     
             // Function to send the image data to the server (unchanged)
