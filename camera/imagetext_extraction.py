@@ -26,16 +26,16 @@ def extract_text_from_image(image_path):
 
 def extracting_relevant_text(extracted_text):
 
-    openai.organization = "org-ujCZoyOS98nGQMRGFeZvk1Ix"
-    openai.api_key = "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"
+    openai.organization = "org-9OoTo5Wv0pe2EQPsMF29hS2M"
+    openai.api_key = "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"
 
-    # openai.Model.list()
+    openai.Model.list()
 
     response = openai.Completion.create(
-        model="text-davinci-003",
+        model="gpt-3.5-turbo-0613",
         prompt=str(
             f"Kan du filtrere ut matvarene i teksten og sette det inn i en python liste?: {extracted_text}"),
-        max_tokens=20,
+        max_tokens=200,
         temperature=20
     )
 
