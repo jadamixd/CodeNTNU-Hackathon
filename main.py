@@ -2,6 +2,7 @@
 from PIL import Image
 import pytesseract as pyt
 import numpy as np
+import cv2
 
 def main():
     # Other file imports
