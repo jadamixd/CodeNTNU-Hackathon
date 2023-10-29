@@ -5,10 +5,9 @@ import cv2
 import numpy as np
 
 # Path to the Tesseract executable (update this with your installation path)
-pyt.pytesseract.tesseract_cmd = r'C:\Users\Jakob\AppData\Local\Programs\Tesseract-OCR\tesseract.exe'
+pyt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
-# Function to extract text from an image using OCR
-
+# Function to sharpen and extract text from an image using OCR
 
 def extract_text_from_image(image_path):
     try:
@@ -84,7 +83,6 @@ def extract_text_from_image(image_path):
 
 # Function to extract the relevant parts from the extracted string
 
-
 def extracting_relevant_text(extracted_text):
     try:
         # INSERT YOU OPENAI ORGANIZATION AND API KEY HERE
@@ -106,7 +104,6 @@ def extracting_relevant_text(extracted_text):
         )
 
         extracted_text_list = response['choices'][0]['message']['content'].strip('"').split(",")
-        # extracted_text_list = response['choices'][0]['text'].split(",")
 
         print(extracted_text_list)
 
