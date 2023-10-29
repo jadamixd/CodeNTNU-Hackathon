@@ -1,4 +1,5 @@
 from flask import Flask, render_template, request
+from PIL import Image
 import base64
 
 app = Flask(__name__)
@@ -14,11 +15,13 @@ def save_image():
 
         # Define the directory to save the images
         image_directory = 'static/'
+        image_path = r'static\reciept.jpg'
         
         # Save the image to a file in the specified directory
         with open(image_directory + 'reciept.jpg', 'wb') as f:
             f.write(image_binary)
         
+        image = Image.open(image_path).transpose(Image.ROTATE_270).save(image_path)
         return 'Image saved successfully', 200
     
     except Exception as e:
