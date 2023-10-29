@@ -1,6 +1,7 @@
 # CodeNTNU-Hackathon
 Hackathon October 2023
 
+Required libraries with correct versions
 ```
  pip install -r requirements.txt 
 ```
