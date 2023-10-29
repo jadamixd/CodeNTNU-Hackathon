@@ -1,8 +1,6 @@
 # Library imports
-from PIL import Image
+
 import pytesseract as pyt
-import numpy as np
-import cv2
 
 def main():
     # Other file imports
@@ -18,6 +16,7 @@ def main():
     # Provide the path to the image of the receipt
     # Change path to the processed image
     image_path = r'static\reciept.jpg'
+    # image_path = r'mockdata\kvitto.jpg'
 
     # Call the OCR function
     extracted_text = extract_text_from_image(image_path)

@@ -59,7 +59,7 @@ def extract_text_from_image(image_path):
 
         # Applying CLAHE to L-channel
         # feel free to try different values for the limit and grid size:
-        clahe = cv2.createCLAHE(clipLimit=0.5, tileGridSize=(3,3))
+        clahe = cv2.createCLAHE(clipLimit=0.5, tileGridSize=(2,2))
         cl = clahe.apply(l_channel)
 
         # merge the CLAHE enhanced L-channel with the a and b channel
@@ -86,25 +86,33 @@ def extract_text_from_image(image_path):
 
 
 def extracting_relevant_text(extracted_text):
-    try:
+    # try:
         # insert organization and api key
 
         # openai.Model.list()
 
-        response = openai.Completion.create(
-            model="text-davinci-003",
-            prompt=str(
-                f"Kan du filtrere ut matvarer fra kvitteringen under og gi det som en komma separert streng? Rett opp i skrivefeil, og ignorer tall og ord som ikke er mat: {extracted_text}"),
+        message=[
+            {"role": "system", 
+                  "content": "Du er en data analytiker som er god til å filtrere ut matvarer fra en tekst."},
+            {"role": "user", 
+                  "content": str(f"Kan du filtrere ut matvarer fra kvitteringen under og gi det som en komma separert streng med kun alle matvarene? Ikke oversett noen ting, rett opp i skrivefeil, og ignorer tall og ord som ikke er mat: {extracted_text}")}
+                  
+                ]
+
+        response = openai.ChatCompletion.create(
+            model="gpt-4",
             max_tokens=2000,
-            temperature=0
+            temperature=1.5,
+            messages=message
         )
 
-        extracted_text_list = response['choices'][0]['text'].split(",")
+        extracted_text_list = response['choices'][0]['message']['content'].strip('"').split(",")
+        # extracted_text_list = response['choices'][0]['text'].split(",")
 
         print(extracted_text_list)
 
         return extracted_text_list
 
-    except:
-        print("total failure!")
-        return []
+    # except:
+    #     print("total failure!")
+    #     return []
