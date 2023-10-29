@@ -9,9 +9,7 @@ def main():
     # -------------------------------- #
 
     # Path to the Tesseract executable (update this with your installation path)
-    pyt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe' #For WIN
-
-    #pyt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe' #For MAC
+    pyt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe' #For WIN, change if you have MAC
 
     # Provide the path to the image of the receipt
     # Change path to the processed image
