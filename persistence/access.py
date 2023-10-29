@@ -18,7 +18,16 @@ def add_customer(conn, username=0, password=0):
 # Legg til en kvittering i Reciept-tabellen
 def add_receipt(conn, shopName=0, customerID=0):
     cursor = conn.cursor()
-    cursor.execute("INSERT INTO Reciept (shopName, customerID) VALUES (?, ?)", (shopName, customerID))
+    cursor.execute("SELECT MAX(recieptID) FROM Reciept")
+    max_reciept_id = cursor.fetchone()[0]
+
+    # Increment the highest recieptID or set to 1 if no records exist
+    if max_reciept_id is not None:
+        recieptID = max_reciept_id + 1
+    else:
+        recieptID = 1
+        
+    cursor.execute("INSERT INTO Reciept (recieptID, shopName, customerID) VALUES (?, ?)", (recieptID, shopName, customerID))
     conn.commit()
 
 # Legg til et element i ItemInRecipt-tabellen

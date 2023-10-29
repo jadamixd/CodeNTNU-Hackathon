@@ -4,6 +4,7 @@ import base64
 
 app = Flask(__name__)
 from main import main
+import persistence.access as access 
 
 @app.route('/save-image', methods=['POST'])
 def save_image():
@@ -15,7 +16,7 @@ def save_image():
 
         # Define the directory to save the images
         image_directory = 'static/'
-        image_path = r'static\reciept.jpg'
+        image_path = r'static/reciept.jpg'
         
         # Save the image to a file in the specified directory
         with open(image_directory + 'reciept.jpg', 'wb') as f:
@@ -34,8 +35,25 @@ def index():
 @app.route('/information')
 def information():
     data = main()
+    
     # data = ["ADS", "ADSJIDAS", "AHSDH", "AGSHD", "AOSIDPAS", "AOSPIJ"]
     return render_template('information.html', data=data)
 
+@app.route('/db-save-and-redirect', methods=['POST'])
+def save_and_redirect():
+    # Add your Python code to run the script here
+    items = request.form['data']
+    conn = access.connect_to_database("persistence/data.db")
+    access.add_receipt(conn, "Example shop", 1)
+    
+    for item in items:
+        access.add_item(conn, item, None, 1, 0)
+    
+    # You can perform any necessary operations
+    # For example, print some data or perform some processing
+
+    # After running the script, redirect to the index page
+    return render_template('index.html')
+
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=8080)

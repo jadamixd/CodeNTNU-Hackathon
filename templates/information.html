@@ -73,6 +73,12 @@
                 {% endfor %}
             </div>
         </div>
+        <form method="POST" action="/db-save-and-redirect">
+            <input type="hidden" name="data" value="{{ data }}">
+            <button style="margin-top: 20px; font-size: 20px; padding: 10px 20px;" class="btn btn-primary" type="submit">
+                Save information
+            </button>
+        </form>
     </main>
     <script>
         $(document).ready(function() {
