@@ -73,6 +73,11 @@
                 {% endfor %}
             </div>
         </div>
+        <form method="POST" action="/save">
+            <button style="margin-top: 20px; font-size: 20px; padding: 10px 20px;" class="btn btn-primary" type="submit">
+                Confirm
+            </button>
+        </form>
     </main>
     <script>
         $(document).ready(function() {
@@ -92,6 +97,5 @@
 			});
 		});
     </script>
-
 </body>
 </html>

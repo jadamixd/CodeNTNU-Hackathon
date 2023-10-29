@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import base64
 
 app = Flask(__name__)
-# from main import main
+from main import main
 
 @app.route('/save-image', methods=['POST'])
 def save_image():
@@ -30,9 +30,17 @@ def index():
 
 @app.route('/information')
 def information():
-    # data = main()
-    data = ["ADS", "ADSJIDAS", "AHSDH", "AGSHD", "AOSIDPAS", "AOSPIJ"]
+    data = main()
+    # data = ["ADS", "ADSJIDAS", "AHSDH", "AGSHD", "AOSIDPAS", "AOSPIJ"]
     return render_template('information.html', data=data)
 
+@app.route('/save', methods=['POST'])
+def save():
+    # Add your Python code to handle the button click here
+    # You can access form data using request.form
+
+    # For example, you can print the form data:
+    print(request.form)
+    
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=8080)
