@@ -86,10 +86,9 @@ def extract_text_from_image(image_path):
 
 
 def extracting_relevant_text(extracted_text):
-    # try:
-        # insert organization and api key
+    try:
+        # INSERT YOU OPENAI ORGANIZATION AND API KEY HERE
 
-        # openai.Model.list()
 
         message=[
             {"role": "system", 
@@ -113,6 +112,6 @@ def extracting_relevant_text(extracted_text):
 
         return extracted_text_list
 
-    # except:
-    #     print("total failure!")
-    #     return []
+    except:
+        print("total failure!")
+        return []
