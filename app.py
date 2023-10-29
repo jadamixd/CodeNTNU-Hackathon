@@ -1,3 +1,4 @@
+import os
 from flask import Flask, render_template, request
 from PIL import Image
 import base64
@@ -5,6 +6,9 @@ import base64
 app = Flask(__name__)
 from main import main
 import persistence.access as access 
+
+app.config['UPLOAD_FOLDER'] = 'static'
+app.config['ALLOWED_EXTENSIONS'] = {'jpg'}
 
 @app.route('/save-image', methods=['POST'])
 def save_image():
@@ -38,6 +42,29 @@ def information():
     
     # data = ["ADS", "ADSJIDAS", "AHSDH", "AGSHD", "AOSIDPAS", "AOSPIJ"]
     return render_template('information.html', data=data)
+
+def allowed_file(filename):
+    return '.' in filename and filename.rsplit('.', 1)[1].lower() in app.config['ALLOWED_EXTENSIONS']
+
+@app.route('/upload', methods=['POST'])
+def upload_image():
+    # Check if a file was submitted
+    if 'image' not in request.files:
+        return 'No file part', 400
+
+    file = request.files['image']
+
+    # Check if the file is allowed
+    if file.filename == '' or not allowed_file(file.filename):
+        return 'Invalid file', 400
+
+    # Save the uploaded image to the server
+    if file:
+        filename = os.path.join(app.config['UPLOAD_FOLDER'], 'reciept.jpg')
+        file.save(filename)
+        data = main()
+        return render_template('information.html', data=data)
+
 
 @app.route('/db-save-and-redirect', methods=['POST'])
 def save_and_redirect():
