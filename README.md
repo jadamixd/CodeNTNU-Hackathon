@@ -1,7 +1,7 @@
 # CodeNTNU-Hackathon
 Hackathon October 2023
 
-Required libraries with correct versions
+Required libraries with correct versions. Will not work with newest version of numpy. 
 ```
  pip install -r requirements.txt 
 ```
