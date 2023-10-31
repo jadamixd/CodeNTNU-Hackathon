@@ -12,3 +12,5 @@ For the full code to work '/camera/imagetext_extraction/' needs an OpenAI API ke
 If you use mac you need to change the things listed below:
 - update the tesseract_cmd file in path main.py to you tesseract installation path.
 - you may have to change the relative filepaths for images in main.py and imagetext_extraction.py as Windows uses "\" in filepaths, while MAC uses "/".
+
+Weigth_data map used for object detection training. Was not used in final due to lack of training. Options: Vertex.ai or Grayscaling and white contour as used in lasst update. 
